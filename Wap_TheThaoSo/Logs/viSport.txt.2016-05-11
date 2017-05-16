@@ -1,0 +1,48 @@
+2016-05-11 17:35:05,397 [DEBUG] 8 File - -----------------------------------------------
+2016-05-11 17:35:05,427 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+2016-05-11 17:35:05,467 [DEBUG] 8 File - --------- ClientIP VINAPHONE -------------
+2016-05-11 17:35:05,467 [DEBUG] 8 File - ::1
+2016-05-11 17:35:05,467 [DEBUG] 8 File - --------- ClientIP VIETTEL -------------
+2016-05-11 17:35:05,467 [DEBUG] 8 File - ::1
+2016-05-11 17:35:05,477 [DEBUG] 8 File - --------- ClientIP VNM -------------
+2016-05-11 17:35:05,477 [DEBUG] 8 File - ::1
+2016-05-11 17:37:02,552 [DEBUG] 10 File - -----------------------------------------------
+2016-05-11 17:37:02,552 [DEBUG] 10 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+2016-05-11 17:37:02,562 [DEBUG] 10 File - --------- ClientIP VINAPHONE -------------
+2016-05-11 17:37:02,562 [DEBUG] 10 File - ::1
+2016-05-11 17:37:02,562 [DEBUG] 10 File - --------- ClientIP VIETTEL -------------
+2016-05-11 17:37:02,562 [DEBUG] 10 File - ::1
+2016-05-11 17:37:02,562 [DEBUG] 10 File - --------- ClientIP VNM -------------
+2016-05-11 17:37:02,562 [DEBUG] 10 File - ::1
+2016-05-11 17:37:10,074 [DEBUG] 9 File - -----------------------------------------------
+2016-05-11 17:37:10,074 [DEBUG] 9 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+2016-05-11 17:38:02,540 [DEBUG] 14 File - -----------------------------------------------
+2016-05-11 17:38:02,540 [DEBUG] 14 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+2016-05-11 17:55:03,682 [DEBUG] 9 File - -----------------------------------------------
+2016-05-11 17:55:03,702 [DEBUG] 9 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+2016-05-11 17:55:03,712 [DEBUG] 9 File - --------- ClientIP VINAPHONE -------------
+2016-05-11 17:55:03,712 [DEBUG] 9 File - ::1
+2016-05-11 17:55:03,722 [DEBUG] 9 File - --------- ClientIP VIETTEL -------------
+2016-05-11 17:55:03,722 [DEBUG] 9 File - ::1
+2016-05-11 17:55:03,722 [DEBUG] 9 File - --------- ClientIP VNM -------------
+2016-05-11 17:55:03,722 [DEBUG] 9 File - ::1
+2016-05-11 17:55:13,876 [DEBUG] 9 File - -----------------------------------------------
+2016-05-11 17:55:13,876 [DEBUG] 9 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+2016-05-11 17:55:13,986 [INFO] 9 File -  
+2016-05-11 17:55:13,986 [INFO] 9 File -  
+2016-05-11 17:55:13,986 [INFO] 9 File - ------ 3G Charging ---------
+2016-05-11 17:55:13,986 [INFO] 9 File - 3G Begin Charging Request: userID:841882406279; serviceID:1000
+2016-05-11 17:55:14,092 [INFO] 9 File - 3G Call Deduct method: 841882406279 | 1000 | VMGViSport | v@#port | 1930 | CauHoiMayMan
+2016-05-11 17:55:14,485 [DEBUG] 9 841882406279 - ---1---
+2016-05-11 17:55:18,082 [DEBUG] 9 File - -----------------------------------------------
+2016-05-11 17:55:18,082 [DEBUG] 9 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+2016-05-11 17:55:24,387 [DEBUG] 8 File - -----------------------------------------------
+2016-05-11 17:55:24,387 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+2016-05-11 17:55:24,763 [INFO] 8 File -  
+2016-05-11 17:55:24,763 [INFO] 8 File -  
+2016-05-11 17:55:24,763 [INFO] 8 File - ------ 3G Charging ---------
+2016-05-11 17:55:24,763 [INFO] 8 File - 3G Begin Charging Request: userID:841882406279; serviceID:1000
+2016-05-11 17:55:24,763 [INFO] 8 File - 3G Call Deduct method: 841882406279 | 1000 | VMGViSport | v@#port | 1930 | CauHoiMayMan
+2016-05-11 17:55:25,073 [DEBUG] 8 841882406279 - ---1---
+2016-05-11 17:55:27,042 [DEBUG] 9 File - -----------------------------------------------
+2016-05-11 17:55:27,042 [DEBUG] 9 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0

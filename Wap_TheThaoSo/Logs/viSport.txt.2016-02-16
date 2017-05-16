@@ -1,0 +1,664 @@
+2016-02-16 11:13:49,959 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:13:49,993 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:13:50,006 [DEBUG] 8 File - --------- ClientIP VINAPHONE -------------
+2016-02-16 11:13:50,006 [DEBUG] 8 File - ::1
+2016-02-16 11:13:50,010 [DEBUG] 8 File - --------- ClientIP VIETTEL -------------
+2016-02-16 11:13:50,010 [DEBUG] 8 File - ::1
+2016-02-16 11:13:50,012 [DEBUG] 8 File - --------- ClientIP VNM -------------
+2016-02-16 11:13:50,012 [DEBUG] 8 File - ::1
+2016-02-16 11:16:22,028 [DEBUG] 11 File - -----------------------------------------------
+2016-02-16 11:16:22,028 [DEBUG] 11 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:17:25,977 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:17:25,977 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:18:28,196 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 11:18:28,196 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:19:30,428 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:19:30,428 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:20:32,660 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:20:32,660 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:21:34,797 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:21:34,797 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:22:36,963 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:22:36,963 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:23:41,436 [DEBUG] 10 File - -----------------------------------------------
+2016-02-16 11:23:41,454 [DEBUG] 10 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:24:45,165 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:24:45,165 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:25:19,380 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 11:25:19,401 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:29:39,262 [DEBUG] 10 File - -----------------------------------------------
+2016-02-16 11:29:39,280 [DEBUG] 10 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:31:28,966 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:31:28,966 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:32:04,376 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 11:32:04,376 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:33:07,424 [DEBUG] 10 File - -----------------------------------------------
+2016-02-16 11:33:07,424 [DEBUG] 10 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:34:09,760 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:34:09,760 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:35:12,023 [DEBUG] 11 File - -----------------------------------------------
+2016-02-16 11:35:12,023 [DEBUG] 11 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:36:15,763 [DEBUG] 11 File - -----------------------------------------------
+2016-02-16 11:36:15,763 [DEBUG] 11 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:37:18,278 [DEBUG] 10 File - -----------------------------------------------
+2016-02-16 11:37:18,278 [DEBUG] 10 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:38:20,884 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 11:38:20,884 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:39:22,842 [DEBUG] 11 File - -----------------------------------------------
+2016-02-16 11:39:22,842 [DEBUG] 11 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:40:25,948 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:40:25,948 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:41:28,353 [DEBUG] 11 File - -----------------------------------------------
+2016-02-16 11:41:28,354 [DEBUG] 11 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:42:30,612 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:42:30,612 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:43:32,948 [DEBUG] 10 File - -----------------------------------------------
+2016-02-16 11:43:32,948 [DEBUG] 10 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:44:35,215 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 11:44:35,215 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:45:37,514 [DEBUG] 10 File - -----------------------------------------------
+2016-02-16 11:45:37,514 [DEBUG] 10 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:46:39,768 [DEBUG] 11 File - -----------------------------------------------
+2016-02-16 11:46:39,768 [DEBUG] 11 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:47:42,051 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:47:42,051 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:48:11,150 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 11:48:11,169 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:48:38,968 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:48:38,968 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:48:47,114 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:48:47,114 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:52:40,003 [DEBUG] 10 File - -----------------------------------------------
+2016-02-16 11:52:40,026 [DEBUG] 10 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:52:45,873 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:52:45,873 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:54:00,729 [DEBUG] 10 File - -----------------------------------------------
+2016-02-16 11:54:00,748 [DEBUG] 10 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:54:20,887 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 11:54:20,887 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:54:59,325 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 11:54:59,325 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:58:30,999 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:58:31,019 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 11:59:37,093 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 11:59:37,093 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 12:00:33,619 [DEBUG] 11 File - -----------------------------------------------
+2016-02-16 12:00:33,619 [DEBUG] 11 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 13:55:40,343 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 13:55:40,409 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 13:56:47,853 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 13:56:47,853 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 13:57:17,679 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 13:57:17,698 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 13:57:28,946 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 13:57:28,946 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 13:58:30,151 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 13:58:30,151 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 13:59:32,502 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 13:59:32,502 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:00:34,803 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 14:00:34,803 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:01:40,703 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 14:01:40,723 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:02:44,443 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:02:44,443 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:03:33,910 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:03:33,910 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:07:27,297 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 14:07:27,297 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:08:31,924 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 14:08:31,924 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:09:34,862 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 14:09:34,862 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:10:37,133 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 14:10:37,133 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:11:40,108 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:11:40,108 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:12:43,174 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 14:12:43,174 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:13:45,438 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:13:45,438 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:14:47,700 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:14:47,700 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:15:49,904 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 14:15:49,904 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:16:52,605 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 14:16:52,605 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:17:54,804 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 14:17:54,804 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:18:57,013 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:18:57,013 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:19:59,303 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 14:19:59,303 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:20:30,220 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 14:20:30,239 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:22:25,505 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 14:22:25,523 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:22:25,566 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2016-02-16 14:22:25,566 [DEBUG] 5 File - ::1
+2016-02-16 14:22:25,576 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2016-02-16 14:22:25,576 [DEBUG] 5 File - ::1
+2016-02-16 14:22:25,578 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2016-02-16 14:22:25,578 [DEBUG] 5 File - ::1
+2016-02-16 14:22:30,911 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 14:22:30,911 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:31:55,571 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 14:31:55,589 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:36:07,825 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 14:36:07,843 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:36:13,216 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 14:36:13,216 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:36:17,742 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:36:17,742 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:36:22,362 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 14:36:22,362 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:36:24,168 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:36:24,168 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:37:24,645 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 14:37:24,646 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:37:59,053 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:37:59,072 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:38:19,939 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:38:19,939 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:39:22,281 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 14:39:22,281 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:40:24,609 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 14:40:24,610 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:40:34,680 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 14:40:34,698 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:40:40,495 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:40:40,495 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:41:18,905 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 14:41:18,905 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:42:15,779 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 14:42:15,779 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:43:33,385 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 14:43:33,385 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:43:37,792 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:43:37,792 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:43:39,433 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 14:43:39,433 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:44:39,986 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:44:39,986 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:45:42,449 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 14:45:42,449 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:46:44,803 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 14:46:44,803 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:47:47,027 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 14:47:47,027 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:48:49,243 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:48:49,243 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:49:51,450 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:49:51,450 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:50:55,488 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 14:50:55,509 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:51:23,311 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 14:51:23,311 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:52:25,746 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:52:25,746 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:53:27,963 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:53:27,963 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:54:30,184 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 14:54:30,184 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:55:32,514 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 14:55:32,514 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:56:35,991 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 14:56:35,991 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:57:38,541 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 14:57:38,541 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:58:40,779 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 14:58:40,779 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 14:59:43,109 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 14:59:43,109 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:00:45,436 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:00:45,436 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:01:49,007 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:01:49,007 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:02:04,925 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 15:02:04,944 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:04:06,693 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:04:06,693 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:05:09,136 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:05:09,136 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:05:33,363 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:05:33,363 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:06:07,196 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:06:07,197 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:06:47,554 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:06:47,554 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:07:19,512 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:07:19,512 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:10:01,764 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:10:01,764 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:11:36,111 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:11:36,111 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:12:47,231 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:12:47,231 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:13:04,947 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:13:04,947 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:13:59,591 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:13:59,591 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:15:10,097 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:15:10,097 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:16:32,925 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:16:32,925 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:17:35,188 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:17:35,188 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:18:37,438 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:18:37,438 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:19:04,369 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:19:04,369 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:19:06,610 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:19:06,610 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:19:12,114 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:19:12,114 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:20:18,313 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:20:18,333 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:21:08,663 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 15:21:08,663 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:22:11,305 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:22:11,305 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:23:13,538 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:23:13,538 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:24:15,839 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:24:15,839 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:25:18,132 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:25:18,132 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:26:06,189 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:26:06,189 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:27:08,447 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:27:08,447 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:27:22,057 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:27:22,057 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:28:24,066 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:28:24,067 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:29:26,281 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:29:26,281 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:30:28,538 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:30:28,538 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:31:32,237 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:31:32,237 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:32:34,708 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:32:34,708 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:33:36,972 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:33:36,972 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:34:39,235 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:34:39,235 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:35:41,515 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:35:41,515 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:36:44,660 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 15:36:44,660 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:37:47,021 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:37:47,021 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:38:16,955 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:38:16,974 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:38:20,121 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:38:20,121 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:38:20,202 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:38:20,202 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:39:22,328 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 15:39:22,328 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:40:24,628 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 15:40:24,628 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:41:26,947 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:41:26,947 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:42:29,203 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:42:29,204 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:43:32,217 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:43:32,217 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:44:34,492 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:44:34,492 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:45:24,821 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:45:24,841 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:46:29,823 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:46:29,823 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:47:32,058 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:47:32,058 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:48:28,037 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:48:28,056 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:18,997 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:49:18,997 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:24,686 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:49:24,686 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:24,691 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 15:49:24,691 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:27,070 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:49:27,070 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:27,075 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:49:27,075 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:30,060 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:49:30,060 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:30,068 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:49:30,068 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:32,202 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:49:32,202 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:32,211 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:49:32,211 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:44,170 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:49:44,170 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:44,172 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:49:44,172 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:46,884 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:49:46,884 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:46,887 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 15:49:46,887 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:49,343 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 15:49:49,343 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:49,345 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:49:49,345 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:53,291 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:49:53,291 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:49:53,301 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:49:53,301 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:50:55,402 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:50:55,402 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:51:58,259 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 15:51:58,259 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:53:01,978 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:53:01,979 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:54:04,635 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:54:04,635 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:55:07,112 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:55:07,112 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:55:51,057 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 15:55:51,081 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:55:52,121 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 15:55:52,121 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:56:55,065 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 15:56:55,065 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:57:57,377 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 15:57:57,377 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 15:58:59,681 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 15:58:59,681 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:00:03,796 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 16:00:03,797 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:01:10,726 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:01:10,726 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:01:29,391 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 16:01:29,410 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:01:35,084 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 16:01:35,084 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:01:35,090 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:01:35,090 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:01:37,560 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:01:37,560 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:01:37,564 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:01:37,564 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:01:40,872 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:01:40,872 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:01:40,877 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:01:40,877 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:01:45,706 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:01:45,706 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:01:45,716 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:01:45,716 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:01:50,876 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:01:50,876 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:02:00,205 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:02:00,205 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:02:14,116 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:02:14,116 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:06:23,713 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:06:23,731 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:07:26,854 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:07:26,854 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:08:19,964 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:08:19,985 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:08:46,699 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:08:46,699 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:08:49,548 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:08:49,548 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:09:41,788 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:09:41,788 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:12:00,040 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:12:00,058 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:13:21,908 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:13:21,926 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:14:19,100 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:14:19,118 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:14:51,930 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:14:51,930 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:14:55,334 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 16:14:55,334 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:15:19,056 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 16:15:19,056 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:16:21,469 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 16:16:21,469 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:17:23,624 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 16:17:23,625 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:18:25,765 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 16:18:25,765 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:19:27,898 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:19:27,898 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:20:30,034 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 16:20:30,034 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:21:32,207 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:21:32,207 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:22:34,354 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:22:34,354 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:23:36,555 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:23:36,555 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:24:38,846 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:24:38,846 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:25:40,971 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:25:40,971 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:26:43,114 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:26:43,114 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:28:36,121 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:28:36,121 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:29:38,557 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 16:29:38,557 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:30:40,809 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:30:40,809 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:31:43,807 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:31:43,807 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:32:46,045 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:32:46,045 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:33:48,297 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:33:48,298 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:34:50,569 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:34:50,570 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:35:52,867 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 16:35:52,867 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:36:55,584 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:36:55,584 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:37:57,837 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:37:57,838 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:38:20,950 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:38:20,950 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:38:28,063 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:38:28,063 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:38:29,445 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:38:29,445 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:38:54,617 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:38:54,617 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:38:55,991 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:38:55,991 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:39:09,972 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:39:09,972 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:40:12,114 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:40:12,115 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:41:14,320 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:41:14,320 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:42:16,484 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:42:16,484 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:43:18,639 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:43:18,639 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:44:20,785 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:44:20,785 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:44:44,844 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:44:44,844 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:44:46,240 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:44:46,240 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:44:47,595 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:44:47,595 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:44:48,911 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:44:48,911 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:44:50,645 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:44:50,645 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:44:54,656 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:44:54,656 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:44:56,926 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:44:56,926 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:44:57,577 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:44:57,577 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:45:59,042 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:45:59,042 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:47:01,441 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:47:01,442 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:48:04,643 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:48:04,643 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:49:06,830 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:49:06,830 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:50:09,087 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:50:09,087 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:51:11,704 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:51:11,704 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:52:14,068 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 16:52:14,068 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:53:17,603 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:53:17,604 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:54:21,986 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:54:21,986 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:55:25,133 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:55:25,136 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:56:27,386 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:56:27,386 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:57:29,911 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 16:57:29,911 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:58:32,152 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 16:58:32,152 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 16:59:34,363 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 16:59:34,363 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:00:04,741 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:00:04,741 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:00:07,200 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:00:07,200 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:00:34,303 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:00:34,303 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:01:08,402 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:01:08,403 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:01:19,880 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:01:19,880 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:01:31,279 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:01:31,279 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:01:44,841 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:01:44,841 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:01:55,939 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:01:55,939 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:02:04,548 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:02:04,548 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:03:14,899 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:03:14,899 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:04:21,756 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:04:21,757 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:05:27,389 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:05:27,389 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:06:35,527 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:06:35,527 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:07:41,124 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:07:41,124 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:08:46,504 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 17:08:46,504 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:09:52,250 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:09:52,250 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:10:57,298 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:10:57,298 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:12:05,257 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:12:05,257 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:13:10,493 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:13:10,493 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:14:15,522 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:14:15,522 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:15:20,519 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:15:20,519 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:15:41,087 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 17:15:41,087 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:16:43,912 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:16:43,912 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:17:46,440 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 17:17:46,440 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:18:06,513 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:18:06,513 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:19:11,547 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:19:11,547 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:20:13,988 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:20:13,988 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:21:16,566 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:21:16,566 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:22:18,977 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 17:22:18,977 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:23:21,481 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:23:21,481 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:24:23,944 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:24:23,944 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:25:26,399 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:25:26,399 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:26:28,957 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:26:28,957 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:27:31,387 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:27:31,387 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:28:33,808 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:28:33,808 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:29:36,255 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:29:36,255 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:30:38,711 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:30:38,711 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:31:41,129 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:31:41,129 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:32:43,544 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:32:43,544 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:33:45,958 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:33:45,958 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:34:48,442 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:34:48,442 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:35:50,955 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:35:50,955 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:36:53,831 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:36:53,831 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:37:56,398 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:37:56,398 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:38:58,834 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:38:58,834 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:40:01,442 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 17:40:01,442 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:41:06,314 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 17:41:06,314 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:42:08,710 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:42:08,710 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:43:11,187 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:43:11,187 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:44:13,662 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:44:13,662 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:45:16,098 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:45:16,098 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:46:18,911 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:46:18,911 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:47:21,642 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:47:21,642 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:48:24,076 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:48:24,076 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:49:26,505 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:49:26,505 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:50:28,987 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:50:28,987 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:51:31,567 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:51:31,567 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:52:34,108 [DEBUG] 8 File - -----------------------------------------------
+2016-02-16 17:52:34,108 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:53:36,506 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:53:36,506 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:54:38,944 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:54:38,944 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:55:41,428 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:55:41,428 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:56:43,912 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:56:43,912 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:57:46,307 [DEBUG] 6 File - -----------------------------------------------
+2016-02-16 17:57:46,307 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:58:48,760 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 17:58:48,760 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 17:59:52,211 [DEBUG] 5 File - -----------------------------------------------
+2016-02-16 17:59:52,211 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36
+2016-02-16 18:00:54,845 [DEBUG] 7 File - -----------------------------------------------
+2016-02-16 18:00:54,845 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/53.2.131 Chrome/47.2.2526.131 Safari/537.36

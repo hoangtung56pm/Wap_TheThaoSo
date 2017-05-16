@@ -1,0 +1,5582 @@
+/* CSS Document */
+
+
+body
+{
+	margin: auto;
+	padding: 0;
+	font-family: Arial;
+	font-size: 12px;
+	background-color: #ffffff;
+}
+
+
+.textNonDecoration
+{
+	text-decoration: none;
+}
+.background-white
+{
+	background-color: #ffffff;
+}
+.background-xam
+{
+	background-color: #a2a2a2;
+}
+.background-xam-F4F4F4
+{
+	background-color: #F4F4F4;
+}
+
+.background-xam-e0e0e0
+{
+	background-color: #e0e0e0;
+}
+.background-xam-dadada
+{
+	background-color: #dadada;
+}
+.background-xam-b8b8b8
+{
+	background-color: #b8b8b8;
+}
+.background-xanh
+{
+	background-color: #1B65A2;
+}
+.background-red
+{
+	background-color: #CD244F;
+}
+.background-FFECC2
+{
+	background-color: #FFECC2;
+}
+
+.background-xanh-nhat
+{
+	background-color:#9BC9FB;
+}
+
+.color-white
+{
+	color: #ffffff;
+}
+.color-xam
+{
+	color: #a2a2a2;
+}
+.color-xam737373
+{
+	color: #737373;
+}
+.color-red
+{
+	/*color: #b10228;*/
+	color: #FF6600;
+}
+.color-black
+{
+	color: #000;
+}
+
+.color-chitiet
+{
+	/*color: #82021D;*/
+	color:#FF6600;
+}
+
+.upper-case
+{
+	text-transform: uppercase;
+}
+.bold
+{
+	font-weight: bold;
+}
+.text-align-center
+{
+	text-align: center;
+}
+.text-align-right
+{
+	text-align: right;
+}
+.height44px
+{
+	height: 44px;
+}
+.height40px
+{
+	height: 40px;
+}
+.height36px
+{
+	height: 36px;
+}
+.height22px
+{
+	height: 22px;
+}
+.height25px
+{
+	height: 25px;
+}
+.height18px
+{
+	height: 18px;
+}
+.height19px
+{
+	height: 19px;
+}
+.width30px
+{
+	width: 30px;
+}
+.width40px
+{
+	width: 40px;
+}
+
+.width49px
+{
+	width: 49px;
+}
+
+.width50px
+{
+	width: 50px;
+}
+.width60px
+{
+	width: 60px;
+}
+.width70px
+{
+	width: 70px;
+}
+.width80px
+{
+	width: 80px;
+}
+.width90px
+{
+	width: 90px;
+}
+.width100px
+{
+	width: 100px;
+}
+.width125px
+{
+	width: 145px;
+}
+.width190px
+{
+	width: 190px;
+}
+.width10percent
+{
+	width: 10%;
+}
+.width20percent
+{
+	width: 20%;
+}
+.width25percent
+{
+	width: 25%;
+}
+.width28percent
+{
+	width: 28%;
+}
+.width30percent
+{
+	width: 30%;
+}
+
+.width32percent
+{
+	width: 32%;
+}
+
+.width33percent
+{
+	width: 33.15%;
+}
+.width34percent
+{
+	width: 33.3%;
+}
+.width50percent
+{
+	width: 50%;
+}
+.width60percent
+{
+	width: 60%;
+}
+.width70percent
+{
+	width: 70%;
+}
+.width80percent
+{
+	width: 80%;
+}
+.width100percent
+{
+	width: 100%;
+}
+
+.margin-left1px
+{
+	margin-left: 1px;
+}
+.margin-left2px
+{
+	margin-left: 2px;
+}
+.margin-left3px
+{
+	margin-left: 3px;
+}
+.margin-left5px
+{
+	margin-left: 5px;
+}
+.margin-top1px
+{
+	margin-top: 1px;
+}
+.margin-top2px
+{
+	margin-top: 2px;
+}
+.margin-top3px
+{
+	margin-top: 3px;
+}
+.margin-top5px
+{
+	margin-top: 5px;
+}
+.margin-right2px
+{
+	margin-right: 2px;
+}
+.margin-right5px
+{
+	margin-right: 5px;
+}
+.margin-left15px
+{
+	margin-left: 15px;
+}
+.padding-top2px
+{
+	padding-top: 2px;
+}
+.padding-left5px
+{
+	padding-left: 5px;
+}
+.padding-left10px
+{
+	padding-left: 10px;
+}
+.padding-left15px
+{
+	padding-left: 15px;
+}
+.padding-left20px
+{
+	padding-left: 20px;
+}
+.padding-left25px
+{
+	padding-left: 25px;
+}
+.padding-left30px
+{
+	padding-left: 30px;
+}
+.padding-right5px
+{
+	padding-right: 5px;
+}
+.padding-right7px
+{
+	padding-right: 7px;
+}
+.padding-right15px
+{
+	padding-right: 15px;
+}
+.floatleft
+{
+	float: left;
+}
+.floatright
+{
+	float: right;
+}
+.lineheight
+{
+	line-height: 18px;
+}
+.lineheight22
+{
+	line-height: 22px;
+}
+.lineheight25
+{
+	line-height: 25px;
+}
+.lineheight36
+{
+	line-height: 36px;
+}
+.lineheight90
+{
+	line-height: 90px;
+}
+
+.font9px
+{
+	font-size: 9px;
+}
+
+.font10px
+{
+	font-size: 10px;
+}
+
+.font11px
+{
+	font-size: 11px;
+}
+
+.font12px
+{
+	font-size: 12px;
+}
+
+.font13px
+{
+	font-size: 13px;
+}
+.font14px
+{
+	font-size: 14px;
+}
+.font16px
+{
+	font-size: 16px;
+}
+.font20px
+{
+	font-size: 20px;
+}
+.red
+{
+	color: #b10228;
+}
+.justify
+{
+	text-align: justify;
+}
+.separator40px-ffffff
+{
+	float: left;
+	width: 1px;
+	background-color: #ffffff;
+	height: 40px;
+}
+.separator40px-d3d3d3
+{
+	float: left;
+	width: 1px;
+	background-color: #d3d3d3;
+	height: 40px;
+}
+.separator25px-d3d3d3
+{
+	float: left;
+	width: 1px;
+	background-color: #d3d3d3;
+	height: 25px;
+}
+.separator25px-e0e0e0
+{
+	float: left;
+	width: 1px;
+	background-color: #e0e0e0;
+	height: 25px;
+}
+.separator25px-ffffff
+{
+	float: left;
+	width: 1px;
+	background-color: #ffffff;
+	height: 25px;
+}
+.separator36px-e0e0e0
+{
+	float: left;
+	width: 1px;
+	background-color: #e0e0e0;
+	height: 36px;
+}
+.separator36px-ffffff
+{
+	float: left;
+	width: 1px;
+	background-color: #ffffff;
+	height: 36px;
+}
+.separator22px-e0e0e0
+{
+	float: left;
+	width: 1px;
+	background-color: #e0e0e0;
+	height: 22px;
+}
+.separator22px-ffffff
+{
+	float: left;
+	width: 1px;
+	background-color: #ffffff;
+	height: 22px;
+}
+.separator18px-ffffff
+{
+	float: left;
+	width: 1px;
+	background-color: #ffffff;
+	height: 18px;
+}
+.clear0px
+{
+	clear: both;
+}
+.clear1px
+{
+	clear: both;
+	height: 1px;
+}
+.clear2px
+{
+	clear: both;
+	height: 2px;
+}
+.clear3px
+{
+	clear: both;
+	height: 3px;
+}
+.clear4px
+{
+	clear: both;
+	height: 4px;
+}
+.clear5px
+{
+	clear: both;
+	height: 5px;
+}
+
+.clear6px
+{
+	clear: both;
+	height: 6px;
+}
+.clear7px
+{
+	clear: both;
+	height: 7px;
+}
+.clear10px
+{
+	clear: both;
+	height: 10px;
+}
+.clear15px
+{
+	clear: both;
+	height: 15px;
+}
+
+.clearright1px
+{
+	clear: right;
+	height: 1px;
+}
+.clearright2px
+{
+	clear: right;
+	height: 2px;
+}
+.clearright3px
+{
+	clear: right;
+	height: 3px;
+}
+.clearright4px
+{
+	clear: right;
+	height: 4px;
+}
+.clearright5px
+{
+	clear: right;
+	height: 5px;
+}
+
+.combo
+{
+	border: 1px solid #969696;
+}
+/*start header*/
+
+#wrapper
+{
+	margin: auto;
+	width: 100%;
+}
+
+#main
+{
+	float: left;
+	border: 1px solid #000;
+	width: 99.5%;
+}
+#header
+{
+	float: left;
+	width: 100%;
+}
+
+#header .logo
+{
+	/*background: #ffffff url('images/logo.png') no-repeat left;*/
+	/*background: #e6e6e6 url('images/logo.jpg') no-repeat left;*/
+	background: #e6e6e6 no-repeat left;
+	/*width: 106px;*/
+	width:100%;
+	height: 57px;
+	float: left;
+	margin: auto;
+}
+
+#header .logo1
+{
+	/*background: #ffffff url('images/logo.png') no-repeat left;*/
+	background: #e6e6e6 no-repeat left;
+	width: 186px;
+	height: 57px;
+	float: left;
+	margin: auto;
+}
+
+#header .header-in-top .logo .quangcao
+{
+	text-align: center;
+}
+
+#header .menu
+{
+	background: #a50225 url('images/menu_bg.jpg') repeat-x;
+	background-position: center;
+	width: 100%;
+	height: 24px;
+	float: left;
+}
+
+#header .menu ul
+{
+	display: block;
+	float: left;
+	font-size: 12px;
+	height: 24px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+#header .menu ul li
+{
+	display: block;
+	line-height:24px;
+	text-align: center;
+	float: left;
+	width: 70px;
+}
+
+#header .menu .none
+{
+	background: #a50225 url('images/menu_bg.jpg') repeat-x;
+	background-position: center;
+	width: 70px;
+
+	float: left;
+}
+
+#header .menu .none a
+{
+	color: #8b8b8b;
+	text-decoration: none;
+	vertical-align: middle;
+	font-weight: bold;
+
+	display: block;
+}
+
+#header .menu .selected
+{
+	/*background: #a50225 url('images/menu_bg_selected.jpg') repeat-x; */
+	background:#FF6600;
+	width: 70px;
+	height: 24px;
+	float: left;
+	padding-left:2px;
+	padding-right:2px;
+}
+
+#header .menu .selected a
+{
+	color: #ffffff;
+	text-decoration: none;
+	vertical-align: middle;
+	font-weight: bold;
+	
+	display: block;
+}
+
+#header .menu .separator
+{
+	background: #a50225 url('images/menu_separator.jpg');
+	width: 1px;
+	height: 24px;
+}
+
+#header .search
+{
+	background-color: #b8b8b8;
+	height: 32px;
+}
+
+#header .search .txtInput
+{
+	background-color: #f9f9f9;
+	width: 50%;
+	height: 24px;
+	border: 1px solid #969696;
+	margin-left: 4px;
+	margin-top: 2px;
+	float: left;
+}
+
+#header .search .bandaydu
+{
+	background-color: #a2a2a2;
+	float: left;
+	width: 30%;
+	padding-left: 4px;
+}
+
+#header .search .bandaydu a
+{
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 12px;
+	height: 32px;
+	padding-left: 10px;
+	line-height: 32px;
+}
+
+#header .running-text
+{
+	width: 100%;
+	overflow: hidden;
+	height: 18px;
+}
+
+#header .running-text a
+{
+	color: #000;
+	text-decoration: none;
+	line-height: 14px;
+}
+
+/*end header*/
+
+#content
+{
+	float: left;
+	width: 100%;
+}
+
+#content .home_content
+{
+	float: left;
+	width: 100%;
+}
+
+#content .home_content .quangcao
+{
+	text-align: center;
+}
+
+#content .home_content .home_conent_top
+{
+	width: 100%;
+}
+
+#content .home_content .home_conent_top .item .item-bg
+{
+	background: #ffffff url('images/other_category_repeat.jpg') repeat-x;
+	background-position: center;
+	width: 100%;
+	height: 15px;
+}
+#content .home_content .home_conent_top .item .item-top .red-separator
+{
+	/*background: #ffffff url('images/separator_red.jpg') no-repeat;*/
+	background:#FF6600;
+	width: 3px;
+	height: 15px;
+	float: left;
+}
+#content .home_content .home_conent_top .item .item-top a
+{
+	text-decoration: none;
+	font-weight: bold;
+	/*color: #b10228;*/
+	color:#FF6600;
+	font-size: 14px;
+}
+#content .home_content .home_conent_top .item .link-title-item-top
+{
+	text-decoration: none;
+	font-weight: bold;
+	/*color: #b10228;*/
+	color:#FF6600;
+	font-size: 14px;
+}
+
+#content .home_content .home_conent_top .image
+{
+	float: left;
+	padding-left: 4px;
+	padding-top: 5px;
+	margin-right: 5px;
+}
+
+#content .home_content .home_conent_top .item .text
+{
+}
+
+#content .home_content .home_conent_top .item .text a
+{
+	padding-top: 5px;
+	font-weight: bold;
+	text-decoration: none;
+	/*color: #b6022a;*/
+	color: #FF6600;
+}
+
+#content .home_content .home_conent_top .item .text-detail
+{
+	float: left;
+	padding-left: 1%;
+	width: 98%;
+	padding-top: 5px;
+	padding-right: 1%;
+}
+
+
+#content .home_content .home_conent_top .item .text-detail a
+{
+	text-decoration: none;
+	display:inline;
+}
+
+#content .home_content .home_conent_top .item .text-detail .sapo
+{
+	font-weight: bold;
+	padding-top: 5px;
+	width: 99%;
+	text-align: justify;
+}
+
+#content .home_content .home_conent_top .item .text-detail .other ul
+{
+	display: block;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+	width: 460px;
+	text-align: left;
+}
+
+#content .home_content .home_conent_top .item .text-detail .other ul li
+{
+	background: #ffffff url('images/icon-arrow.jpg') no-repeat;
+	background-position: left;
+	display: block;
+	line-height: 20px;
+	margin-left: 5px;
+}
+
+#content .home_content .home_conent_top .item .text-detail .other ul li a
+{
+	padding-left: 15px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #4e4e4e;
+	display: block;
+}
+/*other news*/
+#content .home_content .home_conent_top .item .other-news .text-top
+{
+	font-weight: bold;
+	color: #b10228;
+	padding-left: 5px;
+	width: 85px;
+	float: left;
+}
+
+#content .home_content .home_conent_top .item .other-news .other-new-bg
+{
+	background: #ffffff url('images/other-news-bg.jpg') repeat-x;
+	height: 12px;
+	width: 390px;
+	float: left;
+	background-position: center;
+}
+
+#content .home_content .home_conent_top .item .other-news ul
+{
+	display: block;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	text-align: left;
+}
+
+#content .home_content .home_conent_top .item .other-news ul li
+{
+	background: #ffffff url('images/icon-arrow.jpg') no-repeat;
+	background-position: left top;
+	display: block;
+	line-height: 20px;
+	margin-left: 5px;
+}
+
+#content .home_content .home_conent_top .item .other-news ul li a
+{
+	padding-left: 15px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #4e4e4e;
+	/* display: block; */
+}
+
+#content .home_content .home_conent_top .item .text-detail-in
+{
+	text-align: justify;
+	width: 100%;
+}
+
+#content .home_content .home_conent_top .item .other ul
+{
+	display: block;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+#content .home_content .home_conent_top .item .other ul li
+{
+	background: #ffffff url('images/icon-arrow.jpg') no-repeat;
+	background-position: left top;
+	display: block;
+	line-height: 20px;
+	margin-left: 5px;
+}
+
+#content .home_content .home_conent_top .item .other ul li a
+{
+	padding-left: 15px;
+	text-decoration: none;
+	/*color: #4e4e4e; */
+	color:#0033FF;
+	/* display: block; */
+}
+
+/*Tu van dac biet*/
+#content .home_content .home_conent_top .item .tuvan ul
+{
+	display: block;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	
+	list-style: none;
+}
+
+#content .home_content .home_conent_top .item .tuvan ul li
+{
+	background: #ffffff url('images/icon-bongda.png') no-repeat;
+	background-position: left;
+	line-height: 25px;
+	margin-left: 10px;
+}
+
+#content .home_content .home_conent_top .item .tuvan ul li a
+{
+	padding-left: 20px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #4e4e4e;
+	display: block;
+}
+
+
+#content .home_content .home_conent_top .item .tuvan .yellow
+{
+	color: #ff9000;
+	font-weight: bold;
+}
+
+#content .home_content .home_conent_top .item .taive
+{
+}
+
+#content .home_content .home_conent_top .item .taive a
+{
+	color: #000000;
+}
+
+
+#content .home_content .home_conent_top .item .link_taive
+{
+	font-weight: bold;
+	font-size: 12px;
+	color: #000000;
+	line-height: 26px;
+	vertical-align: top;
+	padding-left: 5px;
+}
+
+/*video*/
+
+
+#content .home_content .home_conent_bottom .item-video-alternate
+{
+	float: left;
+	background-color: #e0e0e0;
+	width: 100%;
+}
+
+#content .home_content .home_conent_bottom .item-video
+{
+	float: left;
+	width: 100%;
+}
+
+#content .home_content .home_conent_bottom .item-video .text
+{
+	float: left;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-right: 2px;
+}
+
+#content .home_content .home_conent_bottom .item-video .text a
+{
+	font-weight: bold;
+	text-decoration: none;
+	color: #000;
+}
+
+#content .home_content .home_conent_bottom .item-video-alternate .text
+{
+	float: left;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-right: 2px;
+}
+
+#content .home_content .home_conent_bottom .item-video-alternate .text a
+{
+	font-weight: bold;
+	text-decoration: none;
+	color: #000;
+}
+
+#content .home_content .home_conent_top .item .guitang
+{
+}
+
+#content .home_content .home_conent_top .item .guitang .btn_guitang
+{
+	color: #ffffff;
+	background-color: #b10228;
+	padding: 2px;
+	border: 1px solid #b10228;
+	font-weight: bold;
+	font-size: 11px;
+	font-family: Arial;
+}
+
+#content .home_content .home_conent_top .item .guitang .txt_guitang
+{
+	border: 1px solid #969696;
+	font-size: 11px;
+	font-family: Arial;
+	height: 18px;
+	line-height: 18px;
+}
+
+#content .home_content .home_conent_top .item .other-video ul
+{
+	display: block;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+	width: 460px;
+	text-align: left;
+}
+
+#content .home_content .home_conent_top .item .other-video ul li
+{
+	background: #ffffff url('images/icon-video.png') no-repeat;
+	background-position: left;
+	display: block;
+	line-height: 20px;
+	margin-left: 5px;
+}
+
+#content .home_content .home_conent_top .item .other-video ul li a
+{
+	padding-left: 15px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #4e4e4e;
+	display: block;
+}
+
+#content .home_content .home_conent_bottom
+{
+	width: 100%;
+}
+
+
+#content .home_content .home_conent_bottom .item-alternate
+{
+	width: 100%;
+	background-color: #e0e0e0;
+}
+
+#content .home_content .home_conent_bottom .item
+{
+	width: 100%;
+}
+#content .home_content .home_conent_bottom .item-bg
+{
+	background: #ffffff url('images/other_category_repeat.jpg') repeat-x;
+	background-position: center;
+	width: 100%;
+	height: 15px;
+}
+#content .home_content .home_conent_bottom .item-top .red-separator
+{
+	/* background: #ffffff url('images/separator_red.jpg') no-repeat; */
+	background:#FF6600 ;
+	width: 3px;
+	height: 15px;
+	float: left;
+}
+
+#content .home_content .home_conent_bottom .item-top a
+{
+	text-decoration: none;
+	font-weight: bold;
+	/* color: #b10228; */
+	color:#FF6600;
+	font-size: 14px;
+	display: block;
+}
+
+#content .home_content .home_conent_bottom .image
+{
+	float: left;
+	padding-left: 4px;
+	padding-top: 5px;
+	margin-right: 5px;
+}
+
+#content .home_content .home_conent_bottom .text
+{
+	float: left;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-right: 2px;
+}
+
+#content .home_content .home_conent_bottom .link-title
+{
+	font-weight: bold;
+	text-decoration: none;
+	color: #5f5f5f;
+}
+
+#content .home_content .home_conent_bottom .other ul
+{
+	display: block;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	display: block;
+}
+
+#content .home_content .home_conent_bottom .other ul li
+{
+	background: #ffffff url('images/icon-arrow.jpg') no-repeat;
+	background-position: left top;
+	display: block;
+	line-height: 20px;
+	margin-left: 5px;
+}
+
+#content .home_content .home_conent_bottom .other ul li a
+{
+	padding-left: 15px;
+	text-decoration: none;
+	/* color: #4e4e4e; */
+	color:#0033FF;
+	/* display: block; */
+}
+
+#content .home_content .home_conent_bottom .xemtiep
+{
+	padding-right: 5px;
+	font-size: 11px;
+	text-decoration: none;
+	/*color: #b10228;*/
+	color:#FF6600;
+}
+
+/*Dulieu*/
+.dulieu
+{
+}
+.dulieu a
+{
+	text-decoration: none;
+}
+.dulieu .dulieu-header
+{
+	background-color: #a2a2a2;
+	height: 25px;
+}
+.dulieu .item
+{
+}
+
+.dulieu .item .item-header
+{
+	/*background-color: #82021d;*/
+	background-color:#FF6600;
+	height: 23px;
+	line-height: 23px;
+}
+
+
+
+.dulieu .item .item-sub
+{
+}
+
+.dulieu .item .item-sub-alternate
+{
+	background-color: #f4f4f4;
+}
+
+.dulieu .item .datetime
+{
+	font-family: Arial;
+}
+/*chitietdoibong*/
+.chitietdoibong
+{
+}
+
+.chitietdoibong .bgred
+{
+	/* background-color: #b10228; */
+	background-color:#FF6600;
+	height: 80px;
+	text-align: center;
+	color: #ffffff;
+}
+.chitietdoibong .phongdo
+{
+	/*background-color: #b10228;*/
+	background-color: #FF6600;
+	height: 20px;
+}
+
+.chitietdoibong .phongdo a
+{
+	text-decoration: none;
+}
+
+.chitietdoibong .phongdo .item
+{
+	float:left;
+	width: 100%;
+	line-height: 18px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.chitietdoibong .phongdo .item-alternate
+{
+	float:left;
+	width: 100%;
+	background-color: #e0e0e0;
+	line-height: 18px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#GiaiTri
+{
+	float: left;
+	width: 100%;
+}
+#GiaiTri .giaitri-top .giaitri-image
+{
+	background: #ffffff url('images/giaitri.jpg') left;
+	width: 53px;
+	height: 15px;
+	float: left;
+}
+#GiaiTri .giaitri-top .giaitri-bg
+{
+	background: #ffffff url('images/other_category_repeat.jpg') repeat-x;
+	background-position: center;
+	width: 100%;
+	height: 15px;
+}
+
+#GiaiTri .giaitri-item
+{
+	width: 100%;
+	margin: auto;
+}
+
+#GiaiTri .giaitri-item .item
+{
+	width: 24%;
+	float: left;
+	font-size: 11px;
+	text-align: center;
+}
+
+
+#GiaiTri .giaitri-item .item a
+{
+	text-decoration: none;
+	color: #000;
+	display: block;
+}
+
+
+#GiaiTri .separator
+{
+	height: 1px;
+	background-color: #7f7f7f;
+}
+
+#othercategory
+{
+	float: left;
+	padding-bottom: 10px;
+	width: 100%;
+}
+#othercategory ul
+{
+	display: block;
+	font-size: 12px;
+	height: 24px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	padding: 5px;
+	width:90%;
+}
+
+#othercategory ul li
+{
+	background: #ffffff url('images/plus_yellow.jpg') no-repeat;
+	background-position: left;
+	display: block;
+	width: 100%;
+	height: 24px;
+	float:left;
+}
+
+#othercategory .yellow
+{
+	background-color: #ff9000;
+	text-transform: uppercase;
+	color: #ffffff;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#othercategory a
+{
+	color: #5a5a5a;
+	margin-left: 15px;
+	font-weight: bold;
+	padding-top: 5px;
+	float: left;
+	font-size: 14px;
+	text-decoration: none;
+	display: block;
+}
+
+#othercategory a:hover
+{
+	color: #a00224;
+	margin-left: 15px;
+	font-weight: bold;
+	padding-top: 5px;
+	float: left;
+	font-size: 14px;
+	text-decoration: none;
+	display: block;
+}
+
+.pagging
+{
+	text-align: center;
+	font-size: 13px;
+}
+
+.pagging a
+{
+	text-decoration: none;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: #5f5f5f;
+}
+
+.pagging a:hover
+{
+	/*color: #C2032A;*/
+	color:#FF6600;
+	text-decoration: underline;
+}
+
+.pagging .selected
+{
+	/*color: #C2032A;*/
+	color:#FF6600;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+#othercategory-dulieu
+{
+	float: left;
+	padding-bottom: 10px;
+	width: 100%;
+}
+#othercategory-dulieu ul
+{
+	display: block;
+	font-size: 12px;
+	height: 24px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	padding: 5px;
+}
+
+#othercategory-dulieu ul li
+{
+	background-position: left;
+	display: block;
+	width: 100%;
+	height: 24px;
+	float:left;
+}
+
+#othercategory-dulieu .yellow
+{
+	color: #ff9000;
+}
+
+#othercategory-dulieu .red
+{
+	color: #b20229;
+}
+
+
+#othercategory-dulieu a
+{
+	color: #5a5a5a;
+	margin-left: 5px;
+	font-weight: bold; /* padding-top: 5px; */
+	padding-top: 0px;
+	float: left;
+	font-size: 12px;
+	text-decoration: none;
+	display: block;
+}
+
+#othercategory-dulieu a:hover
+{
+	color: #a00224;
+	margin-left: 5px;
+	font-weight: bold; /*padding-top: 5px; */
+	padding-top: 0px;
+	float: left;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+#othercategory-dulieu .yellow a
+{
+	color: #ff9000;
+	display: block;
+}
+#othercategory-dulieu .yellow a:hover
+{
+	color: #ff9000;
+	display: block;
+}
+/*hinhanh*/
+
+#content .home_content .home_conent_bottom .hinhanh
+{
+	float: left;
+}
+
+#content .home_content .home_conent_bottom .hinhanh .item
+{
+	width: 33%;
+	float: left;
+	padding-bottom: 10px;
+}
+
+#content .home_content .home_conent_bottom .hinhanh .item .image
+{
+	float: left;
+}
+
+#content .home_content .home_conent_bottom .hinhanh .item .text
+{
+	float: left;
+	width: 103px;
+	font-size: 12px;
+	font-family: Arial;
+}
+
+
+#content .home_content .home_conent_bottom .hinhanh .item .text a
+{
+	float: left;
+	text-decoration: none;
+	/*color: #b6022a;*/
+	color:#FF6600;
+	font-size: 12px;
+	font-family: Arial;
+	display: block;
+}
+
+#content .home_content .home_conent_bottom .hinhanh .item .text a:hover
+{
+	float: left;
+	text-decoration: none;
+	color: #000;
+	font-size: 12px;
+	font-family: Arial;
+}
+
+#content .home_content .home_conent_bottom .hinhanh .item .text .tai a
+{
+	float: left;
+	text-decoration: none;
+	color: #000;
+	font-size: 12px;
+	font-family: Arial;
+	display: block;
+}
+
+#content .home_content .home_conent_bottom .hinhanh .item .text .tai a:hover
+{
+	float: left;
+	text-decoration: none;
+	color: #000;
+	font-size: 12px;
+	font-family: Arial;
+	display: block;
+}
+
+
+/*nhachuong*/
+
+#content .home_content .home_conent_bottom .nhachuong
+{
+	float: left;
+}
+
+#content .home_content .home_conent_bottom .nhachuong .item
+{
+	width: 100%;
+	float: left;
+}
+
+#content .home_content .home_conent_bottom .nhachuong .item .image
+{
+	float: left;
+}
+
+#content .home_content .home_conent_bottom .nhachuong .item .text
+{
+	float: left;
+	font-size: 12px;
+	font-family: Arial;
+	width:80%;
+}
+
+
+#content .home_content .home_conent_bottom .nhachuong .item .text a
+{
+	float: left;
+	text-decoration: none;
+	color: #000;
+	font-size: 12px;
+	font-family: Arial;
+	display: block;
+}
+
+#content .home_content .home_conent_bottom .nhachuong .item .text a:hover
+{
+	float: left;
+	text-decoration: none;
+	color: #000;
+	font-size: 12px;
+	font-family: Arial;
+}
+
+#content .home_content .home_conent_bottom .nhachuong .item .taive
+{
+}
+
+#content .home_content .home_conent_bottom .nhachuong .item .taive a
+{
+	color: #000000;
+	display: block;
+}
+
+#content .home_content .home_conent_bottom .nhachuong .item .link_taive
+{
+	font-weight: bold;
+	font-size: 12px;
+	color: #000000;
+	line-height: 26px;
+	vertical-align: top;
+	padding-left: 5px;
+}
+
+#content .home_content .home_conent_bottom .nhachuong .item .guitang
+{
+}
+
+#content .home_content .home_conent_bottom .nhachuong .item .guitang .btn_guitang
+{
+	color: #ffffff;
+	background-color: #b10228;
+	padding: 2px;
+	border: 1px solid #b10228;
+	font-weight: bold;
+	font-size: 11px;
+	font-family: Arial;
+}
+
+#content .home_content .home_conent_bottom .nhachuong .item .guitang .txt_guitang
+{
+	border: 1px solid #969696;
+	font-size: 11px;
+	font-family: Arial;
+	height: 18px;
+	line-height: 18px;
+}
+
+/*start footer*/
+
+#footer
+{
+	float: left;
+	width: 100%;
+}
+#footer .footer-top
+{
+	float: left;
+	padding-bottom: 10px;
+	width: 100%;
+}
+#footer .footer-top ul
+{
+	display: block;
+	font-size: 12px;
+	height: 24px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	padding: 5px;
+	width:90%;
+}
+
+#footer .footer-top ul li
+{
+	background: #ffffff url('images/plus_yellow.jpg') no-repeat;
+	background-position: left;
+	display: block;
+	float:left;
+	height: 24px;
+	width:100%;
+}
+
+#footer .footer-top .yellow
+{
+	background-color: #ff9000;
+	text-transform: uppercase;
+	color: #ffffff;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#footer .footer-top a
+{
+	color: #5a5a5a;
+	margin-left: 15px;
+	font-weight: bold;
+	padding-top: 5px;
+	float: left;
+	font-size: 12px;
+	text-decoration: none;
+	display: block;
+}
+
+#footer .footer-top a:hover
+{
+	color: #a00224;
+	margin-left: 15px;
+	font-weight: bold;
+	padding-top: 5px;
+	float: left;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+#footer .footer-bottom
+{
+	/* background: #a20225 url('images/footer_bg.png') repeat-x; */
+	background: #FF6600 ;
+	width: 100%;
+	height: 49px;
+	float: left;
+	font-size: 12px;
+	color: #ffffff;
+	text-align: center;
+	float: left;
+}
+
+#footer .footer-bottom a
+{
+	text-decoration: underline;
+	color: #ffffff;
+}
+
+/*end footer*/
+
+.flag_16
+{
+	background-image: url("images/map.png");
+	background-repeat: no-repeat;
+}
+
+.afghanistan_16_left
+{
+	background-position: 0 -17px;
+}
+.afghanistan_16_right
+{
+	background-position: 100% -17px;
+}
+.africa_16_left
+{
+	background-position: 0 -33px;
+}
+.africa_16_right
+{
+	background-position: 100% -33px;
+}
+.albania_16_left
+{
+	background-position: 0 -49px;
+}
+.albania_16_right
+{
+	background-position: 100% -49px;
+}
+.algeria_16_left
+{
+	background-position: 0 -65px;
+}
+.algeria_16_right
+{
+	background-position: 100% -65px;
+}
+.american-samoa_16_left
+{
+	background-position: 0 -81px;
+}
+.american-samoa_16_right
+{
+	background-position: 100% -81px;
+}
+.andorra_16_left
+{
+	background-position: 0 -97px;
+}
+.andorra_16_right
+{
+	background-position: 100% -97px;
+}
+.angola_16_left
+{
+	background-position: 0 -113px;
+}
+.angola_16_right
+{
+	background-position: 100% -113px;
+}
+.anguilla_16_left
+{
+	background-position: 0 -129px;
+}
+.anguilla_16_right
+{
+	background-position: 100% -129px;
+}
+.antigua-and-barbuda_16_left
+{
+	background-position: 0 -145px;
+}
+.antigua-and-barbuda_16_right
+{
+	background-position: 100% -145px;
+}
+.argentina_16_left
+{
+	background-position: 0 -161px;
+}
+.argentina_16_right
+{
+	background-position: 100% -161px;
+}
+.armenia_16_left
+{
+	background-position: 0 -177px;
+}
+.armenia_16_right
+{
+	background-position: 100% -177px;
+}
+.aruba_16_left
+{
+	background-position: 0 -193px;
+}
+.aruba_16_right
+{
+	background-position: 100% -193px;
+}
+.asia_16_left
+{
+	background-position: 0 -209px;
+}
+.asia_16_right
+{
+	background-position: 100% -209px;
+}
+.australia_16_left
+{
+	background-position: 0 -225px;
+}
+.australia_16_right
+{
+	background-position: 100% -225px;
+}
+.austria_16_left
+{
+	background-position: 0 -241px;
+}
+.austria_16_right
+{
+	background-position: 100% -241px;
+}
+.azerbaijan_16_left
+{
+	background-position: 0 -257px;
+}
+.azerbaijan_16_right
+{
+	background-position: 100% -257px;
+}
+.bahamas_16_left
+{
+	background-position: 0 -273px;
+}
+.bahamas_16_right
+{
+	background-position: 100% -273px;
+}
+.bahrain_16_left
+{
+	background-position: 0 -289px;
+}
+.bahrain_16_right
+{
+	background-position: 100% -289px;
+}
+.bangladesh_16_left
+{
+	background-position: 0 -305px;
+}
+.bangladesh_16_right
+{
+	background-position: 100% -305px;
+}
+.barbados_16_left
+{
+	background-position: 0 -321px;
+}
+.barbados_16_right
+{
+	background-position: 100% -321px;
+}
+.belarus_16_left
+{
+	background-position: 0 -337px;
+}
+.belarus_16_right
+{
+	background-position: 100% -337px;
+}
+.belgium_16_left
+{
+	background-position: 0 -353px;
+}
+.belgium_16_right
+{
+	background-position: 100% -353px;
+}
+.belize_16_left
+{
+	background-position: 0 -369px;
+}
+.belize_16_right
+{
+	background-position: 100% -369px;
+}
+.benin_16_left
+{
+	background-position: 0 -385px;
+}
+.benin_16_right
+{
+	background-position: 100% -385px;
+}
+.bermuda_16_left
+{
+	background-position: 0 -401px;
+}
+.bermuda_16_right
+{
+	background-position: 100% -401px;
+}
+.bhutan_16_left
+{
+	background-position: 0 -417px;
+}
+.bhutan_16_right
+{
+	background-position: 100% -417px;
+}
+.bolivia_16_left
+{
+	background-position: 0 -433px;
+}
+.bolivia_16_right
+{
+	background-position: 100% -433px;
+}
+.bosnia-herzegovina_16_left
+{
+	background-position: 0 -449px;
+}
+.bosnia-herzegovina_16_right
+{
+	background-position: 100% -449px;
+}
+.botswana_16_left
+{
+	background-position: 0 -465px;
+}
+.botswana_16_right
+{
+	background-position: 100% -465px;
+}
+.brazil_16_left
+{
+	background-position: 0 -481px;
+}
+.brazil_16_right
+{
+	background-position: 100% -481px;
+}
+.british-virgin-islands_16_left
+{
+	background-position: 0 -497px;
+}
+.british-virgin-islands_16_right
+{
+	background-position: 100% -497px;
+}
+.brunei-darussalam_16_left
+{
+	background-position: 0 -513px;
+}
+.brunei-darussalam_16_right
+{
+	background-position: 100% -513px;
+}
+.bulgaria_16_left
+{
+	background-position: 0 -529px;
+}
+.bulgaria_16_right
+{
+	background-position: 100% -529px;
+}
+.burkina-faso_16_left
+{
+	background-position: 0 -545px;
+}
+.burkina-faso_16_right
+{
+	background-position: 100% -545px;
+}
+.burundi_16_left
+{
+	background-position: 0 -561px;
+}
+.burundi_16_right
+{
+	background-position: 100% -561px;
+}
+.cambodia_16_left
+{
+	background-position: 0 -577px;
+}
+.cambodia_16_right
+{
+	background-position: 100% -577px;
+}
+.cameroon_16_left
+{
+	background-position: 0 -593px;
+}
+.cameroon_16_right
+{
+	background-position: 100% -593px;
+}
+.canada_16_left
+{
+	background-position: 0 -609px;
+}
+.canada_16_right
+{
+	background-position: 100% -609px;
+}
+.cape-verde-islands_16_left
+{
+	background-position: 0 -625px;
+}
+.cape-verde-islands_16_right
+{
+	background-position: 100% -625px;
+}
+.cayman-islands_16_left
+{
+	background-position: 0 -641px;
+}
+.cayman-islands_16_right
+{
+	background-position: 100% -641px;
+}
+.central-african-republic_16_left
+{
+	background-position: 0 -657px;
+}
+.central-african-republic_16_right
+{
+	background-position: 100% -657px;
+}
+.chad_16_left
+{
+	background-position: 0 -673px;
+}
+.chad_16_right
+{
+	background-position: 100% -673px;
+}
+.chile_16_left
+{
+	background-position: 0 -689px;
+}
+.chile_16_right
+{
+	background-position: 100% -689px;
+}
+.china-pr_16_left
+{
+	background-position: 0 -705px;
+}
+.china-pr_16_right
+{
+	background-position: 100% -705px;
+}
+.chinese-taipei_16_left
+{
+	background-position: 0 -721px;
+}
+.chinese-taipei_16_right
+{
+	background-position: 100% -721px;
+}
+.colombia_16_left
+{
+	background-position: 0 -737px;
+}
+.colombia_16_right
+{
+	background-position: 100% -737px;
+}
+.comoros_16_left
+{
+	background-position: 0 -753px;
+}
+.comoros_16_right
+{
+	background-position: 100% -753px;
+}
+.congo-dr_16_left
+{
+	background-position: 0 -769px;
+}
+.congo-dr_16_right
+{
+	background-position: 100% -769px;
+}
+.congo_16_left
+{
+	background-position: 0 -785px;
+}
+.congo_16_right
+{
+	background-position: 100% -785px;
+}
+.cook-islands_16_left
+{
+	background-position: 0 -801px;
+}
+.cook-islands_16_right
+{
+	background-position: 100% -801px;
+}
+.costa-rica_16_left
+{
+	background-position: 0 -817px;
+}
+.costa-rica_16_right
+{
+	background-position: 100% -817px;
+}
+.cote-divoire_16_left
+{
+	background-position: 0 -833px;
+}
+.cote-divoire_16_right
+{
+	background-position: 100% -833px;
+}
+.croatia_16_left
+{
+	background-position: 0 -849px;
+}
+.croatia_16_right
+{
+	background-position: 100% -849px;
+}
+.cuba_16_left
+{
+	background-position: 0 -865px;
+}
+.cuba_16_right
+{
+	background-position: 100% -865px;
+}
+.curacao_16_left
+{
+	background-position: 0 -881px;
+}
+.curacao_16_right
+{
+	background-position: 100% -881px;
+}
+.cyprus_16_left
+{
+	background-position: 0 -897px;
+}
+.cyprus_16_right
+{
+	background-position: 100% -897px;
+}
+.czech-republic_16_left
+{
+	background-position: 0 -913px;
+}
+.czech-republic_16_right
+{
+	background-position: 100% -913px;
+}
+.denmark_16_left
+{
+	background-position: 0 -929px;
+}
+.denmark_16_right
+{
+	background-position: 100% -929px;
+}
+.djibouti_16_left
+{
+	background-position: 0 -945px;
+}
+.djibouti_16_right
+{
+	background-position: 100% -945px;
+}
+.dominica_16_left
+{
+	background-position: 0 -961px;
+}
+.dominica_16_right
+{
+	background-position: 100% -961px;
+}
+.dominican-republic_16_left
+{
+	background-position: 0 -977px;
+}
+.dominican-republic_16_right
+{
+	background-position: 100% -977px;
+}
+.east-timor_16_left
+{
+	background-position: 0 -993px;
+}
+.east-timor_16_right
+{
+	background-position: 100% -993px;
+}
+.ecuador_16_left
+{
+	background-position: 0 -1009px;
+}
+.ecuador_16_right
+{
+	background-position: 100% -1009px;
+}
+.egypt_16_left
+{
+	background-position: 0 -1025px;
+}
+.egypt_16_right
+{
+	background-position: 100% -1025px;
+}
+.el-salvador_16_left
+{
+	background-position: 0 -1041px;
+}
+.el-salvador_16_right
+{
+	background-position: 100% -1041px;
+}
+.england_16_left
+{
+	background-position: 0 -1057px;
+}
+.england_16_right
+{
+	background-position: 100% -1057px;
+}
+.equatorial-guinea_16_left
+{
+	background-position: 0 -1073px;
+}
+.equatorial-guinea_16_right
+{
+	background-position: 100% -1073px;
+}
+.eritrea_16_left
+{
+	background-position: 0 -1089px;
+}
+.eritrea_16_right
+{
+	background-position: 100% -1089px;
+}
+.estonia_16_left
+{
+	background-position: 0 -1105px;
+}
+.estonia_16_right
+{
+	background-position: 100% -1105px;
+}
+.ethiopia_16_left
+{
+	background-position: 0 -1121px;
+}
+.ethiopia_16_right
+{
+	background-position: 100% -1121px;
+}
+.europe_16_left
+{
+	background-position: 0 -1137px;
+}
+.europe_16_right
+{
+	background-position: 100% -1137px;
+}
+.faroe-islands_16_left
+{
+	background-position: 0 -1153px;
+}
+.faroe-islands_16_right
+{
+	background-position: 100% -1153px;
+}
+.fiji_16_left
+{
+	background-position: 0 -1169px;
+}
+.fiji_16_right
+{
+	background-position: 100% -1169px;
+}
+.finland_16_left
+{
+	background-position: 0 -1185px;
+}
+.finland_16_right
+{
+	background-position: 100% -1185px;
+}
+.france_16_left
+{
+	background-position: 0 -1201px;
+}
+.france_16_right
+{
+	background-position: 100% -1201px;
+}
+.french-guyana_16_left
+{
+	background-position: 0 -1217px;
+}
+.french-guyana_16_right
+{
+	background-position: 100% -1217px;
+}
+.gabon_16_left
+{
+	background-position: 0 -1233px;
+}
+.gabon_16_right
+{
+	background-position: 100% -1233px;
+}
+.gambia_16_left
+{
+	background-position: 0 -1249px;
+}
+.gambia_16_right
+{
+	background-position: 100% -1249px;
+}
+.georgia_16_left
+{
+	background-position: 0 -1265px;
+}
+.georgia_16_right
+{
+	background-position: 100% -1265px;
+}
+.germany_16_left
+{
+	background-position: 0 -1281px;
+}
+.germany_16_right
+{
+	background-position: 100% -1281px;
+}
+.ghana_16_left
+{
+	background-position: 0 -1297px;
+}
+.ghana_16_right
+{
+	background-position: 100% -1297px;
+}
+.gibraltar_16_left
+{
+	background-position: 0 -1313px;
+}
+.gibraltar_16_right
+{
+	background-position: 100% -1313px;
+}
+.great-britain_16_left
+{
+	background-position: 0 -1329px;
+}
+.great-britain_16_right
+{
+	background-position: 100% -1329px;
+}
+.greece_16_left
+{
+	background-position: 0 -1345px;
+}
+.greece_16_right
+{
+	background-position: 100% -1345px;
+}
+.grenada_16_left
+{
+	background-position: 0 -1361px;
+}
+.grenada_16_right
+{
+	background-position: 100% -1361px;
+}
+.guadeloupe_16_left
+{
+	background-position: 0 -1377px;
+}
+.guadeloupe_16_right
+{
+	background-position: 100% -1377px;
+}
+.guam_16_left
+{
+	background-position: 0 -1393px;
+}
+.guam_16_right
+{
+	background-position: 100% -1393px;
+}
+.guatemala_16_left
+{
+	background-position: 0 -1409px;
+}
+.guatemala_16_right
+{
+	background-position: 100% -1409px;
+}
+.guernsey_16_left
+{
+	background-position: 0 -1425px;
+}
+.guernsey_16_right
+{
+	background-position: 100% -1425px;
+}
+.guinea-bissau_16_left
+{
+	background-position: 0 -1441px;
+}
+.guinea-bissau_16_right
+{
+	background-position: 100% -1441px;
+}
+.guinea_16_left
+{
+	background-position: 0 -1457px;
+}
+.guinea_16_right
+{
+	background-position: 100% -1457px;
+}
+.guyana_16_left
+{
+	background-position: 0 -1473px;
+}
+.guyana_16_right
+{
+	background-position: 100% -1473px;
+}
+.haiti_16_left
+{
+	background-position: 0 -1489px;
+}
+.haiti_16_right
+{
+	background-position: 100% -1489px;
+}
+.honduras_16_left
+{
+	background-position: 0 -1505px;
+}
+.honduras_16_right
+{
+	background-position: 100% -1505px;
+}
+.hong-kong_16_left
+{
+	background-position: 0 -1521px;
+}
+.hong-kong_16_right
+{
+	background-position: 100% -1521px;
+}
+.hungary_16_left
+{
+	background-position: 0 -1537px;
+}
+.hungary_16_right
+{
+	background-position: 100% -1537px;
+}
+.iceland_16_left
+{
+	background-position: 0 -1553px;
+}
+.iceland_16_right
+{
+	background-position: 100% -1553px;
+}
+.india_16_left
+{
+	background-position: 0 -1569px;
+}
+.india_16_right
+{
+	background-position: 100% -1569px;
+}
+.indonesia_16_left
+{
+	background-position: 0 -1585px;
+}
+.indonesia_16_right
+{
+	background-position: 100% -1585px;
+}
+.iran_16_left
+{
+	background-position: 0 -1601px;
+}
+.iran_16_right
+{
+	background-position: 100% -1601px;
+}
+.iraq_16_left
+{
+	background-position: 0 -1617px;
+}
+.iraq_16_right
+{
+	background-position: 100% -1617px;
+}
+.ireland-republic_16_left
+{
+	background-position: 0 -1633px;
+}
+.ireland-republic_16_right
+{
+	background-position: 100% -1633px;
+}
+.israel_16_left
+{
+	background-position: 0 -1649px;
+}
+.israel_16_right
+{
+	background-position: 100% -1649px;
+}
+.italy_16_left
+{
+	background-position: 0 -1665px;
+}
+.italy_16_right
+{
+	background-position: 100% -1665px;
+}
+.jamaica_16_left
+{
+	background-position: 0 -1681px;
+}
+.jamaica_16_right
+{
+	background-position: 100% -1681px;
+}
+.japan_16_left
+{
+	background-position: 0 -1697px;
+}
+.japan_16_right
+{
+	background-position: 100% -1697px;
+}
+.jordan_16_left
+{
+	background-position: 0 -1713px;
+}
+.jordan_16_right
+{
+	background-position: 100% -1713px;
+}
+.kazakhstan_16_left
+{
+	background-position: 0 -1729px;
+}
+.kazakhstan_16_right
+{
+	background-position: 100% -1729px;
+}
+.kenya_16_left
+{
+	background-position: 0 -1745px;
+}
+.kenya_16_right
+{
+	background-position: 100% -1745px;
+}
+.kiribati_16_left
+{
+	background-position: 0 -1761px;
+}
+.kiribati_16_right
+{
+	background-position: 100% -1761px;
+}
+.korea-dpr_16_left
+{
+	background-position: 0 -1777px;
+}
+.korea-dpr_16_right
+{
+	background-position: 100% -1777px;
+}
+.korea-republic_16_left
+{
+	background-position: 0 -1793px;
+}
+.korea-republic_16_right
+{
+	background-position: 100% -1793px;
+}
+.kosovo_16_left
+{
+	background-position: 0 -1809px;
+}
+.kosovo_16_right
+{
+	background-position: 100% -1809px;
+}
+.kuwait_16_left
+{
+	background-position: 0 -1825px;
+}
+.kuwait_16_right
+{
+	background-position: 100% -1825px;
+}
+.kyrgyzstan_16_left
+{
+	background-position: 0 -1841px;
+}
+.kyrgyzstan_16_right
+{
+	background-position: 100% -1841px;
+}
+.laos_16_left
+{
+	background-position: 0 -1857px;
+}
+.laos_16_right
+{
+	background-position: 100% -1857px;
+}
+.latvia_16_left
+{
+	background-position: 0 -1873px;
+}
+.latvia_16_right
+{
+	background-position: 100% -1873px;
+}
+.lebanon_16_left
+{
+	background-position: 0 -1889px;
+}
+.lebanon_16_right
+{
+	background-position: 100% -1889px;
+}
+.lesotho_16_left
+{
+	background-position: 0 -1905px;
+}
+.lesotho_16_right
+{
+	background-position: 100% -1905px;
+}
+.liberia_16_left
+{
+	background-position: 0 -1921px;
+}
+.liberia_16_right
+{
+	background-position: 100% -1921px;
+}
+.libya_16_left
+{
+	background-position: 0 -1937px;
+}
+.libya_16_right
+{
+	background-position: 100% -1937px;
+}
+.liechtenstein_16_left
+{
+	background-position: 0 -1953px;
+}
+.liechtenstein_16_right
+{
+	background-position: 100% -1953px;
+}
+.lithuania_16_left
+{
+	background-position: 0 -1969px;
+}
+.lithuania_16_right
+{
+	background-position: 100% -1969px;
+}
+.luxembourg_16_left
+{
+	background-position: 0 -1985px;
+}
+.luxembourg_16_right
+{
+	background-position: 100% -1985px;
+}
+.macao_16_left
+{
+	background-position: 0 -2001px;
+}
+.macao_16_right
+{
+	background-position: 100% -2001px;
+}
+.macedonia-fyr_16_left
+{
+	background-position: 0 -2017px;
+}
+.macedonia-fyr_16_right
+{
+	background-position: 100% -2017px;
+}
+.madagascar_16_left
+{
+	background-position: 0 -2033px;
+}
+.madagascar_16_right
+{
+	background-position: 100% -2033px;
+}
+.malawi_16_left
+{
+	background-position: 0 -2049px;
+}
+.malawi_16_right
+{
+	background-position: 100% -2049px;
+}
+.malaysia_16_left
+{
+	background-position: 0 -2065px;
+}
+.malaysia_16_right
+{
+	background-position: 100% -2065px;
+}
+.maldives_16_left
+{
+	background-position: 0 -2081px;
+}
+.maldives_16_right
+{
+	background-position: 100% -2081px;
+}
+.mali_16_left
+{
+	background-position: 0 -2097px;
+}
+.mali_16_right
+{
+	background-position: 100% -2097px;
+}
+.malta_16_left
+{
+	background-position: 0 -2113px;
+}
+.malta_16_right
+{
+	background-position: 100% -2113px;
+}
+.martinique_16_left
+{
+	background-position: 0 -2129px;
+}
+.martinique_16_right
+{
+	background-position: 100% -2129px;
+}
+.mauritania_16_left
+{
+	background-position: 0 -2145px;
+}
+.mauritania_16_right
+{
+	background-position: 100% -2145px;
+}
+.mauritius_16_left
+{
+	background-position: 0 -2161px;
+}
+.mauritius_16_right
+{
+	background-position: 100% -2161px;
+}
+.mayotte_16_left
+{
+	background-position: 0 -2177px;
+}
+.mayotte_16_right
+{
+	background-position: 100% -2177px;
+}
+.mexico_16_left
+{
+	background-position: 0 -2193px;
+}
+.mexico_16_right
+{
+	background-position: 100% -2193px;
+}
+.moldova_16_left
+{
+	background-position: 0 -2209px;
+}
+.moldova_16_right
+{
+	background-position: 100% -2209px;
+}
+.monaco_16_left
+{
+	background-position: 0 -2225px;
+}
+.monaco_16_right
+{
+	background-position: 100% -2225px;
+}
+.mongolia_16_left
+{
+	background-position: 0 -2241px;
+}
+.mongolia_16_right
+{
+	background-position: 100% -2241px;
+}
+.montenegro_16_left
+{
+	background-position: 0 -2257px;
+}
+.montenegro_16_right
+{
+	background-position: 100% -2257px;
+}
+.montserrat_16_left
+{
+	background-position: 0 -2273px;
+}
+.montserrat_16_right
+{
+	background-position: 100% -2273px;
+}
+.morocco_16_left
+{
+	background-position: 0 -2289px;
+}
+.morocco_16_right
+{
+	background-position: 100% -2289px;
+}
+.mozambique_16_left
+{
+	background-position: 0 -2305px;
+}
+.mozambique_16_right
+{
+	background-position: 100% -2305px;
+}
+.myanmar_16_left
+{
+	background-position: 0 -2321px;
+}
+.myanmar_16_right
+{
+	background-position: 100% -2321px;
+}
+.namibia_16_left
+{
+	background-position: 0 -2337px;
+}
+.namibia_16_right
+{
+	background-position: 100% -2337px;
+}
+.nc-america_16_left
+{
+	background-position: 0 -2353px;
+}
+.nc-america_16_right
+{
+	background-position: 100% -2353px;
+}
+.nepal_16_left
+{
+	background-position: 0 -2369px;
+}
+.nepal_16_right
+{
+	background-position: 100% -2369px;
+}
+.netherlands_16_left
+{
+	background-position: 0 -2385px;
+}
+.netherlands_16_right
+{
+	background-position: 100% -2385px;
+}
+.new-caledonia_16_left
+{
+	background-position: 0 -2401px;
+}
+.new-caledonia_16_right
+{
+	background-position: 100% -2401px;
+}
+.new-zealand_16_left
+{
+	background-position: 0 -2417px;
+}
+.new-zealand_16_right
+{
+	background-position: 100% -2417px;
+}
+.nicaragua_16_left
+{
+	background-position: 0 -2433px;
+}
+.nicaragua_16_right
+{
+	background-position: 100% -2433px;
+}
+.niger_16_left
+{
+	background-position: 0 -2449px;
+}
+.niger_16_right
+{
+	background-position: 100% -2449px;
+}
+.nigeria_16_left
+{
+	background-position: 0 -2465px;
+}
+.nigeria_16_right
+{
+	background-position: 100% -2465px;
+}
+.northern-ireland_16_left
+{
+	background-position: 0 -2481px;
+}
+.northern-ireland_16_right
+{
+	background-position: 100% -2481px;
+}
+.northern-mariana-islands_16_left
+{
+	background-position: 0 -2497px;
+}
+.northern-mariana-islands_16_right
+{
+	background-position: 100% -2497px;
+}
+.norway_16_left
+{
+	background-position: 0 -2513px;
+}
+.norway_16_right
+{
+	background-position: 100% -2513px;
+}
+.oceania_16_left
+{
+	background-position: 0 -2529px;
+}
+.oceania_16_right
+{
+	background-position: 100% -2529px;
+}
+.oman_16_left
+{
+	background-position: 0 -2545px;
+}
+.oman_16_right
+{
+	background-position: 100% -2545px;
+}
+.pakistan_16_left
+{
+	background-position: 0 -2561px;
+}
+.pakistan_16_right
+{
+	background-position: 100% -2561px;
+}
+.palestine_16_left
+{
+	background-position: 0 -2577px;
+}
+.palestine_16_right
+{
+	background-position: 100% -2577px;
+}
+.panama_16_left
+{
+	background-position: 0 -2593px;
+}
+.panama_16_right
+{
+	background-position: 100% -2593px;
+}
+.papua-new-guinea_16_left
+{
+	background-position: 0 -2609px;
+}
+.papua-new-guinea_16_right
+{
+	background-position: 100% -2609px;
+}
+.paraguay_16_left
+{
+	background-position: 0 -2625px;
+}
+.paraguay_16_right
+{
+	background-position: 100% -2625px;
+}
+.peru_16_left
+{
+	background-position: 0 -2641px;
+}
+.peru_16_right
+{
+	background-position: 100% -2641px;
+}
+.philippines_16_left
+{
+	background-position: 0 -2657px;
+}
+.philippines_16_right
+{
+	background-position: 100% -2657px;
+}
+.poland_16_left
+{
+	background-position: 0 -2673px;
+}
+.poland_16_right
+{
+	background-position: 100% -2673px;
+}
+.portugal_16_left
+{
+	background-position: 0 -2689px;
+}
+.portugal_16_right
+{
+	background-position: 100% -2689px;
+}
+.puerto-rico_16_left
+{
+	background-position: 0 -2705px;
+}
+.puerto-rico_16_right
+{
+	background-position: 100% -2705px;
+}
+.qatar_16_left
+{
+	background-position: 0 -2721px;
+}
+.qatar_16_right
+{
+	background-position: 100% -2721px;
+}
+.reunion_16_left
+{
+	background-position: 0 -2737px;
+}
+.reunion_16_right
+{
+	background-position: 100% -2737px;
+}
+.romania_16_left
+{
+	background-position: 0 -2753px;
+}
+.romania_16_right
+{
+	background-position: 100% -2753px;
+}
+.russia_16_left
+{
+	background-position: 0 -2769px;
+}
+.russia_16_right
+{
+	background-position: 100% -2769px;
+}
+.rwanda_16_left
+{
+	background-position: 0 -2785px;
+}
+.rwanda_16_right
+{
+	background-position: 100% -2785px;
+}
+.saint-martin_16_left
+{
+	background-position: 0 -2801px;
+}
+.saint-martin_16_right
+{
+	background-position: 100% -2801px;
+}
+.samoa_16_left
+{
+	background-position: 0 -2817px;
+}
+.samoa_16_right
+{
+	background-position: 100% -2817px;
+}
+.san-marino_16_left
+{
+	background-position: 0 -2833px;
+}
+.san-marino_16_right
+{
+	background-position: 100% -2833px;
+}
+.sao-tome-e-principe_16_left
+{
+	background-position: 0 -2849px;
+}
+.sao-tome-e-principe_16_right
+{
+	background-position: 100% -2849px;
+}
+.saudi-arabia_16_left
+{
+	background-position: 0 -2865px;
+}
+.saudi-arabia_16_right
+{
+	background-position: 100% -2865px;
+}
+.scotland_16_left
+{
+	background-position: 0 -2881px;
+}
+.scotland_16_right
+{
+	background-position: 100% -2881px;
+}
+.senegal_16_left
+{
+	background-position: 0 -2897px;
+}
+.senegal_16_right
+{
+	background-position: 100% -2897px;
+}
+.serbia-and-montenegro_16_left
+{
+	background-position: 0 -2913px;
+}
+.serbia-and-montenegro_16_right
+{
+	background-position: 100% -2913px;
+}
+.serbia_16_left
+{
+	background-position: 0 -2929px;
+}
+.serbia_16_right
+{
+	background-position: 100% -2929px;
+}
+.seychelles_16_left
+{
+	background-position: 0 -2945px;
+}
+.seychelles_16_right
+{
+	background-position: 100% -2945px;
+}
+.sierra-leone_16_left
+{
+	background-position: 0 -2961px;
+}
+.sierra-leone_16_right
+{
+	background-position: 100% -2961px;
+}
+.singapore_16_left
+{
+	background-position: 0 -2977px;
+}
+.singapore_16_right
+{
+	background-position: 100% -2977px;
+}
+.sint-maarten_16_left
+{
+	background-position: 0 -2993px;
+}
+.sint-maarten_16_right
+{
+	background-position: 100% -2993px;
+}
+.slovakia_16_left
+{
+	background-position: 0 -3009px;
+}
+.slovakia_16_right
+{
+	background-position: 100% -3009px;
+}
+.slovenia_16_left
+{
+	background-position: 0 -3025px;
+}
+.slovenia_16_right
+{
+	background-position: 100% -3025px;
+}
+.solomon-islands_16_left
+{
+	background-position: 0 -3041px;
+}
+.solomon-islands_16_right
+{
+	background-position: 100% -3041px;
+}
+.somalia_16_left
+{
+	background-position: 0 -3057px;
+}
+.somalia_16_right
+{
+	background-position: 100% -3057px;
+}
+.south-africa_16_left
+{
+	background-position: 0 -3073px;
+}
+.south-africa_16_right
+{
+	background-position: 100% -3073px;
+}
+.south-america_16_left
+{
+	background-position: 0 -3089px;
+}
+.south-america_16_right
+{
+	background-position: 100% -3089px;
+}
+.south-sudan_16_left
+{
+	background-position: 0 -3105px;
+}
+.south-sudan_16_right
+{
+	background-position: 100% -3105px;
+}
+.spain_16_left
+{
+	background-position: 0 -3121px;
+}
+.spain_16_right
+{
+	background-position: 100% -3121px;
+}
+.sri-lanka_16_left
+{
+	background-position: 0 -3137px;
+}
+.sri-lanka_16_right
+{
+	background-position: 100% -3137px;
+}
+.st-kitts-and-nevis_16_left
+{
+	background-position: 0 -3153px;
+}
+.st-kitts-and-nevis_16_right
+{
+	background-position: 100% -3153px;
+}
+.st-lucia_16_left
+{
+	background-position: 0 -3169px;
+}
+.st-lucia_16_right
+{
+	background-position: 100% -3169px;
+}
+.st-vincent-and-the-grenadines_16_left
+{
+	background-position: 0 -3185px;
+}
+.st-vincent-and-the-grenadines_16_right
+{
+	background-position: 100% -3185px;
+}
+.sudan_16_left
+{
+	background-position: 0 -3201px;
+}
+.sudan_16_right
+{
+	background-position: 100% -3201px;
+}
+.suriname_16_left
+{
+	background-position: 0 -3217px;
+}
+.suriname_16_right
+{
+	background-position: 100% -3217px;
+}
+.swaziland_16_left
+{
+	background-position: 0 -3233px;
+}
+.swaziland_16_right
+{
+	background-position: 100% -3233px;
+}
+.sweden_16_left
+{
+	background-position: 0 -3249px;
+}
+.sweden_16_right
+{
+	background-position: 100% -3249px;
+}
+.switzerland_16_left
+{
+	background-position: 0 -3265px;
+}
+.switzerland_16_right
+{
+	background-position: 100% -3265px;
+}
+.syria_16_left
+{
+	background-position: 0 -3281px;
+}
+.syria_16_right
+{
+	background-position: 100% -3281px;
+}
+.tahiti_16_left
+{
+	background-position: 0 -3297px;
+}
+.tahiti_16_right
+{
+	background-position: 100% -3297px;
+}
+.tajikistan_16_left
+{
+	background-position: 0 -3313px;
+}
+.tajikistan_16_right
+{
+	background-position: 100% -3313px;
+}
+.tanzania_16_left
+{
+	background-position: 0 -3329px;
+}
+.tanzania_16_right
+{
+	background-position: 100% -3329px;
+}
+.thailand_16_left
+{
+	background-position: 0 -3345px;
+}
+.thailand_16_right
+{
+	background-position: 100% -3345px;
+}
+.togo_16_left
+{
+	background-position: 0 -3361px;
+}
+.togo_16_right
+{
+	background-position: 100% -3361px;
+}
+.tonga_16_left
+{
+	background-position: 0 -3377px;
+}
+.tonga_16_right
+{
+	background-position: 100% -3377px;
+}
+.trinidad-and-tobago_16_left
+{
+	background-position: 0 -3393px;
+}
+.trinidad-and-tobago_16_right
+{
+	background-position: 100% -3393px;
+}
+.tunisia_16_left
+{
+	background-position: 0 -3409px;
+}
+.tunisia_16_right
+{
+	background-position: 100% -3409px;
+}
+.turkey_16_left
+{
+	background-position: 0 -3425px;
+}
+.turkey_16_right
+{
+	background-position: 100% -3425px;
+}
+.turkmenistan_16_left
+{
+	background-position: 0 -3441px;
+}
+.turkmenistan_16_right
+{
+	background-position: 100% -3441px;
+}
+.turks-and-caicos-islands_16_left
+{
+	background-position: 0 -3457px;
+}
+.turks-and-caicos-islands_16_right
+{
+	background-position: 100% -3457px;
+}
+.tuvalu_16_left
+{
+	background-position: 0 -3473px;
+}
+.tuvalu_16_right
+{
+	background-position: 100% -3473px;
+}
+.uganda_16_left
+{
+	background-position: 0 -3489px;
+}
+.uganda_16_right
+{
+	background-position: 100% -3489px;
+}
+.ukraine_16_left
+{
+	background-position: 0 -3505px;
+}
+.ukraine_16_right
+{
+	background-position: 100% -3505px;
+}
+.united-arab-emirates_16_left
+{
+	background-position: 0 -3521px;
+}
+.united-arab-emirates_16_right
+{
+	background-position: 100% -3521px;
+}
+.united-states_16_left
+{
+	background-position: 0 -3537px;
+}
+.united-states_16_right
+{
+	background-position: 100% -3537px;
+}
+.uruguay_16_left
+{
+	background-position: 0 -3553px;
+}
+.uruguay_16_right
+{
+	background-position: 100% -3553px;
+}
+.us-virgin-islands_16_left
+{
+	background-position: 0 -3569px;
+}
+.us-virgin-islands_16_right
+{
+	background-position: 100% -3569px;
+}
+.uzbekistan_16_left
+{
+	background-position: 0 -3585px;
+}
+.uzbekistan_16_right
+{
+	background-position: 100% -3585px;
+}
+.vanuatu_16_left
+{
+	background-position: 0 -3601px;
+}
+.vanuatu_16_right
+{
+	background-position: 100% -3601px;
+}
+.venezuela_16_left
+{
+	background-position: 0 -3617px;
+}
+.venezuela_16_right
+{
+	background-position: 100% -3617px;
+}
+.vietnam_16_left
+{
+	background-position: 0 -3633px;
+}
+.vietnam_16_right
+{
+	background-position: 100% -3633px;
+}
+.wales_16_left
+{
+	background-position: 0 -3649px;
+}
+.wales_16_right
+{
+	background-position: 100% -3649px;
+}
+.world_16_left
+{
+	background-position: 0 -3665px;
+}
+.world_16_right
+{
+	background-position: 100% -3665px;
+}
+.yemen_16_left
+{
+	background-position: 0 -3681px;
+}
+.yemen_16_right
+{
+	background-position: 100% -3681px;
+}
+.zambia_16_left
+{
+	background-position: 0 -3697px;
+}
+.zambia_16_right
+{
+	background-position: 100% -3697px;
+}
+.zanzibar_16_left
+{
+	background-position: 0 -3713px;
+}
+.zanzibar_16_right
+{
+	background-position: 100% -3713px;
+}
+.zimbabwe_16_left
+{
+	background-position: 0 -3729px;
+}
+.zimbabwe_16_right
+{
+	background-position: 100% -3729px;
+}
+
+
+/***
+Map 24
+***/
+
+.flag_24
+{
+	background-repeat: no-repeat;
+}
+.left_24
+{
+	padding-left: 20px;
+}
+.right_24
+{
+	padding-right: 20px;
+}
+.flag_24
+{
+	background-image: url('images/map24.png');
+	background-repeat: no-repeat;
+}
+.afghanistan_24_left
+{
+	background-position: 0 -25px;
+}
+.afghanistan_24_right
+{
+	background-position: 100% -25px;
+}
+.africa_24_left
+{
+	background-position: 0 -49px;
+}
+.africa_24_right
+{
+	background-position: 100% -49px;
+}
+.albania_24_left
+{
+	background-position: 0 -73px;
+}
+.albania_24_right
+{
+	background-position: 100% -73px;
+}
+.algeria_24_left
+{
+	background-position: 0 -97px;
+}
+.algeria_24_right
+{
+	background-position: 100% -97px;
+}
+.american-samoa_24_left
+{
+	background-position: 0 -121px;
+}
+.american-samoa_24_right
+{
+	background-position: 100% -121px;
+}
+.andorra_24_left
+{
+	background-position: 0 -145px;
+}
+.andorra_24_right
+{
+	background-position: 100% -145px;
+}
+.angola_24_left
+{
+	background-position: 0 -169px;
+}
+.angola_24_right
+{
+	background-position: 100% -169px;
+}
+.anguilla_24_left
+{
+	background-position: 0 -193px;
+}
+.anguilla_24_right
+{
+	background-position: 100% -193px;
+}
+.antigua-and-barbuda_24_left
+{
+	background-position: 0 -217px;
+}
+.antigua-and-barbuda_24_right
+{
+	background-position: 100% -217px;
+}
+.argentina_24_left
+{
+	background-position: 0 -241px;
+}
+.argentina_24_right
+{
+	background-position: 100% -241px;
+}
+.armenia_24_left
+{
+	background-position: 0 -265px;
+}
+.armenia_24_right
+{
+	background-position: 100% -265px;
+}
+.aruba_24_left
+{
+	background-position: 0 -289px;
+}
+.aruba_24_right
+{
+	background-position: 100% -289px;
+}
+.asia_24_left
+{
+	background-position: 0 -313px;
+}
+.asia_24_right
+{
+	background-position: 100% -313px;
+}
+.australia_24_left
+{
+	background-position: 0 -337px;
+}
+.australia_24_right
+{
+	background-position: 100% -337px;
+}
+.austria_24_left
+{
+	background-position: 0 -361px;
+}
+.austria_24_right
+{
+	background-position: 100% -361px;
+}
+.azerbaijan_24_left
+{
+	background-position: 0 -385px;
+}
+.azerbaijan_24_right
+{
+	background-position: 100% -385px;
+}
+.bahamas_24_left
+{
+	background-position: 0 -409px;
+}
+.bahamas_24_right
+{
+	background-position: 100% -409px;
+}
+.bahrain_24_left
+{
+	background-position: 0 -433px;
+}
+.bahrain_24_right
+{
+	background-position: 100% -433px;
+}
+.bangladesh_24_left
+{
+	background-position: 0 -457px;
+}
+.bangladesh_24_right
+{
+	background-position: 100% -457px;
+}
+.barbados_24_left
+{
+	background-position: 0 -481px;
+}
+.barbados_24_right
+{
+	background-position: 100% -481px;
+}
+.belarus_24_left
+{
+	background-position: 0 -505px;
+}
+.belarus_24_right
+{
+	background-position: 100% -505px;
+}
+.belgium_24_left
+{
+	background-position: 0 -529px;
+}
+.belgium_24_right
+{
+	background-position: 100% -529px;
+}
+.belize_24_left
+{
+	background-position: 0 -553px;
+}
+.belize_24_right
+{
+	background-position: 100% -553px;
+}
+.benin_24_left
+{
+	background-position: 0 -577px;
+}
+.benin_24_right
+{
+	background-position: 100% -577px;
+}
+.bermuda_24_left
+{
+	background-position: 0 -601px;
+}
+.bermuda_24_right
+{
+	background-position: 100% -601px;
+}
+.bhutan_24_left
+{
+	background-position: 0 -625px;
+}
+.bhutan_24_right
+{
+	background-position: 100% -625px;
+}
+.bolivia_24_left
+{
+	background-position: 0 -649px;
+}
+.bolivia_24_right
+{
+	background-position: 100% -649px;
+}
+.bosnia-herzegovina_24_left
+{
+	background-position: 0 -673px;
+}
+.bosnia-herzegovina_24_right
+{
+	background-position: 100% -673px;
+}
+.botswana_24_left
+{
+	background-position: 0 -697px;
+}
+.botswana_24_right
+{
+	background-position: 100% -697px;
+}
+.brazil_24_left
+{
+	background-position: 0 -721px;
+}
+.brazil_24_right
+{
+	background-position: 100% -721px;
+}
+.british-virgin-islands_24_left
+{
+	background-position: 0 -745px;
+}
+.british-virgin-islands_24_right
+{
+	background-position: 100% -745px;
+}
+.brunei-darussalam_24_left
+{
+	background-position: 0 -769px;
+}
+.brunei-darussalam_24_right
+{
+	background-position: 100% -769px;
+}
+.bulgaria_24_left
+{
+	background-position: 0 -793px;
+}
+.bulgaria_24_right
+{
+	background-position: 100% -793px;
+}
+.burkina-faso_24_left
+{
+	background-position: 0 -817px;
+}
+.burkina-faso_24_right
+{
+	background-position: 100% -817px;
+}
+.burundi_24_left
+{
+	background-position: 0 -841px;
+}
+.burundi_24_right
+{
+	background-position: 100% -841px;
+}
+.cambodia_24_left
+{
+	background-position: 0 -865px;
+}
+.cambodia_24_right
+{
+	background-position: 100% -865px;
+}
+.cameroon_24_left
+{
+	background-position: 0 -889px;
+}
+.cameroon_24_right
+{
+	background-position: 100% -889px;
+}
+.canada_24_left
+{
+	background-position: 0 -913px;
+}
+.canada_24_right
+{
+	background-position: 100% -913px;
+}
+.cape-verde-islands_24_left
+{
+	background-position: 0 -937px;
+}
+.cape-verde-islands_24_right
+{
+	background-position: 100% -937px;
+}
+.cayman-islands_24_left
+{
+	background-position: 0 -961px;
+}
+.cayman-islands_24_right
+{
+	background-position: 100% -961px;
+}
+.central-african-republic_24_left
+{
+	background-position: 0 -985px;
+}
+.central-african-republic_24_right
+{
+	background-position: 100% -985px;
+}
+.chad_24_left
+{
+	background-position: 0 -1009px;
+}
+.chad_24_right
+{
+	background-position: 100% -1009px;
+}
+.chile_24_left
+{
+	background-position: 0 -1033px;
+}
+.chile_24_right
+{
+	background-position: 100% -1033px;
+}
+.china-pr_24_left
+{
+	background-position: 0 -1057px;
+}
+.china-pr_24_right
+{
+	background-position: 100% -1057px;
+}
+.chinese-taipei_24_left
+{
+	background-position: 0 -1081px;
+}
+.chinese-taipei_24_right
+{
+	background-position: 100% -1081px;
+}
+.colombia_24_left
+{
+	background-position: 0 -1105px;
+}
+.colombia_24_right
+{
+	background-position: 100% -1105px;
+}
+.comoros_24_left
+{
+	background-position: 0 -1129px;
+}
+.comoros_24_right
+{
+	background-position: 100% -1129px;
+}
+.congo-dr_24_left
+{
+	background-position: 0 -1153px;
+}
+.congo-dr_24_right
+{
+	background-position: 100% -1153px;
+}
+.congo_24_left
+{
+	background-position: 0 -1177px;
+}
+.congo_24_right
+{
+	background-position: 100% -1177px;
+}
+.cook-islands_24_left
+{
+	background-position: 0 -1201px;
+}
+.cook-islands_24_right
+{
+	background-position: 100% -1201px;
+}
+.costa-rica_24_left
+{
+	background-position: 0 -1225px;
+}
+.costa-rica_24_right
+{
+	background-position: 100% -1225px;
+}
+.cote-divoire_24_left
+{
+	background-position: 0 -1249px;
+}
+.cote-divoire_24_right
+{
+	background-position: 100% -1249px;
+}
+.croatia_24_left
+{
+	background-position: 0 -1273px;
+}
+.croatia_24_right
+{
+	background-position: 100% -1273px;
+}
+.cuba_24_left
+{
+	background-position: 0 -1297px;
+}
+.cuba_24_right
+{
+	background-position: 100% -1297px;
+}
+.curacao_24_left
+{
+	background-position: 0 -1321px;
+}
+.curacao_24_right
+{
+	background-position: 100% -1321px;
+}
+.cyprus_24_left
+{
+	background-position: 0 -1345px;
+}
+.cyprus_24_right
+{
+	background-position: 100% -1345px;
+}
+.czech-republic_24_left
+{
+	background-position: 0 -1369px;
+}
+.czech-republic_24_right
+{
+	background-position: 100% -1369px;
+}
+.denmark_24_left
+{
+	background-position: 0 -1393px;
+}
+.denmark_24_right
+{
+	background-position: 100% -1393px;
+}
+.djibouti_24_left
+{
+	background-position: 0 -1417px;
+}
+.djibouti_24_right
+{
+	background-position: 100% -1417px;
+}
+.dominica_24_left
+{
+	background-position: 0 -1441px;
+}
+.dominica_24_right
+{
+	background-position: 100% -1441px;
+}
+.dominican-republic_24_left
+{
+	background-position: 0 -1465px;
+}
+.dominican-republic_24_right
+{
+	background-position: 100% -1465px;
+}
+.east-timor_24_left
+{
+	background-position: 0 -1489px;
+}
+.east-timor_24_right
+{
+	background-position: 100% -1489px;
+}
+.ecuador_24_left
+{
+	background-position: 0 -1513px;
+}
+.ecuador_24_right
+{
+	background-position: 100% -1513px;
+}
+.egypt_24_left
+{
+	background-position: 0 -1537px;
+}
+.egypt_24_right
+{
+	background-position: 100% -1537px;
+}
+.el-salvador_24_left
+{
+	background-position: 0 -1561px;
+}
+.el-salvador_24_right
+{
+	background-position: 100% -1561px;
+}
+.england_24_left
+{
+	background-position: 0 -1585px;
+}
+.england_24_right
+{
+	background-position: 100% -1585px;
+}
+.equatorial-guinea_24_left
+{
+	background-position: 0 -1609px;
+}
+.equatorial-guinea_24_right
+{
+	background-position: 100% -1609px;
+}
+.eritrea_24_left
+{
+	background-position: 0 -1633px;
+}
+.eritrea_24_right
+{
+	background-position: 100% -1633px;
+}
+.estonia_24_left
+{
+	background-position: 0 -1657px;
+}
+.estonia_24_right
+{
+	background-position: 100% -1657px;
+}
+.ethiopia_24_left
+{
+	background-position: 0 -1681px;
+}
+.ethiopia_24_right
+{
+	background-position: 100% -1681px;
+}
+.europe_24_left
+{
+	background-position: 0 -1705px;
+}
+.europe_24_right
+{
+	background-position: 100% -1705px;
+}
+.faroe-islands_24_left
+{
+	background-position: 0 -1729px;
+}
+.faroe-islands_24_right
+{
+	background-position: 100% -1729px;
+}
+.fiji_24_left
+{
+	background-position: 0 -1753px;
+}
+.fiji_24_right
+{
+	background-position: 100% -1753px;
+}
+.finland_24_left
+{
+	background-position: 0 -1777px;
+}
+.finland_24_right
+{
+	background-position: 100% -1777px;
+}
+.france_24_left
+{
+	background-position: 0 -1801px;
+}
+.france_24_right
+{
+	background-position: 100% -1801px;
+}
+.french-guyana_24_left
+{
+	background-position: 0 -1825px;
+}
+.french-guyana_24_right
+{
+	background-position: 100% -1825px;
+}
+.gabon_24_left
+{
+	background-position: 0 -1849px;
+}
+.gabon_24_right
+{
+	background-position: 100% -1849px;
+}
+.gambia_24_left
+{
+	background-position: 0 -1873px;
+}
+.gambia_24_right
+{
+	background-position: 100% -1873px;
+}
+.georgia_24_left
+{
+	background-position: 0 -1897px;
+}
+.georgia_24_right
+{
+	background-position: 100% -1897px;
+}
+.germany_24_left
+{
+	background-position: 0 -1921px;
+}
+.germany_24_right
+{
+	background-position: 100% -1921px;
+}
+.ghana_24_left
+{
+	background-position: 0 -1945px;
+}
+.ghana_24_right
+{
+	background-position: 100% -1945px;
+}
+.gibraltar_24_left
+{
+	background-position: 0 -1969px;
+}
+.gibraltar_24_right
+{
+	background-position: 100% -1969px;
+}
+.great-britain_24_left
+{
+	background-position: 0 -1993px;
+}
+.great-britain_24_right
+{
+	background-position: 100% -1993px;
+}
+.greece_24_left
+{
+	background-position: 0 -2017px;
+}
+.greece_24_right
+{
+	background-position: 100% -2017px;
+}
+.grenada_24_left
+{
+	background-position: 0 -2041px;
+}
+.grenada_24_right
+{
+	background-position: 100% -2041px;
+}
+.guadeloupe_24_left
+{
+	background-position: 0 -2065px;
+}
+.guadeloupe_24_right
+{
+	background-position: 100% -2065px;
+}
+.guam_24_left
+{
+	background-position: 0 -2089px;
+}
+.guam_24_right
+{
+	background-position: 100% -2089px;
+}
+.guatemala_24_left
+{
+	background-position: 0 -2113px;
+}
+.guatemala_24_right
+{
+	background-position: 100% -2113px;
+}
+.guernsey_24_left
+{
+	background-position: 0 -2137px;
+}
+.guernsey_24_right
+{
+	background-position: 100% -2137px;
+}
+.guinea-bissau_24_left
+{
+	background-position: 0 -2161px;
+}
+.guinea-bissau_24_right
+{
+	background-position: 100% -2161px;
+}
+.guinea_24_left
+{
+	background-position: 0 -2185px;
+}
+.guinea_24_right
+{
+	background-position: 100% -2185px;
+}
+.guyana_24_left
+{
+	background-position: 0 -2209px;
+}
+.guyana_24_right
+{
+	background-position: 100% -2209px;
+}
+.haiti_24_left
+{
+	background-position: 0 -2233px;
+}
+.haiti_24_right
+{
+	background-position: 100% -2233px;
+}
+.honduras_24_left
+{
+	background-position: 0 -2257px;
+}
+.honduras_24_right
+{
+	background-position: 100% -2257px;
+}
+.hong-kong_24_left
+{
+	background-position: 0 -2281px;
+}
+.hong-kong_24_right
+{
+	background-position: 100% -2281px;
+}
+.hungary_24_left
+{
+	background-position: 0 -2305px;
+}
+.hungary_24_right
+{
+	background-position: 100% -2305px;
+}
+.iceland_24_left
+{
+	background-position: 0 -2329px;
+}
+.iceland_24_right
+{
+	background-position: 100% -2329px;
+}
+.india_24_left
+{
+	background-position: 0 -2353px;
+}
+.india_24_right
+{
+	background-position: 100% -2353px;
+}
+.indonesia_24_left
+{
+	background-position: 0 -2377px;
+}
+.indonesia_24_right
+{
+	background-position: 100% -2377px;
+}
+.iran_24_left
+{
+	background-position: 0 -2401px;
+}
+.iran_24_right
+{
+	background-position: 100% -2401px;
+}
+.iraq_24_left
+{
+	background-position: 0 -2425px;
+}
+.iraq_24_right
+{
+	background-position: 100% -2425px;
+}
+.ireland-republic_24_left
+{
+	background-position: 0 -2449px;
+}
+.ireland-republic_24_right
+{
+	background-position: 100% -2449px;
+}
+.israel_24_left
+{
+	background-position: 0 -2473px;
+}
+.israel_24_right
+{
+	background-position: 100% -2473px;
+}
+.italy_24_left
+{
+	background-position: 0 -2497px;
+}
+.italy_24_right
+{
+	background-position: 100% -2497px;
+}
+.jamaica_24_left
+{
+	background-position: 0 -2521px;
+}
+.jamaica_24_right
+{
+	background-position: 100% -2521px;
+}
+.japan_24_left
+{
+	background-position: 0 -2545px;
+}
+.japan_24_right
+{
+	background-position: 100% -2545px;
+}
+.jordan_24_left
+{
+	background-position: 0 -2569px;
+}
+.jordan_24_right
+{
+	background-position: 100% -2569px;
+}
+.kazakhstan_24_left
+{
+	background-position: 0 -2593px;
+}
+.kazakhstan_24_right
+{
+	background-position: 100% -2593px;
+}
+.kenya_24_left
+{
+	background-position: 0 -2617px;
+}
+.kenya_24_right
+{
+	background-position: 100% -2617px;
+}
+.kiribati_24_left
+{
+	background-position: 0 -2641px;
+}
+.kiribati_24_right
+{
+	background-position: 100% -2641px;
+}
+.korea-dpr_24_left
+{
+	background-position: 0 -2665px;
+}
+.korea-dpr_24_right
+{
+	background-position: 100% -2665px;
+}
+.korea-republic_24_left
+{
+	background-position: 0 -2689px;
+}
+.korea-republic_24_right
+{
+	background-position: 100% -2689px;
+}
+.kosovo_24_left
+{
+	background-position: 0 -2713px;
+}
+.kosovo_24_right
+{
+	background-position: 100% -2713px;
+}
+.kuwait_24_left
+{
+	background-position: 0 -2737px;
+}
+.kuwait_24_right
+{
+	background-position: 100% -2737px;
+}
+.kyrgyzstan_24_left
+{
+	background-position: 0 -2761px;
+}
+.kyrgyzstan_24_right
+{
+	background-position: 100% -2761px;
+}
+.laos_24_left
+{
+	background-position: 0 -2785px;
+}
+.laos_24_right
+{
+	background-position: 100% -2785px;
+}
+.latvia_24_left
+{
+	background-position: 0 -2809px;
+}
+.latvia_24_right
+{
+	background-position: 100% -2809px;
+}
+.lebanon_24_left
+{
+	background-position: 0 -2833px;
+}
+.lebanon_24_right
+{
+	background-position: 100% -2833px;
+}
+.lesotho_24_left
+{
+	background-position: 0 -2857px;
+}
+.lesotho_24_right
+{
+	background-position: 100% -2857px;
+}
+.liberia_24_left
+{
+	background-position: 0 -2881px;
+}
+.liberia_24_right
+{
+	background-position: 100% -2881px;
+}
+.libya_24_left
+{
+	background-position: 0 -2905px;
+}
+.libya_24_right
+{
+	background-position: 100% -2905px;
+}
+.liechtenstein_24_left
+{
+	background-position: 0 -2929px;
+}
+.liechtenstein_24_right
+{
+	background-position: 100% -2929px;
+}
+.lithuania_24_left
+{
+	background-position: 0 -2953px;
+}
+.lithuania_24_right
+{
+	background-position: 100% -2953px;
+}
+.luxembourg_24_left
+{
+	background-position: 0 -2977px;
+}
+.luxembourg_24_right
+{
+	background-position: 100% -2977px;
+}
+.macao_24_left
+{
+	background-position: 0 -3001px;
+}
+.macao_24_right
+{
+	background-position: 100% -3001px;
+}
+.macedonia-fyr_24_left
+{
+	background-position: 0 -3025px;
+}
+.macedonia-fyr_24_right
+{
+	background-position: 100% -3025px;
+}
+.madagascar_24_left
+{
+	background-position: 0 -3049px;
+}
+.madagascar_24_right
+{
+	background-position: 100% -3049px;
+}
+.malawi_24_left
+{
+	background-position: 0 -3073px;
+}
+.malawi_24_right
+{
+	background-position: 100% -3073px;
+}
+.malaysia_24_left
+{
+	background-position: 0 -3097px;
+}
+.malaysia_24_right
+{
+	background-position: 100% -3097px;
+}
+.maldives_24_left
+{
+	background-position: 0 -3121px;
+}
+.maldives_24_right
+{
+	background-position: 100% -3121px;
+}
+.mali_24_left
+{
+	background-position: 0 -3145px;
+}
+.mali_24_right
+{
+	background-position: 100% -3145px;
+}
+.malta_24_left
+{
+	background-position: 0 -3169px;
+}
+.malta_24_right
+{
+	background-position: 100% -3169px;
+}
+.martinique_24_left
+{
+	background-position: 0 -3193px;
+}
+.martinique_24_right
+{
+	background-position: 100% -3193px;
+}
+.mauritania_24_left
+{
+	background-position: 0 -3217px;
+}
+.mauritania_24_right
+{
+	background-position: 100% -3217px;
+}
+.mauritius_24_left
+{
+	background-position: 0 -3241px;
+}
+.mauritius_24_right
+{
+	background-position: 100% -3241px;
+}
+.mayotte_24_left
+{
+	background-position: 0 -3265px;
+}
+.mayotte_24_right
+{
+	background-position: 100% -3265px;
+}
+.mexico_24_left
+{
+	background-position: 0 -3289px;
+}
+.mexico_24_right
+{
+	background-position: 100% -3289px;
+}
+.moldova_24_left
+{
+	background-position: 0 -3313px;
+}
+.moldova_24_right
+{
+	background-position: 100% -3313px;
+}
+.monaco_24_left
+{
+	background-position: 0 -3337px;
+}
+.monaco_24_right
+{
+	background-position: 100% -3337px;
+}
+.mongolia_24_left
+{
+	background-position: 0 -3361px;
+}
+.mongolia_24_right
+{
+	background-position: 100% -3361px;
+}
+.montenegro_24_left
+{
+	background-position: 0 -3385px;
+}
+.montenegro_24_right
+{
+	background-position: 100% -3385px;
+}
+.montserrat_24_left
+{
+	background-position: 0 -3409px;
+}
+.montserrat_24_right
+{
+	background-position: 100% -3409px;
+}
+.morocco_24_left
+{
+	background-position: 0 -3433px;
+}
+.morocco_24_right
+{
+	background-position: 100% -3433px;
+}
+.mozambique_24_left
+{
+	background-position: 0 -3457px;
+}
+.mozambique_24_right
+{
+	background-position: 100% -3457px;
+}
+.myanmar_24_left
+{
+	background-position: 0 -3481px;
+}
+.myanmar_24_right
+{
+	background-position: 100% -3481px;
+}
+.namibia_24_left
+{
+	background-position: 0 -3505px;
+}
+.namibia_24_right
+{
+	background-position: 100% -3505px;
+}
+.nc-america_24_left
+{
+	background-position: 0 -3529px;
+}
+.nc-america_24_right
+{
+	background-position: 100% -3529px;
+}
+.nepal_24_left
+{
+	background-position: 0 -3553px;
+}
+.nepal_24_right
+{
+	background-position: 100% -3553px;
+}
+.netherlands_24_left
+{
+	background-position: 0 -3577px;
+}
+.netherlands_24_right
+{
+	background-position: 100% -3577px;
+}
+.new-caledonia_24_left
+{
+	background-position: 0 -3601px;
+}
+.new-caledonia_24_right
+{
+	background-position: 100% -3601px;
+}
+.new-zealand_24_left
+{
+	background-position: 0 -3625px;
+}
+.new-zealand_24_right
+{
+	background-position: 100% -3625px;
+}
+.nicaragua_24_left
+{
+	background-position: 0 -3649px;
+}
+.nicaragua_24_right
+{
+	background-position: 100% -3649px;
+}
+.niger_24_left
+{
+	background-position: 0 -3673px;
+}
+.niger_24_right
+{
+	background-position: 100% -3673px;
+}
+.nigeria_24_left
+{
+	background-position: 0 -3697px;
+}
+.nigeria_24_right
+{
+	background-position: 100% -3697px;
+}
+.northern-ireland_24_left
+{
+	background-position: 0 -3721px;
+}
+.northern-ireland_24_right
+{
+	background-position: 100% -3721px;
+}
+.northern-mariana-islands_24_left
+{
+	background-position: 0 -3745px;
+}
+.northern-mariana-islands_24_right
+{
+	background-position: 100% -3745px;
+}
+.norway_24_left
+{
+	background-position: 0 -3769px;
+}
+.norway_24_right
+{
+	background-position: 100% -3769px;
+}
+.oceania_24_left
+{
+	background-position: 0 -3793px;
+}
+.oceania_24_right
+{
+	background-position: 100% -3793px;
+}
+.oman_24_left
+{
+	background-position: 0 -3817px;
+}
+.oman_24_right
+{
+	background-position: 100% -3817px;
+}
+.pakistan_24_left
+{
+	background-position: 0 -3841px;
+}
+.pakistan_24_right
+{
+	background-position: 100% -3841px;
+}
+.palestine_24_left
+{
+	background-position: 0 -3865px;
+}
+.palestine_24_right
+{
+	background-position: 100% -3865px;
+}
+.panama_24_left
+{
+	background-position: 0 -3889px;
+}
+.panama_24_right
+{
+	background-position: 100% -3889px;
+}
+.papua-new-guinea_24_left
+{
+	background-position: 0 -3913px;
+}
+.papua-new-guinea_24_right
+{
+	background-position: 100% -3913px;
+}
+.paraguay_24_left
+{
+	background-position: 0 -3937px;
+}
+.paraguay_24_right
+{
+	background-position: 100% -3937px;
+}
+.peru_24_left
+{
+	background-position: 0 -3961px;
+}
+.peru_24_right
+{
+	background-position: 100% -3961px;
+}
+.philippines_24_left
+{
+	background-position: 0 -3985px;
+}
+.philippines_24_right
+{
+	background-position: 100% -3985px;
+}
+.poland_24_left
+{
+	background-position: 0 -4009px;
+}
+.poland_24_right
+{
+	background-position: 100% -4009px;
+}
+.portugal_24_left
+{
+	background-position: 0 -4033px;
+}
+.portugal_24_right
+{
+	background-position: 100% -4033px;
+}
+.puerto-rico_24_left
+{
+	background-position: 0 -4057px;
+}
+.puerto-rico_24_right
+{
+	background-position: 100% -4057px;
+}
+.qatar_24_left
+{
+	background-position: 0 -4081px;
+}
+.qatar_24_right
+{
+	background-position: 100% -4081px;
+}
+.reunion_24_left
+{
+	background-position: 0 -4105px;
+}
+.reunion_24_right
+{
+	background-position: 100% -4105px;
+}
+.romania_24_left
+{
+	background-position: 0 -4129px;
+}
+.romania_24_right
+{
+	background-position: 100% -4129px;
+}
+.russia_24_left
+{
+	background-position: 0 -4153px;
+}
+.russia_24_right
+{
+	background-position: 100% -4153px;
+}
+.rwanda_24_left
+{
+	background-position: 0 -4177px;
+}
+.rwanda_24_right
+{
+	background-position: 100% -4177px;
+}
+.saint-martin_24_left
+{
+	background-position: 0 -4201px;
+}
+.saint-martin_24_right
+{
+	background-position: 100% -4201px;
+}
+.samoa_24_left
+{
+	background-position: 0 -4225px;
+}
+.samoa_24_right
+{
+	background-position: 100% -4225px;
+}
+.san-marino_24_left
+{
+	background-position: 0 -4249px;
+}
+.san-marino_24_right
+{
+	background-position: 100% -4249px;
+}
+.sao-tome-e-principe_24_left
+{
+	background-position: 0 -4273px;
+}
+.sao-tome-e-principe_24_right
+{
+	background-position: 100% -4273px;
+}
+.saudi-arabia_24_left
+{
+	background-position: 0 -4297px;
+}
+.saudi-arabia_24_right
+{
+	background-position: 100% -4297px;
+}
+.scotland_24_left
+{
+	background-position: 0 -4321px;
+}
+.scotland_24_right
+{
+	background-position: 100% -4321px;
+}
+.senegal_24_left
+{
+	background-position: 0 -4345px;
+}
+.senegal_24_right
+{
+	background-position: 100% -4345px;
+}
+.serbia-and-montenegro_24_left
+{
+	background-position: 0 -4369px;
+}
+.serbia-and-montenegro_24_right
+{
+	background-position: 100% -4369px;
+}
+.serbia_24_left
+{
+	background-position: 0 -4393px;
+}
+.serbia_24_right
+{
+	background-position: 100% -4393px;
+}
+.seychelles_24_left
+{
+	background-position: 0 -4417px;
+}
+.seychelles_24_right
+{
+	background-position: 100% -4417px;
+}
+.sierra-leone_24_left
+{
+	background-position: 0 -4441px;
+}
+.sierra-leone_24_right
+{
+	background-position: 100% -4441px;
+}
+.singapore_24_left
+{
+	background-position: 0 -4465px;
+}
+.singapore_24_right
+{
+	background-position: 100% -4465px;
+}
+.sint-maarten_24_left
+{
+	background-position: 0 -4489px;
+}
+.sint-maarten_24_right
+{
+	background-position: 100% -4489px;
+}
+.slovakia_24_left
+{
+	background-position: 0 -4513px;
+}
+.slovakia_24_right
+{
+	background-position: 100% -4513px;
+}
+.slovenia_24_left
+{
+	background-position: 0 -4537px;
+}
+.slovenia_24_right
+{
+	background-position: 100% -4537px;
+}
+.solomon-islands_24_left
+{
+	background-position: 0 -4561px;
+}
+.solomon-islands_24_right
+{
+	background-position: 100% -4561px;
+}
+.somalia_24_left
+{
+	background-position: 0 -4585px;
+}
+.somalia_24_right
+{
+	background-position: 100% -4585px;
+}
+.south-africa_24_left
+{
+	background-position: 0 -4609px;
+}
+.south-africa_24_right
+{
+	background-position: 100% -4609px;
+}
+.south-america_24_left
+{
+	background-position: 0 -4633px;
+}
+.south-america_24_right
+{
+	background-position: 100% -4633px;
+}
+.south-sudan_24_left
+{
+	background-position: 0 -4657px;
+}
+.south-sudan_24_right
+{
+	background-position: 100% -4657px;
+}
+.spain_24_left
+{
+	background-position: 0 -4681px;
+}
+.spain_24_right
+{
+	background-position: 100% -4681px;
+}
+.sri-lanka_24_left
+{
+	background-position: 0 -4705px;
+}
+.sri-lanka_24_right
+{
+	background-position: 100% -4705px;
+}
+.st-kitts-and-nevis_24_left
+{
+	background-position: 0 -4729px;
+}
+.st-kitts-and-nevis_24_right
+{
+	background-position: 100% -4729px;
+}
+.st-lucia_24_left
+{
+	background-position: 0 -4753px;
+}
+.st-lucia_24_right
+{
+	background-position: 100% -4753px;
+}
+.st-vincent-and-the-grenadines_24_left
+{
+	background-position: 0 -4777px;
+}
+.st-vincent-and-the-grenadines_24_right
+{
+	background-position: 100% -4777px;
+}
+.sudan_24_left
+{
+	background-position: 0 -4801px;
+}
+.sudan_24_right
+{
+	background-position: 100% -4801px;
+}
+.surinam_24_left
+{
+	background-position: 0 -4825px;
+}
+.surinam_24_right
+{
+	background-position: 100% -4825px;
+}
+.swaziland_24_left
+{
+	background-position: 0 -4849px;
+}
+.swaziland_24_right
+{
+	background-position: 100% -4849px;
+}
+.sweden_24_left
+{
+	background-position: 0 -4873px;
+}
+.sweden_24_right
+{
+	background-position: 100% -4873px;
+}
+.switzerland_24_left
+{
+	background-position: 0 -4897px;
+}
+.switzerland_24_right
+{
+	background-position: 100% -4897px;
+}
+.syria_24_left
+{
+	background-position: 0 -4921px;
+}
+.syria_24_right
+{
+	background-position: 100% -4921px;
+}
+.tahiti_24_left
+{
+	background-position: 0 -4945px;
+}
+.tahiti_24_right
+{
+	background-position: 100% -4945px;
+}
+.tajikistan_24_left
+{
+	background-position: 0 -4969px;
+}
+.tajikistan_24_right
+{
+	background-position: 100% -4969px;
+}
+.tanzania_24_left
+{
+	background-position: 0 -4993px;
+}
+.tanzania_24_right
+{
+	background-position: 100% -4993px;
+}
+.thailand_24_left
+{
+	background-position: 0 -5017px;
+}
+.thailand_24_right
+{
+	background-position: 100% -5017px;
+}
+.togo_24_left
+{
+	background-position: 0 -5041px;
+}
+.togo_24_right
+{
+	background-position: 100% -5041px;
+}
+.tonga_24_left
+{
+	background-position: 0 -5065px;
+}
+.tonga_24_right
+{
+	background-position: 100% -5065px;
+}
+.trinidad-and-tobago_24_left
+{
+	background-position: 0 -5089px;
+}
+.trinidad-and-tobago_24_right
+{
+	background-position: 100% -5089px;
+}
+.tunisia_24_left
+{
+	background-position: 0 -5113px;
+}
+.tunisia_24_right
+{
+	background-position: 100% -5113px;
+}
+.turkey_24_left
+{
+	background-position: 0 -5137px;
+}
+.turkey_24_right
+{
+	background-position: 100% -5137px;
+}
+.turkmenistan_24_left
+{
+	background-position: 0 -5161px;
+}
+.turkmenistan_24_right
+{
+	background-position: 100% -5161px;
+}
+.turks-and-caicos-islands_24_left
+{
+	background-position: 0 -5185px;
+}
+.turks-and-caicos-islands_24_right
+{
+	background-position: 100% -5185px;
+}
+.tuvalu_24_left
+{
+	background-position: 0 -5209px;
+}
+.tuvalu_24_right
+{
+	background-position: 100% -5209px;
+}
+.uganda_24_left
+{
+	background-position: 0 -5233px;
+}
+.uganda_24_right
+{
+	background-position: 100% -5233px;
+}
+.ukraine_24_left
+{
+	background-position: 0 -5257px;
+}
+.ukraine_24_right
+{
+	background-position: 100% -5257px;
+}
+.united-arab-emirates_24_left
+{
+	background-position: 0 -5281px;
+}
+.united-arab-emirates_24_right
+{
+	background-position: 100% -5281px;
+}
+.united-states_24_left
+{
+	background-position: 0 -5305px;
+}
+.united-states_24_right
+{
+	background-position: 100% -5305px;
+}
+.uruguay_24_left
+{
+	background-position: 0 -5329px;
+}
+.uruguay_24_right
+{
+	background-position: 100% -5329px;
+}
+.us-virgin-islands_24_left
+{
+	background-position: 0 -5353px;
+}
+.us-virgin-islands_24_right
+{
+	background-position: 100% -5353px;
+}
+.uzbekistan_24_left
+{
+	background-position: 0 -5377px;
+}
+.uzbekistan_24_right
+{
+	background-position: 100% -5377px;
+}
+.vanuatu_24_left
+{
+	background-position: 0 -5401px;
+}
+.vanuatu_24_right
+{
+	background-position: 100% -5401px;
+}
+.venezuela_24_left
+{
+	background-position: 0 -5425px;
+}
+.venezuela_24_right
+{
+	background-position: 100% -5425px;
+}
+.vietnam_24_left
+{
+	background-position: 0 -5449px;
+}
+.vietnam_24_right
+{
+	background-position: 100% -5449px;
+}
+.wales_24_left
+{
+	background-position: 0 -5473px;
+}
+.wales_24_right
+{
+	background-position: 100% -5473px;
+}
+.world_24_left
+{
+	background-position: 0 -5497px;
+}
+.world_24_right
+{
+	background-position: 100% -5497px;
+}
+.yemen_24_left
+{
+	background-position: 0 -5521px;
+}
+.yemen_24_right
+{
+	background-position: 100% -5521px;
+}
+.zambia_24_left
+{
+	background-position: 0 -5545px;
+}
+.zambia_24_right
+{
+	background-position: 100% -5545px;
+}
+.zanzibar_24_left
+{
+	background-position: 0 -5569px;
+}
+.zanzibar_24_right
+{
+	background-position: 100% -5569px;
+}
+.zimbabwe_24_left
+{
+	background-position: 0 -5593px;
+}
+.zimbabwe_24_right
+{
+	background-position: 100% -5593px;
+}
+
+
+.InfoNewsLink
+{
+	background-color: #333333;
+	color: White;
+}
+.InfoNewsLink .namelast
+{
+	margin-top: 10px;
+	padding-left: 5px;
+}
+
+.InfoNewsLink .ul_reset
+{
+	width: 100%;
+	list-style-type: none;
+	display: inline;
+}
+
+
+.InfoNewsLink ul li
+{
+	background: #333333 url('images/icon-link.png') no-repeat;
+	background-position: left;
+	line-height: 20px;
+	margin-left: 15px;
+}
+
+.InfoNewsLink ul li a
+{
+	padding-left: 15px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.background-0f5995
+{
+	background-color: #0f5995;
+}
+.background-d7d7d7
+{
+	background-color: #d7d7d7;
+}
+
+.background-b10228
+{
+	background-color: #b10228;
+}
+
+.table
+{
+	width: 100%;
+}
+
+
+.boxcontent
+{
+	width: 95%;
+	padding: 5px 3% 5px 2%;
+}
+
+.italic
+{
+	font-style:italic;
+	}
+
+.item-bg-gt
+{
+	background: url("/images/other_category_repeat.jpg") repeat-x scroll center center #FFFFFF;
+    height: 15px;
+    width: 100%;
+	}
+	
+.red-separator-gt
+{
+	background: none repeat scroll 0 0 #FF6600;
+    float: left;
+    height: 15px;
+    width: 3px;
+	}
+	
+.item-top-gt
+{
+	color: #FF6600;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+	}
+	
+.titleYellow 
+{
+	/*background: none repeat scroll 0 0 #221D21;*/
+    color: orange;
+    font-size: 14px;
+    padding-left: 0;
+    padding-top: 5px;
+}
+
+.link-non-orange-bold
+{
+	color:orange;
+	font-weight:bold;
+	text-decoration:none;
+	}	

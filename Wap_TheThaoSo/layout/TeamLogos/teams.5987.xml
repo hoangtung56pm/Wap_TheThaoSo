@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<gsmrs version="2.0" sport="soccer" lang="en" last_generated="2011-12-06 16:59:43"><method method_id="7" name="get_teams"><parameter name="detailed" value="no"/><parameter name="id" value="5987"/><parameter name="lang" value="en"/><parameter name="type" value="season"/></method></gsmrs>

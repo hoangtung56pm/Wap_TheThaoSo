@@ -1,0 +1,1942 @@
+2013-03-19 09:04:19,062 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 09:04:19,062 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 09:23:43,490 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 09:23:43,505 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:08:33,197 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 10:08:33,213 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:08:39,947 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 10:08:39,947 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:08:44,119 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 10:08:44,119 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:08:53,400 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 10:08:53,400 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:08:55,962 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 10:08:55,962 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:08:56,540 [INFO] 7 File -  
+2013-03-19 10:08:56,540 [INFO] 7 File -  
+2013-03-19 10:08:56,540 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 10:08:56,540 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 10:08:56,790 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 10:08:57,072 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 10:08:57,072 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 10:08:57,259 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 10:08:57,259 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 10:08:57,259 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 10:08:57,259 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 10:08:57,259 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 10:08:57,259 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 10:08:57,259 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 10:09:03,821 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 10:09:03,821 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:09:09,696 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 10:09:09,696 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:10:09,866 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 10:10:09,866 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:11:10,332 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 10:11:10,332 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:12:10,611 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 10:12:10,611 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:13:10,853 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 10:13:10,853 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:14:11,048 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 10:14:11,048 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:15:11,289 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 10:15:11,289 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:18:57,128 [DEBUG] 8 File - -----------------------------------------------
+2013-03-19 10:18:57,128 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:19:57,834 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 10:19:57,834 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:20:58,095 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 10:20:58,095 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:21:58,357 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 10:21:58,357 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:22:58,728 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 10:22:58,728 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:23:58,958 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 10:23:58,958 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:24:59,273 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 10:24:59,273 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:25:59,474 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 10:25:59,474 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:26:41,004 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 10:26:41,004 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:26:59,831 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 10:26:59,831 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:28:12,516 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 10:28:12,516 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:28:18,656 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 10:28:18,656 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:37:07,097 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 10:37:07,097 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 10:40:20,998 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 10:40:20,998 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:08:41,893 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 11:08:41,893 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:10:48,873 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 11:10:48,889 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:12:27,151 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 11:12:27,151 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:12:38,668 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 11:12:38,668 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:13:49,270 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 11:13:49,270 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:14:52,872 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 11:14:52,872 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:15:18,984 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 11:15:18,984 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:16:04,155 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 11:16:04,155 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:16:34,639 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 11:16:34,639 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:17:32,342 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 11:17:32,342 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:18:09,841 [DEBUG] 8 File - -----------------------------------------------
+2013-03-19 11:18:09,841 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:18:29,560 [DEBUG] 8 File - -----------------------------------------------
+2013-03-19 11:18:29,560 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:20:05,465 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 11:20:05,465 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:20:11,543 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 11:20:11,543 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 11:50:15,083 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 11:50:15,083 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 12:20:18,204 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 12:20:18,219 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 12:50:21,438 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 12:50:21,438 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 13:20:24,731 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 13:20:24,746 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 13:50:27,559 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 13:50:27,559 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 14:20:30,297 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 14:20:30,313 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 14:50:33,310 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 14:50:33,325 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 15:20:36,221 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 15:20:36,221 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 15:50:39,513 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 15:50:39,513 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 15:57:26,391 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 15:57:26,391 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 15:57:44,546 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 15:57:44,546 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 15:57:53,640 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 15:57:53,640 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 15:57:57,452 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 15:57:57,452 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 15:57:57,968 [INFO] 5 File -  
+2013-03-19 15:57:57,968 [INFO] 5 File -  
+2013-03-19 15:57:57,968 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 15:57:57,968 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 15:57:58,218 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 15:57:58,718 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 15:57:58,718 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 15:57:58,921 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 15:57:58,921 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 15:57:58,921 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 15:57:58,921 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 15:57:58,921 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 15:57:58,921 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 15:57:58,921 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 15:58:59,185 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 15:58:59,185 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 15:58:59,232 [INFO] 1 File -  
+2013-03-19 15:58:59,232 [INFO] 1 File -  
+2013-03-19 15:58:59,232 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 15:58:59,232 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 15:58:59,232 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 15:58:59,872 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 15:58:59,872 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 15:58:59,872 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 15:58:59,872 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 15:58:59,872 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 15:58:59,872 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 15:58:59,872 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 15:58:59,872 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 15:58:59,872 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:00:00,261 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:00:00,261 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:00:00,308 [INFO] 7 File -  
+2013-03-19 16:00:00,308 [INFO] 7 File -  
+2013-03-19 16:00:00,308 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 16:00:00,308 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:00:00,308 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:00:00,651 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:00:00,651 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 16:00:00,667 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 16:00:00,667 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 16:00:00,667 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:00:00,667 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:00:00,667 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:00:00,667 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 16:00:00,667 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:01:01,150 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:01:01,150 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:01:01,212 [INFO] 1 File -  
+2013-03-19 16:01:01,212 [INFO] 1 File -  
+2013-03-19 16:01:01,212 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:01:01,212 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:01:01,212 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:01:01,525 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:01:01,525 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:01:01,540 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:01:01,540 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:01:01,540 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:01:01,540 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:01:01,540 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:01:01,540 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:01:01,540 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:02:01,898 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:02:01,898 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:02:01,929 [INFO] 1 File -  
+2013-03-19 16:02:01,929 [INFO] 1 File -  
+2013-03-19 16:02:01,929 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:02:01,929 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:02:01,929 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:02:02,194 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:02:02,194 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:02:02,194 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:02:02,194 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:02:02,194 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:02:02,194 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:02:02,194 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:02:02,194 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:02:02,194 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:03:02,880 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:03:02,880 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:03:02,927 [INFO] 1 File -  
+2013-03-19 16:03:02,927 [INFO] 1 File -  
+2013-03-19 16:03:02,927 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:03:02,927 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:03:02,927 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:03:03,130 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:03:03,130 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:03:03,130 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:03:03,130 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:03:03,130 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:03:03,146 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:03:03,146 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:03:03,146 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:03:03,146 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:04:03,816 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:04:03,816 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:04:03,847 [INFO] 7 File -  
+2013-03-19 16:04:03,847 [INFO] 7 File -  
+2013-03-19 16:04:03,847 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 16:04:03,847 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:04:03,847 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:04:04,019 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:04:04,019 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 16:04:04,019 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 16:04:04,019 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 16:04:04,019 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:04:04,019 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:04:04,019 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:04:04,019 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 16:04:04,019 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:05:04,392 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:05:04,392 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:05:04,439 [INFO] 6 File -  
+2013-03-19 16:05:04,439 [INFO] 6 File -  
+2013-03-19 16:05:04,439 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 16:05:04,439 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:05:04,439 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:05:04,845 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:05:04,845 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 16:05:04,845 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 16:05:04,845 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 16:05:04,845 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:05:04,845 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:05:04,845 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:05:04,845 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 16:05:04,845 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:06:05,374 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:06:05,374 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:06:05,437 [INFO] 6 File -  
+2013-03-19 16:06:05,437 [INFO] 6 File -  
+2013-03-19 16:06:05,437 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 16:06:05,437 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:06:05,437 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:06:05,640 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:06:05,640 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 16:06:05,640 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 16:06:05,640 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 16:06:05,640 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:06:05,640 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:06:05,640 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:06:05,640 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 16:06:05,640 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:07:06,185 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:07:06,185 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:07:06,216 [INFO] 7 File -  
+2013-03-19 16:07:06,216 [INFO] 7 File -  
+2013-03-19 16:07:06,216 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 16:07:06,216 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:07:06,216 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:07:06,466 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:07:06,466 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 16:07:06,482 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 16:07:06,482 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 16:07:06,482 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:07:06,482 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:07:06,482 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:07:06,482 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 16:07:06,482 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:08:08,792 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:08:08,808 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:08:08,995 [INFO] 5 File -  
+2013-03-19 16:08:08,995 [INFO] 5 File -  
+2013-03-19 16:08:08,995 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:08:08,995 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:08:09,245 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:08:09,401 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:08:09,401 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:08:09,558 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:08:09,558 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:08:09,558 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:08:09,558 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:08:09,558 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:08:09,558 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:08:09,558 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:09:10,165 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:09:10,165 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:09:10,212 [INFO] 5 File -  
+2013-03-19 16:09:10,212 [INFO] 5 File -  
+2013-03-19 16:09:10,212 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:09:10,212 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:09:10,212 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:09:10,384 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:09:10,384 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:09:10,384 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:09:10,384 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:09:10,384 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:09:10,384 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:09:10,384 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:09:10,384 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:09:10,384 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:10:10,882 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:10:10,882 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:10:10,929 [INFO] 1 File -  
+2013-03-19 16:10:10,929 [INFO] 1 File -  
+2013-03-19 16:10:10,929 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:10:10,929 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:10:10,929 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:10:11,148 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:10:11,148 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:10:11,148 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:10:11,148 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:10:11,148 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:10:11,148 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:10:11,148 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:10:11,148 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:10:11,148 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:10:59,474 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:10:59,474 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:10:59,490 [INFO] 5 File -  
+2013-03-19 16:10:59,490 [INFO] 5 File -  
+2013-03-19 16:10:59,490 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:10:59,490 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:10:59,490 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:10:59,615 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:10:59,615 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:10:59,615 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:10:59,615 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:10:59,615 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:10:59,615 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:10:59,615 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:10:59,615 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:10:59,615 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:11:36,770 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:11:36,770 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:11:40,942 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:11:40,942 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:11:40,942 [INFO] 5 File -  
+2013-03-19 16:11:40,942 [INFO] 5 File -  
+2013-03-19 16:11:40,942 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:11:40,942 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:11:40,942 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:11:41,410 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:11:41,410 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:11:41,410 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:11:41,410 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:11:41,410 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:11:41,410 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:11:41,410 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:11:41,410 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:11:41,410 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:12:42,033 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:12:42,033 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:12:42,080 [INFO] 1 File -  
+2013-03-19 16:12:42,080 [INFO] 1 File -  
+2013-03-19 16:12:42,080 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:12:42,080 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:12:42,080 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:12:42,580 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:12:42,580 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:12:42,580 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:12:42,580 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:12:42,580 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:12:42,580 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:12:42,580 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:12:42,580 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:12:42,580 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:13:42,938 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:13:42,938 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:13:42,969 [INFO] 7 File -  
+2013-03-19 16:13:42,969 [INFO] 7 File -  
+2013-03-19 16:13:42,969 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 16:13:42,969 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:13:42,969 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:13:43,219 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:13:43,219 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 16:13:43,235 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 16:13:43,235 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 16:13:43,235 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:13:43,235 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:13:43,235 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:13:43,235 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 16:13:43,235 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:14:13,140 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:14:13,140 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:14:13,718 [INFO] 6 File -  
+2013-03-19 16:14:13,718 [INFO] 6 File -  
+2013-03-19 16:14:13,718 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 16:14:13,718 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:14:13,718 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:14:13,905 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:14:13,905 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 16:14:13,905 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 16:14:13,905 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 16:14:13,905 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:14:13,905 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:14:13,905 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:14:13,905 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 16:14:13,905 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:14:43,951 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:14:43,951 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:14:44,514 [INFO] 1 File -  
+2013-03-19 16:14:44,514 [INFO] 1 File -  
+2013-03-19 16:14:44,514 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:14:44,514 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:14:44,514 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:14:44,733 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:14:44,733 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:14:44,733 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:14:44,733 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:14:44,733 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:14:44,733 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:14:44,733 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:14:44,733 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:14:44,733 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:15:45,231 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:15:45,231 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:15:45,277 [INFO] 7 File -  
+2013-03-19 16:15:45,277 [INFO] 7 File -  
+2013-03-19 16:15:45,277 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 16:15:45,277 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:15:45,277 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:15:45,465 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:15:45,465 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 16:15:45,465 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 16:15:45,465 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 16:15:45,465 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:15:45,465 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:15:45,465 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:15:45,465 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 16:15:45,465 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:16:45,822 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:16:45,822 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:16:45,854 [INFO] 7 File -  
+2013-03-19 16:16:45,854 [INFO] 7 File -  
+2013-03-19 16:16:45,854 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 16:16:45,854 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:16:45,854 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:16:45,994 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:16:45,994 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 16:16:45,994 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 16:16:45,994 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 16:16:45,994 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:16:45,994 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:16:45,994 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:16:45,994 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 16:16:45,994 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:17:46,336 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:17:46,336 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:17:46,383 [INFO] 6 File -  
+2013-03-19 16:17:46,383 [INFO] 6 File -  
+2013-03-19 16:17:46,383 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 16:17:46,383 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:17:46,383 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:17:46,711 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:17:46,711 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 16:17:46,711 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 16:17:46,711 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 16:17:46,711 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:17:46,711 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:17:46,711 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:17:46,711 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 16:17:46,711 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:18:47,069 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:18:47,069 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:18:47,100 [INFO] 6 File -  
+2013-03-19 16:18:47,100 [INFO] 6 File -  
+2013-03-19 16:18:47,100 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 16:18:47,100 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:18:47,100 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:18:47,319 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:18:47,319 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 16:18:47,334 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 16:18:47,334 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 16:18:47,334 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:18:47,334 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:18:47,334 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:18:47,334 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 16:18:47,334 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:19:47,676 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:19:47,676 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:19:47,707 [INFO] 5 File -  
+2013-03-19 16:19:47,707 [INFO] 5 File -  
+2013-03-19 16:19:47,707 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:19:47,707 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:19:47,707 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:19:47,863 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:19:47,863 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:19:47,863 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:19:47,863 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:19:47,863 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:19:47,863 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:19:47,863 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:19:47,863 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:19:47,863 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:20:48,221 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:20:48,221 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:20:48,268 [INFO] 5 File -  
+2013-03-19 16:20:48,268 [INFO] 5 File -  
+2013-03-19 16:20:48,268 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:20:48,268 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:20:48,268 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:20:48,721 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:20:48,721 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:20:48,721 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:20:48,721 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:20:48,721 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:20:48,721 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:20:48,721 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:20:48,721 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:20:48,721 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:21:49,063 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:21:49,063 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:21:49,110 [INFO] 5 File -  
+2013-03-19 16:21:49,110 [INFO] 5 File -  
+2013-03-19 16:21:49,110 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:21:49,110 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:21:49,110 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:21:49,516 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:21:49,516 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:21:49,531 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:21:49,531 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:21:49,531 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:21:49,531 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:21:49,531 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:21:49,531 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:21:49,531 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:22:49,873 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:22:49,873 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:22:49,920 [INFO] 1 File -  
+2013-03-19 16:22:49,920 [INFO] 1 File -  
+2013-03-19 16:22:49,920 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:22:49,920 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:22:49,920 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:22:50,061 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:22:50,061 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:22:50,811 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:22:50,811 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:22:50,811 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:22:50,826 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:22:50,826 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:22:50,826 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:22:50,826 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:23:52,121 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:23:52,121 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:23:52,168 [INFO] 7 File -  
+2013-03-19 16:23:52,168 [INFO] 7 File -  
+2013-03-19 16:23:52,168 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 16:23:52,168 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:23:52,168 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:23:52,496 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:23:52,496 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 16:23:52,496 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 16:23:52,496 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 16:23:52,496 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:23:52,496 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:23:52,496 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:23:52,496 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 16:23:52,496 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:24:53,260 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:24:53,260 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:24:53,291 [INFO] 5 File -  
+2013-03-19 16:24:53,291 [INFO] 5 File -  
+2013-03-19 16:24:53,291 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:24:53,291 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:24:53,291 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:24:53,463 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:24:53,463 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:24:53,463 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:24:53,463 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:24:53,463 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:24:53,463 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:24:53,463 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:24:53,463 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:24:53,463 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:25:53,805 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:25:53,805 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:25:53,836 [INFO] 1 File -  
+2013-03-19 16:25:53,836 [INFO] 1 File -  
+2013-03-19 16:25:53,836 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:25:53,836 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:25:53,836 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:25:54,164 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:25:54,164 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:25:54,180 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:25:54,180 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:25:54,180 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:25:54,180 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:25:54,180 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:25:54,180 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:25:54,180 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:26:54,506 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:26:54,506 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:26:54,537 [INFO] 7 File -  
+2013-03-19 16:26:54,537 [INFO] 7 File -  
+2013-03-19 16:26:54,537 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 16:26:54,537 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:26:54,537 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:26:54,709 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:26:54,709 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 16:26:54,725 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 16:26:54,725 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 16:26:54,725 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:26:54,725 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:26:54,725 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:26:54,725 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 16:26:54,725 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:27:55,051 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:27:55,051 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:27:55,082 [INFO] 1 File -  
+2013-03-19 16:27:55,082 [INFO] 1 File -  
+2013-03-19 16:27:55,082 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:27:55,082 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:27:55,082 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:27:55,488 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:27:55,488 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:27:55,488 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:27:55,488 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:27:55,488 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:27:55,488 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:27:55,488 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:27:55,488 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:27:55,488 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:28:55,799 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:28:55,799 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:28:55,830 [INFO] 6 File -  
+2013-03-19 16:28:55,830 [INFO] 6 File -  
+2013-03-19 16:28:55,830 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 16:28:55,830 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:28:55,830 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:28:56,158 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:28:56,158 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 16:28:56,158 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 16:28:56,158 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 16:28:56,158 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:28:56,158 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:28:56,158 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:28:56,158 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 16:28:56,158 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:29:56,485 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:29:56,485 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:29:56,516 [INFO] 6 File -  
+2013-03-19 16:29:56,516 [INFO] 6 File -  
+2013-03-19 16:29:56,516 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 16:29:56,516 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:29:56,516 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:29:56,641 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:29:56,641 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 16:29:56,656 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 16:29:56,656 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 16:29:56,656 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:29:56,656 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:29:56,656 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:29:56,656 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 16:29:56,656 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:30:56,967 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:30:56,967 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:30:57,014 [INFO] 5 File -  
+2013-03-19 16:30:57,014 [INFO] 5 File -  
+2013-03-19 16:30:57,014 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:30:57,014 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:30:57,014 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:30:57,264 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:30:57,264 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:30:57,264 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:30:57,264 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:30:57,264 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:30:57,264 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:30:57,264 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:30:57,264 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:30:57,264 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:31:57,590 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:31:57,590 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:31:57,621 [INFO] 5 File -  
+2013-03-19 16:31:57,621 [INFO] 5 File -  
+2013-03-19 16:31:57,621 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:31:57,621 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:31:57,621 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:31:57,778 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:31:57,778 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:31:57,793 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:31:57,793 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:31:57,793 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:31:57,793 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:31:57,793 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:31:57,793 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:31:57,793 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:32:58,182 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:32:58,182 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:32:58,213 [INFO] 1 File -  
+2013-03-19 16:32:58,213 [INFO] 1 File -  
+2013-03-19 16:32:58,213 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:32:58,213 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:32:58,213 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:32:58,401 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:32:58,401 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:32:58,401 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:32:58,401 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:32:58,401 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:32:58,401 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:32:58,401 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:32:58,401 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:32:58,401 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:33:58,883 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:33:58,883 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:33:58,899 [INFO] 1 File -  
+2013-03-19 16:33:58,899 [INFO] 1 File -  
+2013-03-19 16:33:58,899 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:33:58,899 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:33:58,899 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:33:59,102 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:33:59,102 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:33:59,102 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:33:59,102 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:33:59,102 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:33:59,102 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:33:59,102 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:33:59,102 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:33:59,102 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:34:10,242 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:34:10,242 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:34:10,242 [INFO] 1 File -  
+2013-03-19 16:34:10,242 [INFO] 1 File -  
+2013-03-19 16:34:10,242 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:34:10,242 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:34:10,242 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:34:10,383 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:34:10,383 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:34:10,383 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:34:10,383 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:34:10,383 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:34:10,383 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:34:10,383 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:34:10,383 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:34:10,383 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:35:10,603 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:35:10,603 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:35:10,635 [INFO] 1 File -  
+2013-03-19 16:35:10,635 [INFO] 1 File -  
+2013-03-19 16:35:10,635 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:35:10,635 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:35:10,635 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:35:10,791 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:35:10,791 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:35:10,791 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:35:10,791 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:35:10,791 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:35:10,791 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:35:10,791 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:35:10,791 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:35:10,791 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:36:12,144 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:36:12,144 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:36:12,191 [INFO] 5 File -  
+2013-03-19 16:36:12,191 [INFO] 5 File -  
+2013-03-19 16:36:12,191 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:36:12,191 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:36:12,191 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:36:12,347 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:36:12,347 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:36:12,362 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:36:12,362 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:36:12,362 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:36:12,362 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:36:12,362 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:36:12,362 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:36:12,362 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:37:12,653 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:37:12,653 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:37:12,684 [INFO] 1 File -  
+2013-03-19 16:37:12,684 [INFO] 1 File -  
+2013-03-19 16:37:12,684 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:37:12,684 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:37:12,684 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:37:12,856 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:37:12,856 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:37:12,856 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:37:12,856 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:37:12,856 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:37:12,856 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:37:12,856 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:37:12,856 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:37:12,856 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:38:13,146 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:38:13,146 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:38:13,708 [INFO] 6 File -  
+2013-03-19 16:38:13,708 [INFO] 6 File -  
+2013-03-19 16:38:13,708 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 16:38:13,708 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:38:13,708 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:38:13,943 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:38:13,943 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 16:38:13,958 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 16:38:13,958 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 16:38:13,958 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:38:13,958 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:38:13,958 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:38:13,958 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 16:38:13,958 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:39:14,670 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:39:14,670 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:39:15,217 [INFO] 6 File -  
+2013-03-19 16:39:15,217 [INFO] 6 File -  
+2013-03-19 16:39:15,217 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 16:39:15,217 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:39:15,217 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:39:15,467 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:39:15,467 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 16:39:15,483 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 16:39:15,483 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 16:39:15,483 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:39:15,483 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:39:15,483 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:39:15,483 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 16:39:15,483 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:40:16,145 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:40:16,145 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:40:16,176 [INFO] 5 File -  
+2013-03-19 16:40:16,176 [INFO] 5 File -  
+2013-03-19 16:40:16,176 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:40:16,176 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:40:16,176 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:40:16,380 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:40:16,380 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:40:16,395 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:40:16,395 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:40:16,395 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:40:16,395 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:40:16,395 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:40:16,395 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:40:16,395 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:41:16,678 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:41:16,678 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:41:16,710 [INFO] 5 File -  
+2013-03-19 16:41:16,710 [INFO] 5 File -  
+2013-03-19 16:41:16,710 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:41:16,710 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:41:16,710 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:41:16,913 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:41:16,913 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:41:16,913 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:41:16,913 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:41:16,913 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:41:16,913 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:41:16,913 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:41:16,913 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:41:16,913 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:42:17,212 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:42:17,212 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:43:58,277 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:43:58,277 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:44:01,512 [INFO] 1 File -  
+2013-03-19 16:44:01,512 [INFO] 1 File -  
+2013-03-19 16:44:01,512 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:44:01,512 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:44:01,762 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:44:01,918 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:44:01,918 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:44:02,106 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:44:02,106 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:44:02,106 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:44:02,106 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:44:02,106 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:44:02,106 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:44:02,106 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:44:38,951 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:44:38,951 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:44:38,951 [INFO] 5 File -  
+2013-03-19 16:44:38,951 [INFO] 5 File -  
+2013-03-19 16:44:38,951 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:44:38,951 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:44:38,951 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:44:39,185 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:44:39,185 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:44:39,185 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:44:39,185 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:44:39,185 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:44:39,185 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:44:39,185 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:44:39,185 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:44:39,185 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:44:43,857 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:44:43,857 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:44:43,857 [INFO] 1 File -  
+2013-03-19 16:44:43,857 [INFO] 1 File -  
+2013-03-19 16:44:43,857 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:44:43,857 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:44:43,857 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:44:44,060 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:44:44,060 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:44:44,060 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:44:44,060 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:44:44,060 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:44:44,060 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:44:44,060 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:44:44,060 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:44:44,060 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:45:44,232 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:45:44,232 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:45:44,263 [INFO] 1 File -  
+2013-03-19 16:45:44,263 [INFO] 1 File -  
+2013-03-19 16:45:44,263 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:45:44,263 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:45:44,263 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:45:44,638 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:45:44,638 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:45:44,638 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:45:44,638 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:45:44,638 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:45:44,638 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:45:44,638 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:45:44,638 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:45:44,638 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:46:28,310 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:46:28,310 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:46:28,325 [INFO] 7 File -  
+2013-03-19 16:46:28,325 [INFO] 7 File -  
+2013-03-19 16:46:28,325 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 16:46:28,325 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:46:28,325 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:46:28,513 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:46:28,513 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 16:46:28,513 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 16:46:28,513 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 16:46:28,513 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:46:28,513 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:46:28,513 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:46:28,513 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 16:46:28,513 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:46:31,075 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:46:31,075 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:46:31,091 [INFO] 5 File -  
+2013-03-19 16:46:31,091 [INFO] 5 File -  
+2013-03-19 16:46:31,091 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:46:31,091 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:46:31,091 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:46:31,294 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:46:31,294 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:46:31,294 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:46:31,294 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:46:31,294 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:46:31,294 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:46:31,294 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:46:31,294 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:46:31,294 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:47:30,778 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:47:30,778 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:47:33,590 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:47:33,590 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:47:34,590 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:47:34,590 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:47:35,590 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:47:35,590 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:47:37,403 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:47:37,403 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:47:39,419 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:47:39,419 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:47:43,403 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:47:43,403 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:48:23,153 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:48:23,153 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:48:27,340 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:48:27,340 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:48:34,121 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:48:34,121 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:48:38,465 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:48:38,465 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:48:42,028 [INFO] 5 File -  
+2013-03-19 16:48:42,028 [INFO] 5 File -  
+2013-03-19 16:48:42,028 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:48:42,028 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:48:42,324 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:48:42,512 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:48:42,512 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:48:42,668 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:48:42,668 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:48:42,668 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:48:42,668 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:48:42,668 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:48:42,668 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:48:42,668 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:48:45,309 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:48:45,309 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:48:47,621 [INFO] 1 File -  
+2013-03-19 16:48:47,621 [INFO] 1 File -  
+2013-03-19 16:48:47,621 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:48:47,621 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:48:47,621 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:48:47,840 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:48:47,840 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:48:47,840 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:48:47,840 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:48:47,840 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:48:47,840 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:48:47,840 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:48:47,840 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:48:47,840 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:49:01,793 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:49:01,793 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:51:27,353 [INFO] 6 File -  
+2013-03-19 16:51:27,353 [INFO] 6 File -  
+2013-03-19 16:51:27,353 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 16:51:27,353 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:51:27,353 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:51:27,696 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:51:27,696 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 16:51:27,712 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 16:51:27,712 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 16:51:27,712 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:51:27,712 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:51:27,712 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:51:27,712 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 16:51:27,712 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:51:33,071 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 16:51:33,071 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:51:35,618 [INFO] 7 File -  
+2013-03-19 16:51:35,618 [INFO] 7 File -  
+2013-03-19 16:51:35,618 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 16:51:35,618 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:51:35,618 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:51:35,962 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:51:35,962 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 16:51:35,962 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 16:51:35,962 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 16:51:35,962 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:51:35,962 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:51:35,962 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:51:35,962 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 16:51:35,962 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:51:38,306 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 16:51:38,306 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:51:42,868 [INFO] 1 File -  
+2013-03-19 16:51:42,868 [INFO] 1 File -  
+2013-03-19 16:51:42,868 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 16:51:42,868 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:51:42,868 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:51:43,040 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:51:43,040 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 16:51:43,040 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 16:51:43,040 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 16:51:43,040 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:51:43,040 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:51:43,040 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:51:43,040 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 16:51:43,040 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:52:43,273 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:52:43,273 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:52:43,288 [INFO] 6 File -  
+2013-03-19 16:52:43,288 [INFO] 6 File -  
+2013-03-19 16:52:43,288 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 16:52:43,288 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:52:43,288 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:52:43,491 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:52:43,491 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 16:52:43,491 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 16:52:43,491 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 16:52:43,491 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:52:43,491 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:52:43,491 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:52:43,491 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 16:52:43,491 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:53:43,959 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:53:43,959 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:53:43,990 [INFO] 6 File -  
+2013-03-19 16:53:43,990 [INFO] 6 File -  
+2013-03-19 16:53:43,990 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 16:53:43,990 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:53:43,990 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:53:44,177 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:53:44,177 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 16:53:44,177 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 16:53:44,177 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 16:53:44,177 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:53:44,177 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:53:44,177 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:53:44,177 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 16:53:44,177 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:54:44,582 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:54:44,582 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:54:44,613 [INFO] 6 File -  
+2013-03-19 16:54:44,613 [INFO] 6 File -  
+2013-03-19 16:54:44,613 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 16:54:44,613 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:54:44,613 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:54:44,816 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:54:44,816 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 16:54:44,816 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 16:54:44,816 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 16:54:44,816 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:54:44,816 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:54:44,816 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:54:44,816 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 16:54:44,816 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:55:45,221 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:55:45,237 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:55:45,268 [INFO] 5 File -  
+2013-03-19 16:55:45,268 [INFO] 5 File -  
+2013-03-19 16:55:45,268 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:55:45,268 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:55:45,268 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:55:45,502 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:55:45,502 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:55:45,502 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:55:45,502 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:55:45,502 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:55:45,502 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:55:45,502 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:55:45,502 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:55:45,502 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:56:45,923 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:56:45,923 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:56:47,110 [INFO] 5 File -  
+2013-03-19 16:56:47,110 [INFO] 5 File -  
+2013-03-19 16:56:47,110 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:56:47,110 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:56:47,110 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:56:47,391 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:56:47,391 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:56:47,391 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:56:47,391 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:56:47,391 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:56:47,391 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:56:47,391 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:56:47,391 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:56:47,391 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:57:47,765 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:57:47,765 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:57:47,796 [INFO] 5 File -  
+2013-03-19 16:57:47,796 [INFO] 5 File -  
+2013-03-19 16:57:47,796 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:57:47,796 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:57:47,796 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:57:48,015 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:57:48,015 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:57:48,030 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:57:48,030 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:57:48,030 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:57:48,030 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:57:48,030 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:57:48,030 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:57:48,030 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:58:48,373 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 16:58:48,373 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:58:48,404 [INFO] 6 File -  
+2013-03-19 16:58:48,404 [INFO] 6 File -  
+2013-03-19 16:58:48,404 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 16:58:48,404 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:58:48,404 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:58:48,576 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:58:48,576 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 16:58:48,576 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 16:58:48,576 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 16:58:48,576 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:58:48,576 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:58:48,576 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:58:48,576 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 16:58:48,576 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:59:48,949 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 16:59:48,949 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 16:59:49,480 [INFO] 5 File -  
+2013-03-19 16:59:49,480 [INFO] 5 File -  
+2013-03-19 16:59:49,480 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 16:59:49,480 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 16:59:49,480 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 16:59:49,652 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 16:59:49,652 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 16:59:49,668 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 16:59:49,668 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 16:59:49,668 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 16:59:49,668 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 16:59:49,668 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 16:59:49,668 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 16:59:49,668 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:00:49,947 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 17:00:49,947 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:00:49,979 [INFO] 6 File -  
+2013-03-19 17:00:49,979 [INFO] 6 File -  
+2013-03-19 17:00:49,979 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 17:00:49,979 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:00:49,979 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:00:50,182 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:00:50,182 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 17:00:50,182 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 17:00:50,182 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 17:00:50,182 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:00:50,182 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:00:50,182 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:00:50,182 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 17:00:50,182 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:01:50,477 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 17:01:50,477 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:01:50,508 [INFO] 6 File -  
+2013-03-19 17:01:50,508 [INFO] 6 File -  
+2013-03-19 17:01:50,508 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 17:01:50,508 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:01:50,508 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:01:50,648 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:01:50,648 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 17:01:50,664 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 17:01:50,664 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 17:01:50,664 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:01:50,664 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:01:50,664 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:01:50,664 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 17:01:50,664 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:02:50,943 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 17:02:50,943 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:02:50,990 [INFO] 6 File -  
+2013-03-19 17:02:50,990 [INFO] 6 File -  
+2013-03-19 17:02:50,990 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 17:02:50,990 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:02:50,990 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:02:51,193 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:02:51,193 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 17:02:51,193 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 17:02:51,193 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 17:02:51,193 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:02:51,193 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:02:51,193 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:02:51,193 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 17:02:51,193 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:03:51,473 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 17:03:51,473 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:03:51,504 [INFO] 7 File -  
+2013-03-19 17:03:51,504 [INFO] 7 File -  
+2013-03-19 17:03:51,504 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 17:03:51,504 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:03:51,504 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:03:51,723 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:03:51,723 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 17:03:51,723 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 17:03:51,723 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 17:03:51,723 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:03:51,723 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:03:51,723 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:03:51,723 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 17:03:51,723 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:04:52,018 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:04:52,018 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:04:52,049 [INFO] 1 File -  
+2013-03-19 17:04:52,049 [INFO] 1 File -  
+2013-03-19 17:04:52,049 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:04:52,049 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:04:52,049 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:04:52,236 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:04:52,236 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:04:52,252 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:04:52,252 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:04:52,252 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:04:52,252 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:04:52,252 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:04:52,252 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:04:52,252 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:05:52,547 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 17:05:52,547 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:05:52,594 [INFO] 6 File -  
+2013-03-19 17:05:52,594 [INFO] 6 File -  
+2013-03-19 17:05:52,594 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 17:05:52,594 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:05:52,594 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:05:52,750 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:05:52,750 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 17:05:52,766 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 17:05:52,766 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 17:05:52,766 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:05:52,766 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:05:52,766 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:05:52,766 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 17:05:52,766 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:06:53,045 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 17:06:53,045 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:06:53,076 [INFO] 7 File -  
+2013-03-19 17:06:53,076 [INFO] 7 File -  
+2013-03-19 17:06:53,076 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 17:06:53,076 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:06:53,076 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:06:53,311 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:06:53,311 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 17:06:53,311 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 17:06:53,311 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 17:06:53,311 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:06:53,311 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:06:53,311 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:06:53,311 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 17:06:53,311 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:07:53,590 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:07:53,590 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:07:53,668 [INFO] 1 File -  
+2013-03-19 17:07:53,668 [INFO] 1 File -  
+2013-03-19 17:07:53,668 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:07:53,668 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:07:53,668 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:07:53,824 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:07:53,824 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:07:53,824 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:07:53,824 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:07:53,824 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:07:53,824 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:07:53,824 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:07:53,824 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:07:53,824 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:08:54,432 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 17:08:54,432 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:08:54,479 [INFO] 5 File -  
+2013-03-19 17:08:54,479 [INFO] 5 File -  
+2013-03-19 17:08:54,479 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 17:08:54,479 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:08:54,479 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:08:54,697 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:08:54,697 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 17:08:54,697 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 17:08:54,697 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 17:08:54,697 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:08:54,697 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:08:54,697 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:08:54,697 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 17:08:54,697 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:09:54,977 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:09:54,977 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:09:55,008 [INFO] 1 File -  
+2013-03-19 17:09:55,008 [INFO] 1 File -  
+2013-03-19 17:09:55,008 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:09:55,008 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:09:55,008 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:09:55,164 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:09:55,164 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:09:55,164 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:09:55,164 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:09:55,164 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:09:55,164 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:09:55,164 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:09:55,164 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:09:55,164 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:10:55,459 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 17:10:55,459 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:10:55,490 [INFO] 7 File -  
+2013-03-19 17:10:55,490 [INFO] 7 File -  
+2013-03-19 17:10:55,490 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 17:10:55,490 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:10:55,490 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:10:55,897 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:10:55,897 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 17:10:55,897 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 17:10:55,897 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 17:10:55,897 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:10:55,897 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:10:55,897 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:10:55,897 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 17:10:55,897 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:12:01,191 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 17:12:01,207 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:12:04,629 [INFO] 5 File -  
+2013-03-19 17:12:04,629 [INFO] 5 File -  
+2013-03-19 17:12:04,629 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 17:12:04,629 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:12:04,879 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:12:05,051 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:12:05,051 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 17:12:05,207 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 17:12:05,207 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 17:12:05,207 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:12:05,207 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:12:05,207 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:12:05,207 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 17:12:05,207 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:13:06,080 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:13:06,080 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:13:06,111 [INFO] 1 File -  
+2013-03-19 17:13:06,111 [INFO] 1 File -  
+2013-03-19 17:13:06,111 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:13:06,111 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:13:06,111 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:13:06,299 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:13:06,299 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:13:06,299 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:13:06,299 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:13:06,299 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:13:06,299 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:13:06,299 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:13:06,299 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:13:06,299 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:14:06,594 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 17:14:06,594 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:14:06,641 [INFO] 7 File -  
+2013-03-19 17:14:06,641 [INFO] 7 File -  
+2013-03-19 17:14:06,641 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 17:14:06,641 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:14:06,641 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:14:06,781 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:14:06,781 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 17:14:06,781 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 17:14:06,781 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 17:14:06,781 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:14:06,781 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:14:06,781 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:14:06,781 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 17:14:06,781 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:14:56,217 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 17:14:56,217 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:14:56,623 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 17:14:56,623 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:14:56,623 [INFO] 5 File -  
+2013-03-19 17:14:56,623 [INFO] 5 File -  
+2013-03-19 17:14:56,623 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 17:14:56,623 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:14:56,623 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:14:56,780 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:14:56,780 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 17:14:56,780 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 17:14:56,780 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 17:14:56,780 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:14:56,780 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:14:56,780 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:14:56,780 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 17:14:56,780 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:15:57,778 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 17:15:57,778 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:15:57,824 [INFO] 7 File -  
+2013-03-19 17:15:57,824 [INFO] 7 File -  
+2013-03-19 17:15:57,824 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 17:15:57,824 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:15:57,824 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:15:57,981 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:15:57,981 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 17:15:57,981 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 17:15:57,981 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 17:15:57,981 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:15:57,981 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:15:57,981 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:15:57,981 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 17:15:57,981 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:16:58,729 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 17:16:58,729 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:16:58,760 [INFO] 6 File -  
+2013-03-19 17:16:58,760 [INFO] 6 File -  
+2013-03-19 17:16:58,760 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 17:16:58,760 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:16:58,760 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:16:58,979 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:16:58,979 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 17:16:58,979 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 17:16:58,979 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 17:16:58,979 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:16:58,979 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:16:58,979 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:16:58,979 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 17:16:58,979 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:17:59,508 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 17:17:59,508 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:17:59,539 [INFO] 5 File -  
+2013-03-19 17:17:59,539 [INFO] 5 File -  
+2013-03-19 17:17:59,539 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 17:17:59,539 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:17:59,539 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:17:59,696 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:17:59,696 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 17:17:59,696 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 17:17:59,696 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 17:17:59,696 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:17:59,696 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:17:59,696 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:17:59,696 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 17:17:59,696 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:19:00,162 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:19:00,162 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:19:00,209 [INFO] 1 File -  
+2013-03-19 17:19:00,209 [INFO] 1 File -  
+2013-03-19 17:19:00,209 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:19:00,209 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:19:00,209 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:19:00,366 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:19:00,366 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:19:00,366 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:19:00,366 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:19:00,366 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:19:00,366 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:19:00,366 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:19:00,366 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:19:00,366 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:20:00,910 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 17:20:00,910 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:20:00,942 [INFO] 5 File -  
+2013-03-19 17:20:00,942 [INFO] 5 File -  
+2013-03-19 17:20:00,942 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 17:20:00,942 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:20:00,942 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:20:01,160 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:20:01,160 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 17:20:01,160 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 17:20:01,160 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 17:20:01,160 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:20:01,160 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:20:01,160 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:20:01,160 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 17:20:01,160 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:21:01,877 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:21:01,877 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:21:01,924 [INFO] 1 File -  
+2013-03-19 17:21:01,924 [INFO] 1 File -  
+2013-03-19 17:21:01,924 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:21:01,924 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:21:01,924 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:21:02,112 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:21:02,112 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:21:02,112 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:21:02,112 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:21:02,112 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:21:02,112 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:21:02,112 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:21:02,112 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:21:02,112 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:22:02,782 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 17:22:02,782 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:22:02,813 [INFO] 7 File -  
+2013-03-19 17:22:02,813 [INFO] 7 File -  
+2013-03-19 17:22:02,813 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 17:22:02,813 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:22:02,813 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:22:03,032 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:22:03,032 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 17:22:03,047 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 17:22:03,047 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 17:22:03,047 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:22:03,047 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:22:03,047 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:22:03,047 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 17:22:03,047 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:23:03,498 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:23:03,498 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:23:03,530 [INFO] 1 File -  
+2013-03-19 17:23:03,530 [INFO] 1 File -  
+2013-03-19 17:23:03,530 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:23:03,530 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:23:03,530 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:23:03,670 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:23:03,670 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:23:03,686 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:23:03,686 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:23:03,686 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:23:03,686 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:23:03,686 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:23:03,686 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:23:03,686 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:24:04,106 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 17:24:04,106 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:24:04,137 [INFO] 6 File -  
+2013-03-19 17:24:04,137 [INFO] 6 File -  
+2013-03-19 17:24:04,137 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 17:24:04,137 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:24:04,137 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:24:04,278 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:24:04,278 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 17:24:04,278 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 17:24:04,278 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 17:24:04,278 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:24:04,278 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:24:04,278 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:24:04,278 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 17:24:04,278 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:25:04,776 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 17:25:04,776 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:25:04,807 [INFO] 6 File -  
+2013-03-19 17:25:04,807 [INFO] 6 File -  
+2013-03-19 17:25:04,807 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 17:25:04,807 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:25:04,807 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:25:04,979 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:25:04,979 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 17:25:04,979 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 17:25:04,979 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 17:25:04,979 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:25:04,979 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:25:04,979 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:25:04,979 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 17:25:04,979 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:26:05,399 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 17:26:05,399 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:26:05,430 [INFO] 5 File -  
+2013-03-19 17:26:05,430 [INFO] 5 File -  
+2013-03-19 17:26:05,430 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 17:26:05,430 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:26:05,430 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:26:05,555 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:26:05,555 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 17:26:05,555 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 17:26:05,555 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 17:26:05,555 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:26:05,555 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:26:05,555 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:26:05,555 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 17:26:05,555 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:27:06,053 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 17:27:06,053 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:27:06,100 [INFO] 7 File -  
+2013-03-19 17:27:06,100 [INFO] 7 File -  
+2013-03-19 17:27:06,100 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 17:27:06,100 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:27:06,100 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:27:06,287 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:27:06,287 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 17:27:06,287 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 17:27:06,287 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 17:27:06,287 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:27:06,287 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:27:06,287 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:27:06,287 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 17:27:06,287 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:28:06,786 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:28:06,786 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:28:06,832 [INFO] 1 File -  
+2013-03-19 17:28:06,832 [INFO] 1 File -  
+2013-03-19 17:28:06,832 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:28:06,832 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:28:06,832 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:28:07,004 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:28:07,004 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:28:07,004 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:28:07,004 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:28:07,004 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:28:07,004 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:28:07,004 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:28:07,004 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:28:07,004 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:29:07,502 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 17:29:07,502 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:29:07,549 [INFO] 6 File -  
+2013-03-19 17:29:07,549 [INFO] 6 File -  
+2013-03-19 17:29:07,549 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 17:29:07,549 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:29:07,549 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:29:07,705 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:29:07,705 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 17:29:07,721 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 17:29:07,721 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 17:29:07,721 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:29:07,721 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:29:07,721 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:29:07,721 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 17:29:07,721 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:30:08,250 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 17:30:08,250 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:30:08,297 [INFO] 6 File -  
+2013-03-19 17:30:08,297 [INFO] 6 File -  
+2013-03-19 17:30:08,297 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 17:30:08,297 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:30:08,297 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:30:08,422 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:30:08,422 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 17:30:08,422 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 17:30:08,422 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 17:30:08,422 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:30:08,422 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:30:08,422 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:30:08,422 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 17:30:08,422 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:31:08,967 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 17:31:08,967 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:31:08,998 [INFO] 6 File -  
+2013-03-19 17:31:08,998 [INFO] 6 File -  
+2013-03-19 17:31:08,998 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 17:31:08,998 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:31:08,998 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:31:09,248 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:31:09,248 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 17:31:09,248 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 17:31:09,248 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 17:31:09,248 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:31:09,248 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:31:09,248 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:31:09,248 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 17:31:09,248 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:32:09,793 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:32:09,793 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:32:09,825 [INFO] 1 File -  
+2013-03-19 17:32:09,825 [INFO] 1 File -  
+2013-03-19 17:32:09,825 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:32:09,825 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:32:09,825 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:32:09,965 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:32:09,965 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:32:09,981 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:32:09,981 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:32:09,981 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:32:09,981 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:32:09,981 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:32:09,981 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:32:09,981 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:33:10,432 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:33:10,432 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:33:10,463 [INFO] 1 File -  
+2013-03-19 17:33:10,463 [INFO] 1 File -  
+2013-03-19 17:33:10,463 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:33:10,463 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:33:10,463 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:33:10,682 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:33:10,682 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:33:10,698 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:33:10,698 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:33:10,698 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:33:10,698 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:33:10,698 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:33:10,698 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:33:10,698 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:34:11,118 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 17:34:11,118 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:34:11,149 [INFO] 6 File -  
+2013-03-19 17:34:11,149 [INFO] 6 File -  
+2013-03-19 17:34:11,149 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 17:34:11,149 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:34:11,149 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:34:11,586 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:34:11,586 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 17:34:11,586 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 17:34:11,586 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 17:34:11,586 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:34:11,586 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:34:11,586 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:34:11,586 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 17:34:11,586 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:35:12,131 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:35:12,131 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:35:12,194 [INFO] 1 File -  
+2013-03-19 17:35:12,194 [INFO] 1 File -  
+2013-03-19 17:35:12,194 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:35:12,194 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:35:12,194 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:35:12,397 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:35:12,397 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:35:12,413 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:35:12,413 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:35:12,413 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:35:12,413 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:35:12,413 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:35:12,413 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:35:12,413 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:36:12,926 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 17:36:12,926 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:36:12,957 [INFO] 5 File -  
+2013-03-19 17:36:12,957 [INFO] 5 File -  
+2013-03-19 17:36:12,957 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 17:36:12,957 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:36:12,957 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:36:13,145 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:36:13,145 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 17:36:13,145 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 17:36:13,145 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 17:36:13,145 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:36:13,145 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:36:13,145 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:36:13,145 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 17:36:13,145 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:37:13,534 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:37:13,534 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:37:13,565 [INFO] 1 File -  
+2013-03-19 17:37:13,565 [INFO] 1 File -  
+2013-03-19 17:37:13,565 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:37:13,565 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:37:13,565 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:37:13,846 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:37:13,846 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:37:13,846 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:37:13,846 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:37:13,846 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:37:13,846 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:37:13,846 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:37:13,846 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:37:13,846 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:38:14,219 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:38:14,219 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:38:14,250 [INFO] 1 File -  
+2013-03-19 17:38:14,250 [INFO] 1 File -  
+2013-03-19 17:38:14,250 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:38:14,250 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:38:14,250 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:38:14,422 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:38:14,422 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:38:14,422 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:38:14,422 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:38:14,422 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:38:14,422 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:38:14,422 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:38:14,422 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:38:14,422 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:39:14,827 [DEBUG] 6 File - -----------------------------------------------
+2013-03-19 17:39:14,827 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:39:14,842 [INFO] 6 File -  
+2013-03-19 17:39:14,842 [INFO] 6 File -  
+2013-03-19 17:39:14,842 [INFO] 6 File - ------ 3G Charging ---------
+2013-03-19 17:39:14,842 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:39:14,842 [INFO] 6 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:39:15,217 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:39:15,217 [DEBUG] 6 Vietnamobile - ----1---
+2013-03-19 17:39:15,233 [DEBUG] 6 Vietnamobile - --------------------------------------------------
+2013-03-19 17:39:15,233 [DEBUG] 6 Vietnamobile - MSISDN:Khách
+2013-03-19 17:39:15,233 [DEBUG] 6 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:39:15,233 [DEBUG] 6 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:39:15,233 [DEBUG] 6 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:39:15,233 [DEBUG] 6 Vietnamobile - Error:-1
+2013-03-19 17:39:15,233 [DEBUG] 6 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:40:15,637 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 17:40:15,637 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:40:15,668 [INFO] 7 File -  
+2013-03-19 17:40:15,668 [INFO] 7 File -  
+2013-03-19 17:40:15,668 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 17:40:15,668 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:40:15,668 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:40:15,825 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:40:15,840 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 17:40:15,840 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 17:40:15,840 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 17:40:15,840 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:40:15,840 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:40:15,840 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:40:15,840 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 17:40:15,840 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:41:16,245 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 17:41:16,245 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:41:16,260 [INFO] 7 File -  
+2013-03-19 17:41:16,260 [INFO] 7 File -  
+2013-03-19 17:41:16,260 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 17:41:16,260 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:41:16,260 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:41:16,448 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:41:16,448 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 17:41:16,463 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 17:41:16,463 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 17:41:16,463 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:41:16,463 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:41:16,463 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:41:16,463 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 17:41:16,463 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:42:16,899 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:42:16,899 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:42:16,930 [INFO] 1 File -  
+2013-03-19 17:42:16,930 [INFO] 1 File -  
+2013-03-19 17:42:16,930 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:42:16,930 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:42:16,930 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:42:17,133 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:42:17,133 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:42:17,149 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:42:17,149 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:42:17,149 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:42:17,149 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:42:17,149 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:42:17,149 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:42:17,149 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:43:17,539 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 17:43:17,539 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:43:17,571 [INFO] 5 File -  
+2013-03-19 17:43:17,571 [INFO] 5 File -  
+2013-03-19 17:43:17,571 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 17:43:17,571 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:43:17,571 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:43:17,727 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:43:17,727 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 17:43:17,727 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 17:43:17,727 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 17:43:17,727 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:43:17,727 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:43:17,727 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:43:17,727 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 17:43:17,727 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:44:18,156 [DEBUG] 7 File - -----------------------------------------------
+2013-03-19 17:44:18,156 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:44:18,187 [INFO] 7 File -  
+2013-03-19 17:44:18,187 [INFO] 7 File -  
+2013-03-19 17:44:18,187 [INFO] 7 File - ------ 3G Charging ---------
+2013-03-19 17:44:18,187 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:44:18,187 [INFO] 7 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:44:18,375 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:44:18,375 [DEBUG] 7 Vietnamobile - ----1---
+2013-03-19 17:44:18,390 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-03-19 17:44:18,390 [DEBUG] 7 Vietnamobile - MSISDN:Khách
+2013-03-19 17:44:18,390 [DEBUG] 7 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:44:18,390 [DEBUG] 7 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:44:18,390 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:44:18,390 [DEBUG] 7 Vietnamobile - Error:-1
+2013-03-19 17:44:18,390 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:45:18,850 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:45:18,850 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:45:18,881 [INFO] 1 File -  
+2013-03-19 17:45:18,881 [INFO] 1 File -  
+2013-03-19 17:45:18,881 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:45:18,881 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:45:18,881 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:45:19,007 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:45:19,007 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:45:19,007 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:45:19,007 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:45:19,007 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:45:19,007 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:45:19,007 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:45:19,007 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:45:19,007 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:46:19,451 [DEBUG] 1 File - -----------------------------------------------
+2013-03-19 17:46:19,451 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:46:19,482 [INFO] 1 File -  
+2013-03-19 17:46:19,482 [INFO] 1 File -  
+2013-03-19 17:46:19,482 [INFO] 1 File - ------ 3G Charging ---------
+2013-03-19 17:46:19,482 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:46:19,482 [INFO] 1 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:46:19,638 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:46:19,638 [DEBUG] 1 Vietnamobile - ----1---
+2013-03-19 17:46:19,654 [DEBUG] 1 Vietnamobile - --------------------------------------------------
+2013-03-19 17:46:19,654 [DEBUG] 1 Vietnamobile - MSISDN:Khách
+2013-03-19 17:46:19,654 [DEBUG] 1 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:46:19,654 [DEBUG] 1 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:46:19,654 [DEBUG] 1 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:46:19,654 [DEBUG] 1 Vietnamobile - Error:-1
+2013-03-19 17:46:19,654 [DEBUG] 1 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:47:20,052 [DEBUG] 5 File - -----------------------------------------------
+2013-03-19 17:47:20,052 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-03-19 17:47:20,083 [INFO] 5 File -  
+2013-03-19 17:47:20,083 [INFO] 5 File -  
+2013-03-19 17:47:20,083 [INFO] 5 File - ------ 3G Charging ---------
+2013-03-19 17:47:20,083 [INFO] 5 File - 3G Begin Charging Request: userID:Khách; serviceID:2000
+2013-03-19 17:47:20,083 [INFO] 5 File - 3G Call Deduct method: Khách | 2000 | VMGViSport | v@#port | 1930 | Tuong thuat Bong Da : MatchId =1293979
+2013-03-19 17:47:20,255 [INFO] 5 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-03-19 17:47:20,255 [DEBUG] 5 Vietnamobile - ----1---
+2013-03-19 17:47:20,255 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-03-19 17:47:20,255 [DEBUG] 5 Vietnamobile - MSISDN:Khách
+2013-03-19 17:47:20,255 [DEBUG] 5 Vietnamobile - Dich vu: Xem tuong thuat tran dau - parameter: 2000 - Tran: Tottenham HotspurvsFulham - id: 1293979
+2013-03-19 17:47:20,255 [DEBUG] 5 Vietnamobile - Tuong thuat Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979
+2013-03-19 17:47:20,255 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-03-19 17:47:20,255 [DEBUG] 5 Vietnamobile - Error:-1
+2013-03-19 17:47:20,255 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tuongthuat&w=320&id=1293979

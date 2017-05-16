@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="SendTransactionInfo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="TransactionID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="MSISDN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ItemID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ItemDetail" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ItemType" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Price" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="callbackUrl" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SendTransactionInfoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SendTransactionInfoResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AuthSoapHd" type="tns:AuthSoapHd" />
+      <s:complexType name="AuthSoapHd">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="strUserName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="strPassword" type="s:string" />
+        </s:sequence>
+        <s:anyAttribute />
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="SendTransactionInfoSoapIn">
+    <wsdl:part name="parameters" element="tns:SendTransactionInfo" />
+  </wsdl:message>
+  <wsdl:message name="SendTransactionInfoSoapOut">
+    <wsdl:part name="parameters" element="tns:SendTransactionInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="SendTransactionInfoAuthSoapHd">
+    <wsdl:part name="AuthSoapHd" element="tns:AuthSoapHd" />
+  </wsdl:message>
+  <wsdl:portType name="srtiSoap">
+    <wsdl:operation name="SendTransactionInfo">
+      <wsdl:input message="tns:SendTransactionInfoSoapIn" />
+      <wsdl:output message="tns:SendTransactionInfoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="srtiSoap" type="tns:srtiSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SendTransactionInfo">
+      <soap:operation soapAction="http://tempuri.org/SendTransactionInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:SendTransactionInfoAuthSoapHd" part="AuthSoapHd" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="srtiSoap12" type="tns:srtiSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SendTransactionInfo">
+      <soap12:operation soapAction="http://tempuri.org/SendTransactionInfo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:SendTransactionInfoAuthSoapHd" part="AuthSoapHd" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="srti">
+    <wsdl:port name="srtiSoap" binding="tns:srtiSoap">
+      <soap:address location="http://payment.xzone.vn/srti.asmx" />
+    </wsdl:port>
+    <wsdl:port name="srtiSoap12" binding="tns:srtiSoap12">
+      <soap12:address location="http://payment.xzone.vn/srti.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

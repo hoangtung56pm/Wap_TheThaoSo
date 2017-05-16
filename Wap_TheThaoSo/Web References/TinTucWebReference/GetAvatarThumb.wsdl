@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetAvatar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="avatarPath" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="width" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="height" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAvatarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAvatarResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAvatarByCrop">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="avatarPath" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="width" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="height" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAvatarByCropResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAvatarByCropResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAvatarNotByCrop">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="avatarPath" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="width" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="height" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAvatarNotByCropResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAvatarNotByCropResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAvatarWithTextWaterMark">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="avatarPath" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strText" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="font" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="fontSize" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="fontBold" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="floatx" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="isOverwrite" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAvatarWithTextWaterMarkResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAvatarWithTextWaterMarkResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAvatarGif">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="avatarPath" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="width" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="height" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAvatarGifResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAvatarGifResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAvatarGifWithTextWaterMark">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="avatarPath" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="width" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="height" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="strText" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="font" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="fontSize" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="fontBold" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="floatx" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="floaty" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="duration" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAvatarGifWithTextWaterMarkResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAvatarGifWithTextWaterMarkResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAvatarWithTextWaterMarkWithResize">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="avatarPath" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strText" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="font" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="fontSize" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="fontBold" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="floatx" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="isOverwrite" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="width" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAvatarWithTextWaterMarkWithResizeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAvatarWithTextWaterMarkWithResizeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetAvatarSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAvatar" />
+  </wsdl:message>
+  <wsdl:message name="GetAvatarSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAvatarResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAvatarByCropSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAvatarByCrop" />
+  </wsdl:message>
+  <wsdl:message name="GetAvatarByCropSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAvatarByCropResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAvatarNotByCropSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAvatarNotByCrop" />
+  </wsdl:message>
+  <wsdl:message name="GetAvatarNotByCropSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAvatarNotByCropResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAvatarWithTextWaterMarkSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAvatarWithTextWaterMark" />
+  </wsdl:message>
+  <wsdl:message name="GetAvatarWithTextWaterMarkSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAvatarWithTextWaterMarkResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAvatarGifSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAvatarGif" />
+  </wsdl:message>
+  <wsdl:message name="GetAvatarGifSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAvatarGifResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAvatarGifWithTextWaterMarkSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAvatarGifWithTextWaterMark" />
+  </wsdl:message>
+  <wsdl:message name="GetAvatarGifWithTextWaterMarkSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAvatarGifWithTextWaterMarkResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAvatarWithTextWaterMarkWithResizeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAvatarWithTextWaterMarkWithResize" />
+  </wsdl:message>
+  <wsdl:message name="GetAvatarWithTextWaterMarkWithResizeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAvatarWithTextWaterMarkWithResizeResponse" />
+  </wsdl:message>
+  <wsdl:portType name="GetAvatarThumbSoap">
+    <wsdl:operation name="GetAvatar">
+      <wsdl:input message="tns:GetAvatarSoapIn" />
+      <wsdl:output message="tns:GetAvatarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarByCrop">
+      <wsdl:input message="tns:GetAvatarByCropSoapIn" />
+      <wsdl:output message="tns:GetAvatarByCropSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarNotByCrop">
+      <wsdl:input message="tns:GetAvatarNotByCropSoapIn" />
+      <wsdl:output message="tns:GetAvatarNotByCropSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarWithTextWaterMark">
+      <wsdl:input message="tns:GetAvatarWithTextWaterMarkSoapIn" />
+      <wsdl:output message="tns:GetAvatarWithTextWaterMarkSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarGif">
+      <wsdl:input message="tns:GetAvatarGifSoapIn" />
+      <wsdl:output message="tns:GetAvatarGifSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarGifWithTextWaterMark">
+      <wsdl:input message="tns:GetAvatarGifWithTextWaterMarkSoapIn" />
+      <wsdl:output message="tns:GetAvatarGifWithTextWaterMarkSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarWithTextWaterMarkWithResize">
+      <wsdl:input message="tns:GetAvatarWithTextWaterMarkWithResizeSoapIn" />
+      <wsdl:output message="tns:GetAvatarWithTextWaterMarkWithResizeSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="GetAvatarThumbSoap" type="tns:GetAvatarThumbSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetAvatar">
+      <soap:operation soapAction="http://tempuri.org/GetAvatar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarByCrop">
+      <soap:operation soapAction="http://tempuri.org/GetAvatarByCrop" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarNotByCrop">
+      <soap:operation soapAction="http://tempuri.org/GetAvatarNotByCrop" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarWithTextWaterMark">
+      <soap:operation soapAction="http://tempuri.org/GetAvatarWithTextWaterMark" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarGif">
+      <soap:operation soapAction="http://tempuri.org/GetAvatarGif" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarGifWithTextWaterMark">
+      <soap:operation soapAction="http://tempuri.org/GetAvatarGifWithTextWaterMark" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarWithTextWaterMarkWithResize">
+      <soap:operation soapAction="http://tempuri.org/GetAvatarWithTextWaterMarkWithResize" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="GetAvatarThumbSoap12" type="tns:GetAvatarThumbSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetAvatar">
+      <soap12:operation soapAction="http://tempuri.org/GetAvatar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarByCrop">
+      <soap12:operation soapAction="http://tempuri.org/GetAvatarByCrop" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarNotByCrop">
+      <soap12:operation soapAction="http://tempuri.org/GetAvatarNotByCrop" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarWithTextWaterMark">
+      <soap12:operation soapAction="http://tempuri.org/GetAvatarWithTextWaterMark" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarGif">
+      <soap12:operation soapAction="http://tempuri.org/GetAvatarGif" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarGifWithTextWaterMark">
+      <soap12:operation soapAction="http://tempuri.org/GetAvatarGifWithTextWaterMark" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAvatarWithTextWaterMarkWithResize">
+      <soap12:operation soapAction="http://tempuri.org/GetAvatarWithTextWaterMarkWithResize" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="GetAvatarThumb">
+    <wsdl:port name="GetAvatarThumbSoap" binding="tns:GetAvatarThumbSoap">
+      <soap:address location="http://123.29.68.131:8009/GetAvatarThumb.asmx" />
+    </wsdl:port>
+    <wsdl:port name="GetAvatarThumbSoap12" binding="tns:GetAvatarThumbSoap12">
+      <soap12:address location="http://123.29.68.131:8009/GetAvatarThumb.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

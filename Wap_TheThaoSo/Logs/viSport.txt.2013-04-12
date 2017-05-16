@@ -1,0 +1,156 @@
+2013-04-12 13:54:11,481 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 13:54:11,497 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 13:54:34,262 [DEBUG] 6 File - -----------------------------------------------
+2013-04-12 13:54:34,262 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 13:54:47,636 [DEBUG] 7 File - -----------------------------------------------
+2013-04-12 13:54:47,636 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 13:54:47,667 [INFO] 7 File -  
+2013-04-12 13:54:47,667 [INFO] 7 File -  
+2013-04-12 13:54:47,667 [INFO] 7 File - ------ 3G Charging ---------
+2013-04-12 13:54:47,667 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:5000
+2013-04-12 13:54:47,949 [INFO] 7 File - 3G Call Deduct method: Khách | 5000 | VMGViSport | v@#port | 1930 | Tu Van Bong Da : Id =4B4619C7-531B-4856-ABA5-A38593CBCFC9
+2013-04-12 13:54:48,277 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-04-12 13:54:48,277 [DEBUG] 7 Vietnamobile - ----1---
+2013-04-12 13:57:30,803 [DEBUG] 7 File - -----------------------------------------------
+2013-04-12 13:57:30,803 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 13:57:30,959 [INFO] 7 File -  
+2013-04-12 13:57:30,959 [INFO] 7 File -  
+2013-04-12 13:57:30,959 [INFO] 7 File - ------ 3G Charging ---------
+2013-04-12 13:57:30,959 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:5000
+2013-04-12 13:57:30,959 [INFO] 7 File - 3G Call Deduct method: Khách | 5000 | VMGViSport | v@#port | 1930 | Tu Van Bong Da : Id =4B4619C7-531B-4856-ABA5-A38593CBCFC9
+2013-04-12 13:57:31,256 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-04-12 13:57:31,256 [DEBUG] 7 Vietnamobile - ----1---
+2013-04-12 13:58:53,581 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 13:58:53,597 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 13:59:53,017 [DEBUG] 7 File - -----------------------------------------------
+2013-04-12 13:59:53,017 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 13:59:57,970 [DEBUG] 10 File - -----------------------------------------------
+2013-04-12 13:59:57,970 [DEBUG] 10 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:00:08,720 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:00:08,720 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:00:08,720 [INFO] 1 File -  
+2013-04-12 14:00:08,720 [INFO] 1 File -  
+2013-04-12 14:00:08,720 [INFO] 1 File - ------ 3G Charging ---------
+2013-04-12 14:00:08,720 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:5000
+2013-04-12 14:00:08,970 [INFO] 1 File - 3G Call Deduct method: Khách | 5000 | VMGViSport | v@#port | 1930 | Tu Van Bong Da : Id =4B4619C7-531B-4856-ABA5-A38593CBCFC9
+2013-04-12 14:00:09,173 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-04-12 14:00:09,173 [DEBUG] 1 Vietnamobile - ----1---
+2013-04-12 14:00:50,140 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:00:50,140 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:00:52,687 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:00:52,687 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:00:57,640 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:00:57,640 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:01:00,765 [DEBUG] 7 File - -----------------------------------------------
+2013-04-12 14:01:00,765 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:01:05,030 [DEBUG] 7 File - -----------------------------------------------
+2013-04-12 14:01:05,030 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:01:05,030 [INFO] 7 File -  
+2013-04-12 14:01:05,030 [INFO] 7 File -  
+2013-04-12 14:01:05,030 [INFO] 7 File - ------ 3G Charging ---------
+2013-04-12 14:01:05,030 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:5000
+2013-04-12 14:01:05,280 [INFO] 7 File - 3G Call Deduct method: Khách | 5000 | VMGViSport | v@#port | 1930 | Tu Van Bong Da : Id =4B4619C7-531B-4856-ABA5-A38593CBCFC9
+2013-04-12 14:01:05,515 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-04-12 14:01:05,515 [DEBUG] 7 Vietnamobile - ----1---
+2013-04-12 14:01:27,873 [DEBUG] 7 File - -----------------------------------------------
+2013-04-12 14:01:27,873 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:01:27,873 [INFO] 7 File -  
+2013-04-12 14:01:27,873 [INFO] 7 File -  
+2013-04-12 14:01:27,873 [INFO] 7 File - ------ 3G Charging ---------
+2013-04-12 14:01:27,873 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:5000
+2013-04-12 14:01:27,873 [INFO] 7 File - 3G Call Deduct method: Khách | 5000 | VMGViSport | v@#port | 1930 | Tu Van Bong Da : Id =4B4619C7-531B-4856-ABA5-A38593CBCFC9
+2013-04-12 14:01:28,201 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-04-12 14:01:28,201 [DEBUG] 7 Vietnamobile - ----1---
+2013-04-12 14:02:53,464 [DEBUG] 7 File - -----------------------------------------------
+2013-04-12 14:02:53,464 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:02:59,792 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:02:59,792 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:03:02,448 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:03:02,448 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:03:39,088 [INFO] 1 File -  
+2013-04-12 14:03:39,088 [INFO] 1 File -  
+2013-04-12 14:03:39,088 [INFO] 1 File - ------ 3G Charging ---------
+2013-04-12 14:03:39,088 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:5000
+2013-04-12 14:03:39,088 [INFO] 1 File - 3G Call Deduct method: Khách | 5000 | VMGViSport | v@#port | 1930 | Tu Van Bong Da : Id =4B4619C7-531B-4856-ABA5-A38593CBCFC9
+2013-04-12 14:03:39,369 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-04-12 14:03:39,369 [DEBUG] 1 Vietnamobile - ----1---
+2013-04-12 14:03:51,948 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:03:51,948 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:04:37,653 [INFO] 1 File -  
+2013-04-12 14:04:37,653 [INFO] 1 File -  
+2013-04-12 14:04:37,653 [INFO] 1 File - ------ 3G Charging ---------
+2013-04-12 14:04:37,653 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:5000
+2013-04-12 14:04:37,653 [INFO] 1 File - 3G Call Deduct method: Khách | 5000 | VMGViSport | v@#port | 1930 | Tu Van Bong Da : Id =4B4619C7-531B-4856-ABA5-A38593CBCFC9
+2013-04-12 14:04:37,950 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-04-12 14:04:37,950 [DEBUG] 1 Vietnamobile - ----1---
+2013-04-12 14:05:21,936 [DEBUG] 6 File - -----------------------------------------------
+2013-04-12 14:05:21,936 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:05:25,936 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:05:25,936 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:05:30,671 [DEBUG] 7 File - -----------------------------------------------
+2013-04-12 14:05:30,671 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:05:30,671 [INFO] 7 File -  
+2013-04-12 14:05:30,671 [INFO] 7 File -  
+2013-04-12 14:05:30,671 [INFO] 7 File - ------ 3G Charging ---------
+2013-04-12 14:05:30,671 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:5000
+2013-04-12 14:05:30,921 [INFO] 7 File - 3G Call Deduct method: Khách | 5000 | VMGViSport | v@#port | 1930 | Tu Van Bong Da : Id =4B4619C7-531B-4856-ABA5-A38593CBCFC9
+2013-04-12 14:05:31,171 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-04-12 14:05:31,171 [DEBUG] 7 Vietnamobile - ----1---
+2013-04-12 14:06:42,971 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:06:42,971 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:07:01,644 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:07:01,644 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:07:05,941 [DEBUG] 7 File - -----------------------------------------------
+2013-04-12 14:07:05,941 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:07:10,925 [DEBUG] 7 File - -----------------------------------------------
+2013-04-12 14:07:10,925 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:07:10,925 [INFO] 7 File -  
+2013-04-12 14:07:10,925 [INFO] 7 File -  
+2013-04-12 14:07:10,925 [INFO] 7 File - ------ 3G Charging ---------
+2013-04-12 14:07:10,925 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:5000
+2013-04-12 14:07:11,175 [INFO] 7 File - 3G Call Deduct method: Khách | 5000 | VMGViSport | v@#port | 1930 | Tu Van Bong Da : Id =4B4619C7-531B-4856-ABA5-A38593CBCFC9
+2013-04-12 14:07:11,410 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-04-12 14:07:11,410 [DEBUG] 7 Vietnamobile - ----1---
+2013-04-12 14:08:31,413 [DEBUG] 7 File - -----------------------------------------------
+2013-04-12 14:08:31,429 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:10:17,616 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:10:17,616 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:10:21,132 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:10:21,132 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:10:25,522 [DEBUG] 7 File - -----------------------------------------------
+2013-04-12 14:10:25,522 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:10:25,522 [INFO] 7 File -  
+2013-04-12 14:10:25,522 [INFO] 7 File -  
+2013-04-12 14:10:25,522 [INFO] 7 File - ------ 3G Charging ---------
+2013-04-12 14:10:25,522 [INFO] 7 File - 3G Begin Charging Request: userID:Khách; serviceID:5000
+2013-04-12 14:10:25,772 [INFO] 7 File - 3G Call Deduct method: Khách | 5000 | VMGViSport | v@#port | 1930 | Tu Van Bong Da : Id =4B4619C7-531B-4856-ABA5-A38593CBCFC9
+2013-04-12 14:10:26,210 [INFO] 7 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-04-12 14:10:26,210 [DEBUG] 7 Vietnamobile - ----1---
+2013-04-12 14:10:27,976 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:10:27,976 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:10:42,022 [DEBUG] 6 File - -----------------------------------------------
+2013-04-12 14:10:42,022 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:10:45,194 [DEBUG] 6 File - -----------------------------------------------
+2013-04-12 14:10:45,194 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:10:46,475 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:10:46,475 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:10:46,475 [INFO] 1 File -  
+2013-04-12 14:10:46,475 [INFO] 1 File -  
+2013-04-12 14:10:46,475 [INFO] 1 File - ------ 3G Charging ---------
+2013-04-12 14:10:46,475 [INFO] 1 File - 3G Begin Charging Request: userID:Khách; serviceID:5000
+2013-04-12 14:10:46,475 [INFO] 1 File - 3G Call Deduct method: Khách | 5000 | VMGViSport | v@#port | 1930 | Tu Van Bong Da : Id =4B4619C7-531B-4856-ABA5-A38593CBCFC9
+2013-04-12 14:10:46,694 [INFO] 1 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-04-12 14:10:46,694 [DEBUG] 1 Vietnamobile - ----1---
+2013-04-12 14:10:53,866 [DEBUG] 6 File - -----------------------------------------------
+2013-04-12 14:10:53,866 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:10:53,866 [INFO] 6 File -  
+2013-04-12 14:10:53,866 [INFO] 6 File -  
+2013-04-12 14:10:53,866 [INFO] 6 File - ------ 3G Charging ---------
+2013-04-12 14:10:53,866 [INFO] 6 File - 3G Begin Charging Request: userID:Khách; serviceID:5000
+2013-04-12 14:10:53,866 [INFO] 6 File - 3G Call Deduct method: Khách | 5000 | VMGViSport | v@#port | 1930 | Tu Van Bong Da : Id =4B4619C7-531B-4856-ABA5-A38593CBCFC9
+2013-04-12 14:10:54,132 [INFO] 6 File - 3G Ket qua tra ve: Result:16,Detail:Can not debit
+2013-04-12 14:10:54,132 [DEBUG] 6 Vietnamobile - ----1---
+2013-04-12 14:11:55,569 [DEBUG] 1 File - -----------------------------------------------
+2013-04-12 14:11:55,569 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-04-12 14:12:55,881 [DEBUG] 7 File - -----------------------------------------------
+2013-04-12 14:12:55,881 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0

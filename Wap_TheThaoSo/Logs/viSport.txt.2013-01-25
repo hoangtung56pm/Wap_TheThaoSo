@@ -1,0 +1,178 @@
+2013-01-25 09:09:24,062 [DEBUG] 8 File - -----------------------------------------------
+2013-01-25 09:09:24,078 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 09:38:51,490 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 09:38:51,505 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 10:08:59,067 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 10:08:59,082 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:22:59,684 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 11:22:59,700 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:29:23,840 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:29:23,840 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:29:44,668 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:29:44,668 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:31:57,572 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:31:57,572 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:32:45,024 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:32:45,024 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:32:59,133 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 11:32:59,133 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:33:08,461 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 11:33:08,461 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:33:22,039 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:33:22,039 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:33:22,086 [INFO] 5 File - ------ 3G Charging ---------
+2013-01-25 11:33:22,086 [INFO] 5 File - 3G Begin Charging Request: userID:84925555556; serviceID:2000; servicestate:D; cnttype:FB; path:Ty Le Bong Da : MatchId =1286235
+2013-01-25 11:33:22,383 [INFO] 5 File - 3G Call Deduct method: 84925555556 | 2000
+2013-01-25 11:34:07,928 [INFO] 5 File - 3G Ket qua tra ve: 
+2013-01-25 11:34:07,928 [DEBUG] 5 Vietnamobile - ----1---
+2013-01-25 11:34:08,131 [DEBUG] 5 Vietnamobile - --------------------------------------------------
+2013-01-25 11:34:08,131 [DEBUG] 5 Vietnamobile - MSISDN:84925555556
+2013-01-25 11:34:08,131 [DEBUG] 5 Vietnamobile - Dich vu: Xem ty le tran dau - parameter: 2000 - Tran: ValenciennesvsOlympique Lyonnais - id: 1286235
+2013-01-25 11:34:08,131 [DEBUG] 5 Vietnamobile - Ty le Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tyle&w=320&id=1286235
+2013-01-25 11:34:08,131 [DEBUG] 5 Vietnamobile - IP:127.0.0.1
+2013-01-25 11:34:08,131 [DEBUG] 5 Vietnamobile - Error:-1
+2013-01-25 11:34:08,131 [DEBUG] 5 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tyle&w=320&id=1286235
+2013-01-25 11:34:08,428 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:34:08,428 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:34:08,428 [INFO] 7 File - ------ 3G Charging ---------
+2013-01-25 11:34:08,428 [INFO] 7 File - 3G Begin Charging Request: userID:84925555556; serviceID:2000; servicestate:D; cnttype:FB; path:Ty Le Bong Da : MatchId =1357779
+2013-01-25 11:34:08,428 [INFO] 7 File - 3G Call Deduct method: 84925555556 | 2000
+2013-01-25 11:34:52,349 [INFO] 7 File - 3G Ket qua tra ve: 
+2013-01-25 11:34:52,349 [DEBUG] 7 Vietnamobile - ----1---
+2013-01-25 11:34:52,380 [DEBUG] 7 Vietnamobile - --------------------------------------------------
+2013-01-25 11:34:52,380 [DEBUG] 7 Vietnamobile - MSISDN:84925555556
+2013-01-25 11:34:52,380 [DEBUG] 7 Vietnamobile - Dich vu: Xem ty le tran dau - parameter: 2000 - Tran: CrotonevsSassuolo - id: 1357779
+2013-01-25 11:34:52,380 [DEBUG] 7 Vietnamobile - Ty le Url:http://localhost:8013//DuLieu/Default.aspx?lang=1&display=b-tyle&w=320&id=1357779
+2013-01-25 11:34:52,380 [DEBUG] 7 Vietnamobile - IP:127.0.0.1
+2013-01-25 11:34:52,380 [DEBUG] 7 Vietnamobile - Error:-1
+2013-01-25 11:34:52,380 [DEBUG] 7 Vietnamobile - Current Url:/DuLieu/Default.aspx?lang=1&display=b-tyle&w=320&id=1357779
+2013-01-25 11:34:52,474 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 11:34:52,474 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:34:56,130 [DEBUG] 6 File - -----------------------------------------------
+2013-01-25 11:34:56,130 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:35:00,083 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:35:00,083 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:35:05,505 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 11:35:05,505 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:35:10,302 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 11:35:10,302 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:35:10,302 [INFO] 1 File - ------ 3G Charging ---------
+2013-01-25 11:35:10,302 [INFO] 1 File - 3G Begin Charging Request: userID:84925555556; serviceID:2000; servicestate:D; cnttype:TT; path:Nhac Chuong : Id =6018
+2013-01-25 11:35:10,302 [INFO] 1 File - 3G Call Deduct method: 84925555556 | 2000
+2013-01-25 11:35:54,254 [INFO] 1 File - 3G Ket qua tra ve: 
+2013-01-25 11:35:54,254 [DEBUG] 1 Vietnamobile - ----1---
+2013-01-25 11:36:30,268 [DEBUG] 6 File - -----------------------------------------------
+2013-01-25 11:36:30,268 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:40:00,715 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 11:40:00,715 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:42:21,231 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:42:21,231 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:42:43,216 [DEBUG] 6 File - -----------------------------------------------
+2013-01-25 11:42:43,231 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:42:58,653 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:42:58,653 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:42:58,669 [INFO] 7 File - ------ 3G Charging ---------
+2013-01-25 11:42:58,669 [INFO] 7 File - 3G Begin Charging Request: userID:84925555556; serviceID:2000; servicestate:D; cnttype:TT; path:Nhac Chuong : Id =6018
+2013-01-25 11:42:58,919 [INFO] 7 File - 3G Call Deduct method: 84925555556 | 2000
+2013-01-25 11:43:46,200 [INFO] 7 File - 3G Ket qua tra ve: 
+2013-01-25 11:43:46,200 [DEBUG] 7 Vietnamobile - ----1---
+2013-01-25 11:43:46,513 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:43:46,513 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:43:46,669 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:43:46,669 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:44:20,326 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:44:20,341 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:44:24,419 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 11:44:24,419 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:44:53,357 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:44:53,357 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:45:59,325 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 11:45:59,325 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:46:09,200 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:46:09,200 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:46:31,606 [DEBUG] 6 File - -----------------------------------------------
+2013-01-25 11:46:31,606 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:46:52,902 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:46:52,902 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:47:24,230 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:47:24,230 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:47:47,886 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:47:47,886 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:47:50,979 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:47:50,979 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:49:35,524 [DEBUG] 6 File - -----------------------------------------------
+2013-01-25 11:49:35,524 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:49:46,946 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:49:46,946 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:49:50,086 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:49:50,086 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:50:26,992 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:50:26,992 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:50:47,195 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:50:47,195 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:50:52,429 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:50:52,429 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:51:54,162 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:51:54,162 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:52:00,552 [DEBUG] 6 File - -----------------------------------------------
+2013-01-25 11:52:00,552 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:52:08,505 [DEBUG] 6 File - -----------------------------------------------
+2013-01-25 11:52:08,505 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:52:23,567 [DEBUG] 6 File - -----------------------------------------------
+2013-01-25 11:52:23,567 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:52:24,614 [DEBUG] 6 File - -----------------------------------------------
+2013-01-25 11:52:24,614 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:52:37,723 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:52:37,723 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:52:39,629 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:52:39,629 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:52:48,129 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 11:52:48,129 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:53:05,800 [DEBUG] 6 File - -----------------------------------------------
+2013-01-25 11:53:05,800 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:53:17,534 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 11:53:17,534 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:53:19,113 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:53:19,113 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:53:21,128 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:53:21,128 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:53:22,425 [DEBUG] 6 File - -----------------------------------------------
+2013-01-25 11:53:22,425 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:53:24,941 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:53:24,941 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:53:32,565 [DEBUG] 6 File - -----------------------------------------------
+2013-01-25 11:53:32,565 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:53:34,393 [DEBUG] 6 File - -----------------------------------------------
+2013-01-25 11:53:34,393 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:54:34,611 [DEBUG] 5 File - -----------------------------------------------
+2013-01-25 11:54:34,611 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:55:35,656 [DEBUG] 6 File - -----------------------------------------------
+2013-01-25 11:55:35,656 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:55:46,406 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 11:55:46,406 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:55:47,796 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:55:47,796 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 11:55:50,015 [DEBUG] 7 File - -----------------------------------------------
+2013-01-25 11:55:50,015 [DEBUG] 7 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 12:25:52,599 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 12:25:52,615 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 12:56:01,387 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 12:56:01,403 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 13:26:10,270 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 13:26:10,285 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 13:56:16,278 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 13:56:16,278 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 14:26:25,002 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 14:26:25,017 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 14:56:30,882 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 14:56:30,882 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 15:26:43,345 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 15:26:43,361 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 15:56:55,496 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 15:56:55,511 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 16:27:01,750 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 16:27:01,766 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 16:57:10,880 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 16:57:10,895 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+2013-01-25 17:27:19,500 [DEBUG] 1 File - -----------------------------------------------
+2013-01-25 17:27:19,516 [DEBUG] 1 File - UserAgent:Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0

@@ -1,0 +1,388 @@
+2017-03-13 00:23:45,630 [DEBUG] 8 File - -----------------------------------------------
+2017-03-13 00:23:45,648 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 00:23:45,661 [DEBUG] 8 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 00:23:45,661 [DEBUG] 8 File - ::1
+2017-03-13 00:23:45,665 [DEBUG] 8 File - --------- ClientIP VIETTEL -------------
+2017-03-13 00:23:45,665 [DEBUG] 8 File - ::1
+2017-03-13 00:23:45,667 [DEBUG] 8 File - --------- ClientIP VNM -------------
+2017-03-13 00:23:45,667 [DEBUG] 8 File - ::1
+2017-03-13 00:53:51,582 [DEBUG] 8 File - -----------------------------------------------
+2017-03-13 00:53:51,600 [DEBUG] 8 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 00:53:51,613 [DEBUG] 8 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 00:53:51,613 [DEBUG] 8 File - ::1
+2017-03-13 00:53:51,618 [DEBUG] 8 File - --------- ClientIP VIETTEL -------------
+2017-03-13 00:53:51,618 [DEBUG] 8 File - ::1
+2017-03-13 00:53:51,620 [DEBUG] 8 File - --------- ClientIP VNM -------------
+2017-03-13 00:53:51,620 [DEBUG] 8 File - ::1
+2017-03-13 01:23:57,346 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 01:23:57,364 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 01:23:57,377 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 01:23:57,377 [DEBUG] 5 File - ::1
+2017-03-13 01:23:57,382 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 01:23:57,382 [DEBUG] 5 File - ::1
+2017-03-13 01:23:57,384 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 01:23:57,384 [DEBUG] 5 File - ::1
+2017-03-13 01:54:03,468 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 01:54:03,486 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 01:54:03,499 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 01:54:03,499 [DEBUG] 5 File - ::1
+2017-03-13 01:54:03,504 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 01:54:03,504 [DEBUG] 5 File - ::1
+2017-03-13 01:54:03,506 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 01:54:03,506 [DEBUG] 5 File - ::1
+2017-03-13 02:24:09,214 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 02:24:09,232 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 02:24:09,245 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 02:24:09,245 [DEBUG] 5 File - ::1
+2017-03-13 02:24:09,251 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 02:24:09,251 [DEBUG] 5 File - ::1
+2017-03-13 02:24:09,253 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 02:24:09,253 [DEBUG] 5 File - ::1
+2017-03-13 02:54:14,562 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 02:54:14,579 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 02:54:14,593 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 02:54:14,593 [DEBUG] 5 File - ::1
+2017-03-13 02:54:14,597 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 02:54:14,597 [DEBUG] 5 File - ::1
+2017-03-13 02:54:14,599 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 02:54:14,599 [DEBUG] 5 File - ::1
+2017-03-13 03:24:19,690 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 03:24:19,708 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 03:24:19,721 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 03:24:19,721 [DEBUG] 5 File - ::1
+2017-03-13 03:24:19,726 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 03:24:19,726 [DEBUG] 5 File - ::1
+2017-03-13 03:24:19,728 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 03:24:19,728 [DEBUG] 5 File - ::1
+2017-03-13 03:54:27,759 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 03:54:27,777 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 03:54:27,790 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 03:54:27,790 [DEBUG] 5 File - ::1
+2017-03-13 03:54:27,795 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 03:54:27,795 [DEBUG] 5 File - ::1
+2017-03-13 03:54:27,797 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 03:54:27,797 [DEBUG] 5 File - ::1
+2017-03-13 04:24:32,781 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 04:24:32,798 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 04:24:32,813 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 04:24:32,813 [DEBUG] 5 File - ::1
+2017-03-13 04:24:32,818 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 04:24:32,818 [DEBUG] 5 File - ::1
+2017-03-13 04:24:32,820 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 04:24:32,820 [DEBUG] 5 File - ::1
+2017-03-13 04:54:37,937 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 04:54:38,007 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 04:54:38,020 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 04:54:38,020 [DEBUG] 5 File - ::1
+2017-03-13 04:54:38,025 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 04:54:38,025 [DEBUG] 5 File - ::1
+2017-03-13 04:54:38,027 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 04:54:38,027 [DEBUG] 5 File - ::1
+2017-03-13 05:24:43,537 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 05:24:43,555 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 05:24:43,568 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 05:24:43,568 [DEBUG] 5 File - ::1
+2017-03-13 05:24:43,573 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 05:24:43,573 [DEBUG] 5 File - ::1
+2017-03-13 05:24:43,575 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 05:24:43,575 [DEBUG] 5 File - ::1
+2017-03-13 05:54:49,318 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 05:54:49,335 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 05:54:49,406 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 05:54:49,406 [DEBUG] 5 File - ::1
+2017-03-13 05:54:49,411 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 05:54:49,411 [DEBUG] 5 File - ::1
+2017-03-13 05:54:49,413 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 05:54:49,413 [DEBUG] 5 File - ::1
+2017-03-13 06:24:55,026 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 06:24:55,043 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 06:24:55,086 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 06:24:55,086 [DEBUG] 5 File - ::1
+2017-03-13 06:24:55,091 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 06:24:55,091 [DEBUG] 5 File - ::1
+2017-03-13 06:24:55,093 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 06:24:55,093 [DEBUG] 5 File - ::1
+2017-03-13 06:55:00,506 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 06:55:00,524 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 06:55:00,537 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 06:55:00,537 [DEBUG] 5 File - ::1
+2017-03-13 06:55:00,542 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 06:55:00,542 [DEBUG] 5 File - ::1
+2017-03-13 06:55:00,544 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 06:55:00,544 [DEBUG] 5 File - ::1
+2017-03-13 07:25:06,011 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 07:25:06,030 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 07:25:06,073 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 07:25:06,073 [DEBUG] 5 File - ::1
+2017-03-13 07:25:06,078 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 07:25:06,078 [DEBUG] 5 File - ::1
+2017-03-13 07:25:06,080 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 07:25:06,080 [DEBUG] 5 File - ::1
+2017-03-13 07:55:11,214 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 07:55:11,231 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 07:55:11,244 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 07:55:11,244 [DEBUG] 5 File - ::1
+2017-03-13 07:55:11,249 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 07:55:11,249 [DEBUG] 5 File - ::1
+2017-03-13 07:55:11,251 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 07:55:11,251 [DEBUG] 5 File - ::1
+2017-03-13 08:25:17,376 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 08:25:17,393 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 08:25:17,406 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 08:25:17,406 [DEBUG] 5 File - ::1
+2017-03-13 08:25:17,411 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 08:25:17,411 [DEBUG] 5 File - ::1
+2017-03-13 08:25:17,413 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 08:25:17,413 [DEBUG] 5 File - ::1
+2017-03-13 08:55:23,272 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 08:55:23,289 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 08:55:23,302 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 08:55:23,302 [DEBUG] 5 File - ::1
+2017-03-13 08:55:23,307 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 08:55:23,307 [DEBUG] 5 File - ::1
+2017-03-13 08:55:23,309 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 08:55:23,309 [DEBUG] 5 File - ::1
+2017-03-13 09:25:27,933 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 09:25:27,954 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 09:25:27,968 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 09:25:27,968 [DEBUG] 5 File - ::1
+2017-03-13 09:25:27,973 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 09:25:27,973 [DEBUG] 5 File - ::1
+2017-03-13 09:25:27,974 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 09:25:27,974 [DEBUG] 5 File - ::1
+2017-03-13 09:55:32,391 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 09:55:32,409 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 09:55:32,450 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 09:55:32,450 [DEBUG] 5 File - ::1
+2017-03-13 09:55:32,455 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 09:55:32,455 [DEBUG] 5 File - ::1
+2017-03-13 09:55:32,457 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 09:55:32,457 [DEBUG] 5 File - ::1
+2017-03-13 10:25:37,621 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 10:25:37,638 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 10:25:37,673 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 10:25:37,673 [DEBUG] 5 File - ::1
+2017-03-13 10:25:37,678 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 10:25:37,678 [DEBUG] 5 File - ::1
+2017-03-13 10:25:37,680 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 10:25:37,680 [DEBUG] 5 File - ::1
+2017-03-13 10:55:43,029 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 10:55:43,047 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 10:55:43,060 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 10:55:43,060 [DEBUG] 5 File - ::1
+2017-03-13 10:55:43,065 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 10:55:43,065 [DEBUG] 5 File - ::1
+2017-03-13 10:55:43,067 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 10:55:43,067 [DEBUG] 5 File - ::1
+2017-03-13 11:25:47,869 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 11:25:47,888 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 11:25:47,902 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 11:25:47,902 [DEBUG] 5 File - ::1
+2017-03-13 11:25:47,906 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 11:25:47,906 [DEBUG] 5 File - ::1
+2017-03-13 11:25:47,908 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 11:25:47,909 [DEBUG] 5 File - ::1
+2017-03-13 11:55:53,318 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 11:55:53,336 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 11:55:53,403 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 11:55:53,403 [DEBUG] 5 File - ::1
+2017-03-13 11:55:53,408 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 11:55:53,408 [DEBUG] 5 File - ::1
+2017-03-13 11:55:53,410 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 11:55:53,410 [DEBUG] 5 File - ::1
+2017-03-13 12:25:58,273 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 12:25:58,291 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 12:25:58,303 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 12:25:58,303 [DEBUG] 5 File - ::1
+2017-03-13 12:25:58,309 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 12:25:58,309 [DEBUG] 5 File - ::1
+2017-03-13 12:25:58,311 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 12:25:58,311 [DEBUG] 5 File - ::1
+2017-03-13 12:56:03,516 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 12:56:03,534 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 12:56:03,547 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 12:56:03,547 [DEBUG] 5 File - ::1
+2017-03-13 12:56:03,552 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 12:56:03,552 [DEBUG] 5 File - ::1
+2017-03-13 12:56:03,554 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 12:56:03,554 [DEBUG] 5 File - ::1
+2017-03-13 13:26:08,404 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 13:26:08,422 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 13:26:08,435 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 13:26:08,435 [DEBUG] 5 File - ::1
+2017-03-13 13:26:08,439 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 13:26:08,439 [DEBUG] 5 File - ::1
+2017-03-13 13:26:08,441 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 13:26:08,441 [DEBUG] 5 File - ::1
+2017-03-13 13:56:13,472 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 13:56:13,496 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 13:56:13,513 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 13:56:13,514 [DEBUG] 5 File - ::1
+2017-03-13 13:56:13,519 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 13:56:13,519 [DEBUG] 5 File - ::1
+2017-03-13 13:56:13,521 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 13:56:13,521 [DEBUG] 5 File - ::1
+2017-03-13 14:26:19,503 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 14:26:19,521 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 14:26:19,535 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 14:26:19,535 [DEBUG] 5 File - ::1
+2017-03-13 14:26:19,540 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 14:26:19,540 [DEBUG] 5 File - ::1
+2017-03-13 14:26:19,542 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 14:26:19,542 [DEBUG] 5 File - ::1
+2017-03-13 14:56:24,709 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 14:56:24,728 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 14:56:24,743 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 14:56:24,744 [DEBUG] 5 File - ::1
+2017-03-13 14:56:24,748 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 14:56:24,748 [DEBUG] 5 File - ::1
+2017-03-13 14:56:24,750 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 14:56:24,750 [DEBUG] 5 File - ::1
+2017-03-13 15:26:30,158 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 15:26:30,177 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 15:26:30,194 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 15:26:30,194 [DEBUG] 5 File - ::1
+2017-03-13 15:26:30,199 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 15:26:30,199 [DEBUG] 5 File - ::1
+2017-03-13 15:26:30,202 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 15:26:30,202 [DEBUG] 5 File - ::1
+2017-03-13 15:56:36,446 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 15:56:36,468 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 15:56:36,484 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 15:56:36,484 [DEBUG] 5 File - ::1
+2017-03-13 15:56:36,491 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 15:56:36,491 [DEBUG] 5 File - ::1
+2017-03-13 15:56:36,494 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 15:56:36,494 [DEBUG] 5 File - ::1
+2017-03-13 16:26:46,795 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 16:26:46,817 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 16:26:46,830 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 16:26:46,830 [DEBUG] 5 File - ::1
+2017-03-13 16:26:46,835 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 16:26:46,835 [DEBUG] 5 File - ::1
+2017-03-13 16:26:46,837 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 16:26:46,837 [DEBUG] 5 File - ::1
+2017-03-13 16:56:54,999 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 16:56:55,052 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 16:56:55,066 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 16:56:55,066 [DEBUG] 5 File - ::1
+2017-03-13 16:56:55,071 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 16:56:55,071 [DEBUG] 5 File - ::1
+2017-03-13 16:56:55,074 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 16:56:55,074 [DEBUG] 5 File - ::1
+2017-03-13 17:27:00,216 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 17:27:00,234 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 17:27:00,247 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 17:27:00,247 [DEBUG] 5 File - ::1
+2017-03-13 17:27:00,252 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 17:27:00,252 [DEBUG] 5 File - ::1
+2017-03-13 17:27:00,254 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 17:27:00,254 [DEBUG] 5 File - ::1
+2017-03-13 17:37:59,874 [DEBUG] 6 File - -----------------------------------------------
+2017-03-13 17:37:59,874 [DEBUG] 6 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 17:41:58,046 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 17:41:58,069 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 17:57:05,603 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 17:57:05,603 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 17:57:05,615 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 17:57:05,615 [DEBUG] 5 File - ::1
+2017-03-13 17:57:05,621 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 17:57:05,621 [DEBUG] 5 File - ::1
+2017-03-13 17:57:05,623 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 17:57:05,623 [DEBUG] 5 File - ::1
+2017-03-13 18:27:10,483 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 18:27:10,501 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 18:27:10,545 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 18:27:10,545 [DEBUG] 5 File - ::1
+2017-03-13 18:27:10,550 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 18:27:10,550 [DEBUG] 5 File - ::1
+2017-03-13 18:27:10,552 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 18:27:10,552 [DEBUG] 5 File - ::1
+2017-03-13 18:57:16,336 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 18:57:16,355 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 18:57:16,368 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 18:57:16,368 [DEBUG] 5 File - ::1
+2017-03-13 18:57:16,373 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 18:57:16,373 [DEBUG] 5 File - ::1
+2017-03-13 18:57:16,375 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 18:57:16,376 [DEBUG] 5 File - ::1
+2017-03-13 19:27:21,325 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 19:27:21,345 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 19:27:21,359 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 19:27:21,359 [DEBUG] 5 File - ::1
+2017-03-13 19:27:21,366 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 19:27:21,366 [DEBUG] 5 File - ::1
+2017-03-13 19:27:21,368 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 19:27:21,368 [DEBUG] 5 File - ::1
+2017-03-13 19:57:27,053 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 19:57:27,077 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 19:57:27,095 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 19:57:27,095 [DEBUG] 5 File - ::1
+2017-03-13 19:57:27,102 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 19:57:27,102 [DEBUG] 5 File - ::1
+2017-03-13 19:57:27,104 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 19:57:27,104 [DEBUG] 5 File - ::1
+2017-03-13 20:27:32,771 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 20:27:32,789 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 20:27:32,803 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 20:27:32,803 [DEBUG] 5 File - ::1
+2017-03-13 20:27:32,810 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 20:27:32,810 [DEBUG] 5 File - ::1
+2017-03-13 20:27:32,813 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 20:27:32,813 [DEBUG] 5 File - ::1
+2017-03-13 20:57:38,217 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 20:57:38,235 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 20:57:38,249 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 20:57:38,249 [DEBUG] 5 File - ::1
+2017-03-13 20:57:38,254 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 20:57:38,254 [DEBUG] 5 File - ::1
+2017-03-13 20:57:38,256 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 20:57:38,256 [DEBUG] 5 File - ::1
+2017-03-13 21:27:43,316 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 21:27:43,335 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 21:27:43,349 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 21:27:43,349 [DEBUG] 5 File - ::1
+2017-03-13 21:27:43,355 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 21:27:43,355 [DEBUG] 5 File - ::1
+2017-03-13 21:27:43,357 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 21:27:43,357 [DEBUG] 5 File - ::1
+2017-03-13 21:57:49,097 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 21:57:49,120 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 21:57:49,137 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 21:57:49,137 [DEBUG] 5 File - ::1
+2017-03-13 21:57:49,143 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 21:57:49,143 [DEBUG] 5 File - ::1
+2017-03-13 21:57:49,145 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 21:57:49,145 [DEBUG] 5 File - ::1
+2017-03-13 22:27:54,312 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 22:27:54,330 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 22:27:54,346 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 22:27:54,346 [DEBUG] 5 File - ::1
+2017-03-13 22:27:54,352 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 22:27:54,352 [DEBUG] 5 File - ::1
+2017-03-13 22:27:54,355 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 22:27:54,355 [DEBUG] 5 File - ::1
+2017-03-13 22:57:59,276 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 22:57:59,296 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 22:57:59,309 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 22:57:59,309 [DEBUG] 5 File - ::1
+2017-03-13 22:57:59,314 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 22:57:59,314 [DEBUG] 5 File - ::1
+2017-03-13 22:57:59,316 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 22:57:59,316 [DEBUG] 5 File - ::1
+2017-03-13 23:28:04,425 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 23:28:04,445 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 23:28:04,460 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 23:28:04,460 [DEBUG] 5 File - ::1
+2017-03-13 23:28:04,466 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 23:28:04,466 [DEBUG] 5 File - ::1
+2017-03-13 23:28:04,469 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 23:28:04,469 [DEBUG] 5 File - ::1
+2017-03-13 23:58:09,841 [DEBUG] 5 File - -----------------------------------------------
+2017-03-13 23:58:09,860 [DEBUG] 5 File - UserAgent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/60.4.136 Chrome/54.4.2840.136 Safari/537.36
+2017-03-13 23:58:09,873 [DEBUG] 5 File - --------- ClientIP VINAPHONE -------------
+2017-03-13 23:58:09,874 [DEBUG] 5 File - ::1
+2017-03-13 23:58:09,879 [DEBUG] 5 File - --------- ClientIP VIETTEL -------------
+2017-03-13 23:58:09,879 [DEBUG] 5 File - ::1
+2017-03-13 23:58:09,881 [DEBUG] 5 File - --------- ClientIP VNM -------------
+2017-03-13 23:58:09,881 [DEBUG] 5 File - ::1
